@@ -1,0 +1,184 @@
+CATEGORY: GRADE7-MATH
+TOPIC: RationalNumbers
+TOPIC_CODE: RationalNumbers
+
+1.	Convert <blockquote>0.38</blockquote> into a fraction in lowest terms.	
+Correct. a
+Rationale. empty
+
+a.	19 / 50
+b.	38 / 100
+c.	100 / 38
+d.  50 / 19
+
+2.	Convert <blockquote>0.6</blockquote> into a fraction in lowest terms.	
+Correct. a
+Rationale. empty
+
+a.	3 / 5
+b.	5 / 3
+c.	6 / 100
+d.  6 / 10
+
+3.	Convert <blockquote>0.26</blockquote> into a fraction in lowest terms.	
+Correct. b
+Rationale. empty
+
+a.	50 / 13
+b.	13 / 50
+c.	26 / 10
+d.  26 / 100
+
+4.	Convert <blockquote>0.68</blockquote> into a fraction in lowest terms.	
+Correct. b
+Rationale. empty
+
+a.	68 / 100
+b.	17 / 25
+c.	25 / 17
+d.  100 / 68
+
+5.	Convert <blockquote>0.40</blockquote> into a fraction in lowest terms.	
+Correct. b
+Rationale. empty
+
+a.	5 / 2
+b.	2 / 5
+c.	40 / 10
+d.  4 / 10
+
+6.	Convert <blockquote>0.13</blockquote> into a fraction in lowest terms.	
+Correct. c
+Rationale. empty
+
+a.	100 / 13
+b.	1 / 3
+c.	13 / 100
+d.  3 / 1
+
+7.	Convert <blockquote>0.9</blockquote> into a fraction in lowest terms.	
+Correct. c
+Rationale. empty
+
+a.	10 / 9
+b.	90 / 100
+c.	9 / 10
+d.  9 / 100
+
+8.	Convert <blockquote>0.5</blockquote> into a fraction in lowest terms.	
+Correct. c
+Rationale. empty
+
+a.	5 / 10
+b.	10 / 5
+c.	1 / 2
+d.  2 / 1
+
+9.	Convert <blockquote>1.96</blockquote> into a fraction in lowest terms.	
+Correct. d
+Rationale. empty
+
+a.	1 <sup1>25</sup1> / <sub1>24</sub1>
+b.	1 <sup1>96</sup1> / <sub1>10</sub1>
+c.	1 <sup1>96</sup1> / <sub1>100</sub1>
+d.  1 <sup1>24</sup1> / <sub1>25</sub1>
+
+10.	Convert <blockquote>1.22</blockquote> into a fraction in lowest terms.	
+Correct. d
+Rationale. empty
+
+a.	1 <sup1>11</sup1> / <sub1>100</sub1>
+b.	1 <sup1>22</sup1> / <sub1>10</sub1>
+c.	1 <sup1>22</sup1> / <sub1>50</sub1>
+d.  1 <sup1>11</sup1> / <sub1>50</sub1>
+
+11.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>5.933333333...</blockquote>
+Correct. a
+Rationale. empty
+
+a.	89/15
+b.	99/15
+c.	79/25
+d.  59/15
+
+12.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>0.503333333...</blockquote>	
+Correct. a
+Rationale. empty
+
+a.	151/300
+b.	100/503
+c.	503/100
+d.  141/300
+
+13.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>0.583333333...	</blockquote>
+Correct. b
+Rationale. empty
+
+a.	583/1000
+b.	7/12
+c.	100/503
+d.  7/22
+
+14.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>3.933333333...	</blockquote>
+Correct. b
+Rationale. empty
+
+a.	59/25
+b.	59/15
+c.	393/100
+d.  100/393
+
+15.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>0.981818181...	</blockquote>
+Correct. b
+Rationale. empty
+
+a.	981/1000
+b.	54/55
+c.	100/981
+d.  55/54
+
+16.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>0.343333333...	</blockquote>
+Correct. c
+Rationale. empty
+
+a.	300/103
+b.	343/1000
+c.	103/300
+d.  100/343
+
+17.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>1.436363636...	</blockquote>
+Correct. c
+Rationale. empty
+
+a.	143/100
+b.	100/143
+c.	79/55
+d.  97/55
+
+18.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>5.366666666...	</blockquote>
+Correct. c
+Rationale. empty
+
+a.	536/100
+b.	100/536
+c.	161/30
+d.  151/30
+
+19.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>1.381818181...	</blockquote>
+Correct. d
+Rationale. empty
+
+a.	138/100
+b.	100/138
+c.	55/78
+d.  76/55
+
+20.	Convert <code>repeating decimal</code> to <code>fraction form</code> <blockquote>4.666666666...	</blockquote>
+Correct. d
+Rationale. empty
+
+a.	3/14
+b.	466/100
+c.	100/466
+d.  14/3
+

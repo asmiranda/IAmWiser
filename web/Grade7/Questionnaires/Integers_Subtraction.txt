@@ -1,0 +1,185 @@
+CATEGORY: GRADE7-MATH
+TOPIC: Integers
+TOPIC_CODE: Integers
+
+1. Choose the correct answer for <blockquote>5 – (- 8)</blockquote>
+Correct.  a
+Rationale. empty
+
+a. 13
+b. -13
+c. -3
+d. 3
+
+2. Choose the correct answer for <blockquote>–7 – (+8)</blockquote>
+Correct.  b
+Rationale. empty
+
+a. 15
+b. –15
+c. 1
+d. -1
+
+3. Choose the correct answer for <blockquote>–9 – (+ 4)</blockquote>
+Correct.  c
+Rationale. empty
+
+a. 13 
+b. 5
+c. –13
+d. -5
+
+4. Choose the correct answer for <blockquote>9 – (-2)</blockquote>
+Correct.  b
+Rationale. empty
+
+a. -11
+b. 11
+c. 7
+d. -7
+
+5. Choose the correct answer for <blockquote>–1 – 6</blockquote>
+Correct.  a
+Rationale. empty
+
+a. –7
+b. -7
+c. 5
+d. -5
+
+6. Choose the correct answer for <blockquote>1 – (-9)</blockquote>
+Correct.  c
+Rationale. empty
+
+a. 8
+b. -10
+c. 10
+d. -8
+
+7. Choose the correct answer for <blockquote>–4 – 5</blockquote>
+Correct.  d
+Rationale. empty
+
+a. 9
+b. 5
+c. -5
+d. –9
+
+8. Choose the correct answer for <blockquote>3 – 10</blockquote>
+Correct.  c
+Rationale. empty
+
+a. 7
+b. 13
+c. –7
+d. -13
+
+9. Choose the correct answer for <blockquote>–8 – (-4)</blockquote>
+Correct.  a
+Rationale. empty
+
+a. –4
+b. 4
+c. 12
+d. -12
+
+10. Choose the correct answer for <blockquote>4 – 6</blockquote>
+Correct.  d
+Rationale. empty
+
+a. 2
+b. 10
+c. -10
+d. –2
+
+11. Choose the correct answer for <blockquote>8 – (-9)</blockquote>
+Correct.  b
+Rationale. empty
+
+a. -17
+b. 17
+c. 1
+d. -1
+
+12. Choose the correct answer for <blockquote>–10 – 10</blockquote>
+Correct.  c
+Rationale. empty
+
+a. 0
+b. 20
+c. –20
+d. 10
+
+13. Choose the correct answer for <blockquote>10 – (-10)</blockquote>
+Correct.  a
+Rationale. empty
+
+a. 20
+b. -20
+c. 10
+d. 0
+
+14. Choose the correct answer for <blockquote>10 – 10</blockquote>
+Correct.  a
+Rationale. empty
+
+a. 0
+b. 20
+c. -20
+d. 10
+
+15. Choose the correct answer for <blockquote>25 – (-15)</blockquote>
+Correct.  b
+Rationale. empty
+
+a. -40
+b. 40
+c. 10
+d. -10
+
+16. Choose the correct answer for <blockquote>–33 – (-49)</blockquote>
+Correct.  c
+Rationale. empty
+
+a. -16
+b. 82
+c. 16
+d. -82
+
+17. Choose the correct answer for <blockquote>8 – 7</blockquote>
+Correct.  c
+Rationale. empty
+
+a. -1
+b. 15
+c. 1
+d. -15
+
+18. Choose the correct answer for <blockquote>–6 – 8</blockquote>
+Correct.  b
+Rationale. empty
+
+a. 14
+b. –14
+c. -2
+d. 2
+
+19. Choose the correct answer for <blockquote>–3 – (-7)</blockquote>
+Correct.  a
+Rationale. empty
+
+a. 4
+b. -4
+c. 10
+d. -10
+
+20. Choose the correct answer for <blockquote>14 – (-6)</blockquote>
+Correct.  d
+Rationale. empty
+
+a. -20
+b. 8
+c. -8
+d. 20
+
+

@@ -1,0 +1,184 @@
+CATEGORY: GRADE7-MATH
+TOPIC: RationalNumbers
+TOPIC_CODE: RationalNumbers
+
+1.	Choose the <code>lowest terms</code> of <blockquote><sup1>2</sup1> / <sub1>4</sub1></blockquote>
+Correct. a
+Rationale. empty
+
+a.	<sup1>1</sup1> / <sub1>2</sub1>
+b.	<sup1>2</sup1> / <sub1>4</sub1>
+c.	<sup1>1</sup1> / <sub1>4</sub1>
+d.  <sup1>2</sup1> / <sub1>2</sub1>
+
+2. 	Choose the <code>lowest terms</code> of <blockquote><sup1>8</sup1> / <sub1>16</sub1></blockquote>
+Correct. a
+Rationale. empty
+
+a.	<sup1>1</sup1> / <sub1>2</sub1>
+b.	<sup1>8</sup1> / <sub1>16</sub1>
+c.	<sup1>8</sup1> / <sub1>8</sub1>
+d.  <sup1>16</sup1> / <sub1>16</sub1>
+
+3. 	Choose the <code>lowest terms</code> of <blockquote><sup1>5</sup1> / <sub1>15</sub1></blockquote>
+Correct. a
+Rationale. empty
+
+a.	<sup1>1</sup1> / <sub1>3</sub1>
+b.	<sup1>5</sup1> / <sub1>15</sub1>
+c.	<sup1>5</sup1> / <sub1>5</sub1>
+d.  <sup1>15</sup1> / <sub1>15</sub1>
+
+4. 	Choose the <code>lowest terms</code> of <blockquote><sup1>7</sup1> / <sub1>21</sub1></blockquote>
+Correct. a
+Rationale. empty
+
+a.	<sup1>1</sup1> / <sub1>3</sub1>
+b.	<sup1>7</sup1> / <sub1>21</sub1>
+c.	<sup1>7</sup1> / <sub1>7</sub1>
+d.  <sup1>21</sup1> / <sub1>21</sub1>
+
+5. 	Choose the <code>lowest terms</code> of <blockquote><sup1>6</sup1> / <sub1>42</sub1></blockquote>
+Correct. a
+Rationale. empty
+
+a.	<sup1>1</sup1> / <sub1>7</sub1>
+b.	<sup1>3</sup1> / <sub1>21</sub1>
+c.	<sup1>6</sup1> / <sub1>42</sub1>
+d.  <sup1>42</sup1> / <sub1>42</sub1>
+
+6. 	Choose the <code>lowest terms</code> of <blockquote><sup1>7</sup1> / <sub1>35</sub1></blockquote>
+Correct. b
+Rationale. empty
+
+a.	<sup1>7</sup1> / <sub1>35</sub1>
+b.	<sup1>1</sup1> / <sub1>5</sub1>
+c.	<sup1>7</sup1> / <sub1>7</sub1>
+d.  <sup1>35</sup1> / <sub1>35</sub1>
+
+7. 	Choose the <code>lowest terms</code> of <blockquote><sup1>3</sup1> / <sub1>18</sub1></blockquote>
+Correct. b
+Rationale. empty
+
+a.	<sup1>3</sup1> / <sub1>18</sub1>
+b.	<sup1>1</sup1> / <sub1>6</sub1>
+c.	<sup1>3</sup1> / <sub1>3</sub1>
+d.  <sup1>18</sup1> / <sub1>18</sub1>
+
+8. 	Choose the <code>lowest terms</code> of <blockquote><sup1>2</sup1> / <sub1>12</sub1></blockquote>
+Correct. b
+Rationale. empty
+
+a.	<sup1>2</sup1> / <sub1>12</sub1>
+b.	<sup1>1</sup1> / <sub1>6</sub1>
+c.	<sup1>12</sup1> / <sub1>12</sub1>
+d.  <sup1>2</sup1> / <sub1>2</sub1>
+
+9. 	Choose the <code>lowest terms</code> of <blockquote><sup1>8</sup1> / <sub1>48</sub1></blockquote>
+Correct. b
+Rationale. empty
+
+a.	<sup1>8</sup1> / <sub1>48</sub1>
+b.	<sup1>1</sup1> / <sub1>6</sub1>
+c.	<sup1>8</sup1> / <sub1>8</sub1>
+d.  <sup1>48</sup1> / <sub1>48</sub1>
+
+10. Choose the <code>lowest terms</code> of <blockquote><sup1>10</sup1> / <sub1>25</sub1></blockquote>
+Correct. b
+Rationale. empty
+
+a.	<sup1>10</sup1> / <sub1>25</sub1>
+b.	<sup1>2</sup1> / <sub1>5</sub1>
+c.	<sup1>25</sup1> / <sub1>25</sub1>
+d.  <sup1>10</sup1> / <sub1>19</sub1>
+
+11. Choose the <code>lowest terms</code> of <blockquote><sup1>18</sup1> / <sub1>24</sub1></blockquote>
+Correct. c
+Rationale. empty
+
+a.	<sup1>24</sup1> / <sub1>24</sub1>
+b.	<sup1>18</sup1> / <sub1>18</sub1>
+c.	<sup1>3</sup1> / <sub1>4</sub1>
+d.  <sup1>18</sup1> / <sub1>24</sub1>
+
+12. Choose the <code>lowest terms</code> of <blockquote><sup1>50</sup1> / <sub1>75</sub1></blockquote>
+Correct. c
+Rationale. empty
+
+a.	<sup1>75</sup1> / <sub1>75</sub1>
+b.	<sup1>50</sup1> / <sub1>75</sub1>
+c.	<sup1>2</sup1> / <sub1>3</sub1>
+d.  <sup1>10</sup1> / <sub1>15</sub1>
+
+13. Choose the <code>lowest terms</code> of <blockquote><sup1>32</sup1> / <sub1>48</sub1></blockquote>
+Correct. c
+Rationale. empty
+
+a.	<sup1>16</sup1> / <sub1>48</sub1>
+b.	<sup1>32</sup1> / <sub1>48</sub1>
+c.	<sup1>2</sup1> / <sub1>3</sub1>
+d.  <sup1>8</sup1> / <sub1>48</sub1>
+
+14. Choose the <code>lowest terms</code> of <blockquote><sup1>42</sup1> / <sub1>60</sub1></blockquote>
+Correct. c
+Rationale. empty
+
+a.	<sup1>14</sup1> / <sub1>20</sub1>
+b.	<sup1>42</sup1> / <sub1>60</sub1>
+c.	<sup1>7</sup1> / <sub1>10</sub1>
+d.  <sup1>42</sup1> / <sub1>42</sub1>
+
+15. Choose the <code>lowest terms</code> of <blockquote><sup1>27</sup1> / <sub1>81</sub1></blockquote>
+Correct. c
+Rationale. empty
+
+a.	<sup1>9</sup1> / <sub1>27</sub1>
+b.	<sup1>27</sup1> / <sub1>81</sub1>
+c.	<sup1>3</sup1> / <sub1>9</sub1>
+d.  <sup1>27</sup1> / <sub1>27</sub1>
+
+16. Choose the <code>lowest terms</code> of <blockquote><sup1>18</sup1> / <sub1>32</sub1></blockquote>
+Correct. d
+Rationale. empty
+
+a.	<sup1>18</sup1> / <sub1>18</sub1>
+b.	<sup1>18</sup1> / <sub1>32</sub1>
+c.  <sup1>9</sup1> / <sub1>16</sub1>
+d.	<sup1>3</sup1> / <sub1>8</sub1>
+
+17. Choose the <code>lowest terms</code> of <blockquote><sup1>56</sup1> / <sub1>64</sub1></blockquote>
+Correct. d
+Rationale. empty
+
+a.	<sup1>56</sup1> / <sub1>64</sub1>
+b.	<sup1>56</sup1> / <sub1>56</sub1>
+c.	<sup1>28</sup1> / <sub1>32</sub1>
+d.  <sup1>7</sup1> / <sub1>8</sub1>
+
+18. Choose the <code>lowest terms</code> of <blockquote><sup1>32</sup1> / <sub1>48</sub1></blockquote>
+Correct. d
+Rationale. empty
+
+a.	<sup1>32</sup1> / <sub1>48</sub1>
+b.	<sup1>32</sup1> / <sub1>32</sub1>
+c.	<sup1>4</sup1> / <sub1>6</sub1>
+d.  <sup1>2</sup1> / <sub1>3</sub1>
+
+19. Choose the <code>lowest terms</code> of <blockquote><sup1>8</sup1> / <sub1>20</sub1></blockquote>
+Correct. d
+Rationale. empty
+
+a.	<sup1>8</sup1> / <sub1>20</sub1>
+b.	<sup1>8</sup1> / <sub1>8</sub1>
+c.	<sup1>4</sup1> / <sub1>10</sub1>
+d.  <sup1>2</sup1> / <sub1>5</sub1>
+
+20. Choose the <code>lowest terms</code> of <blockquote><sup1>24</sup1> / <sub1>32</sub1></blockquote>
+Correct. d
+Rationale. empty
+
+a.	<sup1>24</sup1> / <sub1>32</sub1>
+b.	<sup1>24</sup1> / <sub1>24</sub1>
+c.	<sup1>12</sup1> / <sub1>16</sub1>
+d.  <sup1>3</sup1> / <sub1>4</sub1>
+

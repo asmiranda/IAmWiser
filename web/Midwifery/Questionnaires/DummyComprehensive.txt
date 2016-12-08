@@ -1,0 +1,13 @@
+CATEGORY: MIDWIFERY
+TOPIC: MIDWIFE-COMPREHENSIVE
+TOPIC_CODE: MIDWIFE-COMPREHENSIVE
+
+1.	Sample
+Correct. b
+Rationale. empty
+
+a.	Sample 1
+b.	Sample 2
+c.	Sample 3
+d.  Sample 4
+

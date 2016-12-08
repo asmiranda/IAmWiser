@@ -1,0 +1,822 @@
+<html><head>
+	<link rel="stylesheet" href="css/w3.css">
+	<link rel="stylesheet" href="css/themes/w3-theme-blue.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="js/jqueryui/jquery-ui.css">
+	<link rel="stylesheet" href="css/mycss.css">
+
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/jqueryui/jquery-ui.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
+	<script type="text/javascript" src="js/snap.svg.js"></script>
+	<script type="text/javascript" src="js/topic/myappjs.js"></script>
+	<script type="text/javascript" src="js/topic/myjs.js"></script>
+	<script type="text/javascript" src="js/topic/mygeometry.js"></script>
+	<script>
+		function initialSpeech() {
+				setTimeout(function () {
+					sendTTS("In this topic, we will talk about integer addition.");
+				}, 5000);
+		}
+	</script>
+	<style>
+		.otherTerms td {
+			padding: 5px;
+		}
+	</style>
+</head>
+<body>
+<div id="forAngleByType" class="hidden"><b><span class="defAngleValue"></span>&deg;</b> ==> <b><span class="defAngleType"></span></b></div>
+<div id="forAngleByRotation" class="hidden"><b><span class="defAngleValue"></span>&deg;</b> ==> <b><span class="defAngleType"></span></b></div>
+<div id="forAngleByAdjacent" class="hidden">
+	<span class="adjTxt1">Txt1</span><br>
+	<span class="adjTxt2">Txt2</span><br>
+	<span class="adjTxt3">Txt3</span><br>
+	<span class="adjTxt4">Txt4</span><br>
+</div>
+<div id="forAngleByComplementary" class="hidden">
+	<span class="adjTxt1" style="font-size: 12px;">Txt1</span><br>
+	<span class="adjTxt2" style="font-size: 12px;">Txt2</span><br>
+	<span class="adjTxt3" style="font-size: 12px;">Txt3</span><br>
+	<span class="adjTxt4" style="font-size: 12px;">Txt4</span><br>
+</div>
+<div id="forAngleBySupplementary" class="hidden">
+	<span class="adjTxt1" style="font-size: 12px;">Txt1</span><br>
+	<span class="adjTxt2" style="font-size: 12px;">Txt2</span><br>
+	<span class="adjTxt3" style="font-size: 12px;">Txt3</span><br>
+	<span class="adjTxt4" style="font-size: 12px;">Txt4</span><br>
+</div>
+<div id="forAngleByLinearPair" class="hidden">
+	<span class="adjTxt1" style="font-size: 12px;">Txt1</span><br>
+	<span class="adjTxt2" style="font-size: 12px;">Txt2</span><br>
+	<span class="adjTxt3" style="font-size: 12px;">Txt3</span><br>
+	<span class="adjTxt4" style="font-size: 12px;">Txt4</span><br>
+</div>
+<div id="forAngleByVertical" class="hidden">
+	<span class="adjTxt1" style="font-size: 12px;">Txt1</span><br>
+	<span class="adjTxt2" style="font-size: 12px;">Txt2</span><br>
+	<span class="adjTxt3" style="font-size: 12px;">Txt3</span><br>
+	<span class="adjTxt4" style="font-size: 12px;">Txt4</span><br>
+</div>
+<div class="w3-container w3-theme w3-card-2">
+	<h3>Geometry</h3>
+</div>
+<p>
+	<b>Geometry</b> (from the Ancient Greek: ?e?µet??a; geo- "earth",
+	-metron "measurement") is a branch of mathematics concerned with
+	questions of shape, size, relative position of figures,
+	and the properties of space.
+</p>
+<div class="w3-container w3-theme w3-card-2">
+	<i>Definition of Terms</i>
+</div>
+<div>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td style="width: 70%;"><i>Term</i></td>
+			<td style="width: 15%;"><i>Notation</i></td>
+		</tr>
+		<tr>
+			<td>
+				<b>Point</b>&nbsp;&nbsp;&nbsp;&nbsp;<span class="pointSymbol"></span>
+				<br>
+				A point suggests an exact location in space.
+				It has no dimension. We use a capital letter to name a point.
+			</td>
+			<td>
+				point A or <br><span class="pointSymbol">A</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Line</b>&nbsp;&nbsp;&nbsp;&nbsp;<span class="lineSymbol"></span>
+				<br>
+				A line is a set of points arranged in a row.
+				It is extended endlessly in both directions.
+				It is a one-dimensional figure.
+				Two points determine a line. That is, two distinct points are contained by exactly one line.
+				We use a lower case letter or any two points on the line to name the line.
+			</td>
+			<td>
+				<svg id="svgLine" width="50" height="40"></svg>
+				<br>
+				line <i>m</i> or<br><span class="lineSymbol">RV</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Plane</b>&nbsp;&nbsp;&nbsp;&nbsp;<span class="planeSymbol"></span>
+				<br>
+				A plane is a set of points in an endless flat surface.
+				<br>The following determine a plane:
+				<br>(a) three non-collinear points;
+				<br>(b) two intersecting lines;
+				<br>(c) two parallel lines; or
+				<br>(d) a line and a point not on the line.
+				<br>We use a lower case letter or three points on the plane to name the plane.
+			</td>
+			<td>
+				<svg id="svgPlane" width="100" height="100"></svg>
+				plane PQR or <br><span class="planeSymbol">PQR</span>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<i>Other terms in figures below:</><br><br>
+				<div class="inline25 boxed25">
+					<div style="height: 80px"></div>
+					<svg class="svgCollinearPoints" width="75" height="20"></svg>
+					<br>Fig. A
+				</div>
+				<div class="inline25 boxed25">
+					<svg class="svgCoplanarPoints" width="75" height="100"></svg>
+					<br>Fig. B
+				</div>
+				<div class="inline25 boxed25">
+					<svg class="svgBoxPoints" width="110" height="120"></svg>
+					<br>Fig. C
+				</div>
+				<div class="inline25 boxed25">
+					<div style="height: 60px"></div>
+					<svg class="svgSegmentPoints" width="110" height="50"></svg>
+					<br>Fig. D
+				</div>
+				<div class="inline25 boxed25">
+					<div style="height: 60px"></div>
+					<svg class="svgRayPoints" width="110" height="50"></svg>
+					<br>Fig. E
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Collinear points</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+				are points on the same line.
+			</td>
+			<td>
+				<i>Figure A</i>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Coplanar points/lines</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+				are points/lines on the same plane.
+			</td>
+			<td>
+				<i>Figure B</i>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Intersecting Lines</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+				In Figure C, Lines DH and DC intersect at point D. Also lines CG and GF intersect at point G. etc.
+			</td>
+			<td>
+				<i>Figure C</i>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Parallel Lines</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+				In Figure C, Lines AB and DC are parallel. Also lines DH and CG are parallel. etc.
+			</td>
+			<td>
+				<i>Figure C</i>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Concurrect Lines</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+				In Figure C, Lines AD, AB and AE are concurrent at point A. Also lines GH, GF and GC are concurrent at point G.
+			</td>
+			<td>
+				<i>Figure C</i>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Skew Lines</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+				In Figure C, Lines DH and EF are two lines in which are neither intersect nor parallel. These two lines do not lie on a plane and are called <b>skew lines</b>. Lines AE and GF are also skew lines. The lines DH, CG, HE and GF are skew to AB.
+			</td>
+			<td>
+				<i>Figure C</i>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Line Segment</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+				A line segment is part of a line that has two endpoints.
+				We define a line segment <svg class="segmentSymbol" label="BC"/> as a subset of line <span class="lineSymbol">AE</span> consisting
+				of the points B and C and all the points between them.
+				If the line to which a line segment belongs is given a scale
+				so that it turns into the real line, then the length
+				of the segment can be determined by getting the distance
+				between its endpoints. Figure D, has segments <svg class="segmentSymbol" label="BC"/>, <svg class="segmentSymbol" label="CD"/>, <svg class="segmentSymbol" label="BD"/>
+			</td>
+			<td>
+				<i>Figure D</i>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Ray</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+				A ray is also a part of a line but has only one endpoint,
+				and extends endlessly in one direction.
+				We name a ray by its endpoint and one of its points.
+				We always start on the endpoint.
+				Figure E is ray AB or we can also name it as ray AC.
+				It is not correct to name it as ray BA or ray CA.
+				In notation, we write <span class="raySymbol">AB</span> or <span class="raySymbol">AC</span>.
+			</td>
+			<td>
+				<i>Figure E</i>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Angles&nbsp;&nbsp;&nbsp;&nbsp;&ang;A</h4>
+</div>
+<p>
+	An <b>angle</b> is a union of <i>two non-collinear rays</i> with common endpoint.
+	The two non-collinear rays are the <b>sides of the angle</b> while the
+	common endpoint is the <b>vertex</b>.
+</p>
+<p>
+	The three different types of angles are <b>acute</b>, <b>right</b> and <b>obtuse</b> angles.
+	An <b>acute angle</b> measures more than <b>0&deg;</b> but less than <b>90&deg;</b>;
+	a <b>right angle</b> measures exactly <b>90&deg;</b> while an <b>obtuse angle</b> measures more
+	than <b>90&deg;</b> but less than <b>180&deg;</b>.
+	If two lines or segments intersect so that they form a right angle,
+	then they are perpendicular.
+	In fact, two perpendicular lines meet to form four right angles.
+</p>
+<p>
+	Note that we define angle as a union of two non-collinear rays with a common endpoint.
+	In trigonometry, an angle is sometimes defined as the <b>rotation of a ray</b> about its endpoint.
+	Here, there is a distinction between the initial position of the ray and its terminal position.
+	This leads to the designation of the initial side and the terminal side.
+	<i>The measure of an angle is the amount of rotation.</i>
+	If the direction of the rotation is considered, negative angles might arise.
+	This also generates additional types of angles: the <b>zero</b>, <b>straight</b>, <b>reflex</b> and <b>perigon</b> angles.
+	A zero angle measures exactly <b>0&deg;</b>; a straight angle measures exactly <b>180&deg;</b>;
+	a reflex angle measures more than <b>180&deg;</b> but less than <b>360&deg;</b> and a perigon angle measures exactly <b>360&deg;</b>.
+</p>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Definition</h4>
+</div>
+<div class="indent10">
+	Two angles are <b>adjacent</b> if they are coplanar, have common vertex and a common side but have no common interior points.
+	<br>Two angles are <b>complementary</b> if the sum of their measures is 90&deg;.
+	<br>Two angles are <b>supplementary</b> if the sum of their measures is 180&deg;.
+	<br>Two angles form a <b>linear pair</b> if they are both adjacent and supplementary.
+	<br><b>Vertical angles</b> are the opposite angles formed when two lines intersect. Vertical angles are congruent.
+	<br><br><i>Angles formed when 2 lines are cut b a traversal.</i>
+	<div>
+		<div class="boxed25" style="width: 200px; float: left;">
+			Transversal
+			<svg width="150" height="150" class="transversalSymbol"></svg>
+		</div>
+		<br>The <b>interior angles</b> are the four angles formed between the lines x and y.
+		In the Transversal figure, these are <code>&ang;C</code>, <code>&ang;D</code>, <code>&ang;E</code>, and <code>&ang;F</code>.
+		<br>The <b>exterior angles</b> are the four angles formed that lie outside the lines x and y.
+		These are <code>&ang;A</code>, <code>&ang;B</code>, <code>&ang;G</code>, and <code>&ang;H</code>.
+		<br>The <b>alternate interior angles</b> are two interior angles that lie on opposite sides of a transversal.
+		The angle pairs <code>&ang;C</code> and <code>&ang;F</code> are alternate interior angles.
+		So are <code>&ang;D</code> and <code>&ang;E</code>.
+		<br>The <b>alternate exterior angles</b> are two exterior angles that lie on opposite sides of the transversal.
+		In the figure, <code>&ang;A</code> and <code>&ang;H</code> are alternate exterior angles,
+		as well as <code>&ang;B</code> and <code>&ang;G</code>.
+		<br>The <b>corresponding angles</b> are two angles, one interior and the other exterior,
+		on the same side of the transversal.
+		The pairs of corresponding angles are <code>&ang;A</code> and <code>&ang;E</code>,
+		<code>&ang;B</code> and <code>&ang;F</code>, <code>&ang;C</code> and <code>&ang;G</code>,
+		and <code>&ang;D</code> and <code>&ang;H</code>.
+	</div>
+</div>
+<div class="w3-container w3-theme w3-card-2">
+	<div class="dropdown">
+		<i>Definition of Terms</i>&nbsp;&nbsp;&nbsp;&nbsp;
+		<button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Choose
+			<span class="caret"></span></button>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+			<li role="presentation">
+				<button role="menuitem" class="angleDefinitionClass button" style="width: 100%; text-align: left;"
+						type="TYPES">TYPES
+				</button></li>
+			<li role="presentation">
+				<button role="menuitem" class="angleDefinitionClass button" style="width: 100%; text-align: left;"
+						type="ROTATION">ROTATION
+				</button></li>
+			<li role="presentation">
+				<button role="menuitem" class="angleDefinitionClass button" style="width: 100%; text-align: left;"
+						type="ADJACENT">ADJACENT
+				</button></li>
+			<li role="presentation">
+				<button role="menuitem" class="angleDefinitionClass button" style="width: 100%; text-align: left;"
+						type="COMPLEMENTARY">COMPLEMENTARY
+				</button></li>
+			<li role="presentation">
+				<button role="menuitem" class="angleDefinitionClass button" style="width: 100%; text-align: left;"
+						type="SUPPLEMENTARY">SUPPLEMENTARY
+				</button></li>
+			<li role="presentation">
+				<button role="menuitem" class="angleDefinitionClass button" style="width: 100%; text-align: left;"
+						type="LINEAR">LINEAR PAIR
+				</button></li>
+			<li role="presentation">
+				<button role="menuitem" class="angleDefinitionClass button" style="width: 100%; text-align: left;"
+						type="VERTICAL">VERTICAL ANGLE
+				</button></li>
+		</ul>
+	</div>
+</div>
+<svg id="svgAnglesDefinition" width="100%" height="300" style="width:100%;">
+</svg>
+<br>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Polygons</h4>
+</div>
+<p>
+	Polygon is a plane figure that is bounded by a <i>finite chain of straight
+	line segments closing in a loop</i> to form a <b>closed chain</b> or <b>circuit</b>.
+	These segments are called its edges or sides, and the points where two edges meet are the
+	polygon's <b>vertices (singular: vertex)</b> or <b>corners</b>.
+	The interior of the polygon is sometimes called its body.
+	An n-gon is a polygon with n sides; for example, a triangle is a 3-gon.
+	A polygon is a 2-dimensional example of the more general polytope in any number of dimensions.
+</p>
+<p>
+	The basic geometrical notion of a polygon has been adapted in various ways to suit particular purposes.
+	Mathematicians are often concerned only with the bounding closed polygonal chain and with
+	simple polygons which do not self-intersect, and they often define a polygon accordingly.
+	A <b>polygonal boundary may be allowed to intersect itself</b>, creating star polygons and other
+	self-intersecting polygons.
+</p>
+<i>Other terms in figures below:</i><br><br>
+<div class="inline25 boxed25">
+	<svg class="svgConvex4" width="100" height="100" points="A,B,C,D"></svg>
+	<br>Fig. A
+</div>
+<div class="inline25 boxed25">
+	<svg class="svgConvex5" width="100" height="100" points="A,B,C,D,E"></svg>
+	<br>Fig. B
+</div>
+<div class="inline25 boxed25">
+	<svg class="svgNonConvex4" width="100" height="100" points="A,B,C,D"></svg>
+	<br>Fig. C
+</div>
+<div class="inline25 boxed25">
+	<svg class="svgNonConvex5" width="100" height="100" points="A,B,C,D,E"></svg>
+	<br>Fig. D
+</div>
+<div class="inline25 boxed25">
+	<svg class="svgExteriorAngle" width="100" height="100" points="A,B,C,D,E,M"></svg>
+	<br>Fig. E
+</div>
+<div class="inline25 boxed25">
+	<svg class="svgDiagonalPolygon" width="100" height="100" points="A,B,C,D,E"></svg>
+	<br>Fig. F
+</div>
+<div class="inline25 boxed25">
+	<svg class="svgEquilateral" width="100" height="100" points="A,B,C,D"></svg>
+	<br>Fig. G
+</div>
+<div class="inline25 boxed25">
+	<svg class="svgEquiangular" width="100" height="100" points="A,B,C,D"></svg>
+	<br>Fig. H
+</div>
+<div>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				<b>Convex</b><br>
+				A polygon is said to be convex if the lines containing the sides
+				of the polygon do not cross the interior of the polygon.
+				<br>Examples are
+				Figures <code>A</code>, <code>B</code>, <code>E</code>, <code>F</code>, <code>G</code>, <code>H</code>.
+				<br>There are 2 types of angles associated with a convex polygon: <b>Exterior angle</b> and <b>Interior angle</b>.
+				<br>For Example:
+				<br><i>Figure E</i>
+				<br><code>&ang;EDC</code> is the <b>interior angle</b> while
+				<br><code>&ang;MDC</code> is the <b>exterior angle</b>.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Exterior Angle (Convex)</b><br>
+				An exterior angle of a convex polygon is an angle that is both supplement and adjacent to one of its interior angles.
+				<br>In the convex polygon (Figure E),
+				<code>&ang;A</code>,
+				<code>&ang;B</code>,
+				<code>&ang;BCD</code>,
+				<code>&ang;D</code>, and
+				<code>&ang;E</code> are the interior angles, while <code>&ang;MCD</code> is an exterior angle.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Non Convex</b><br>
+				Examples are
+				Figures <code>C</code> and <code>D</code>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Consecutive vertices</b><br>
+				are vertices on the same side of the polygon.
+				In Figure <b>B</b>. some consecutive vertices are A and B, B and C.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Consecutive sides</b><br>
+				are sides that have a common vertex.
+				In Figure <b>B</b>. Some consecutive sides are <svg class="sideSymbol" label="AE"/> and <svg class="sideSymbol" label="ED"/>; <svg class="sideSymbol" label="AB"/> and <svg class="sideSymbol" label="BC"/>.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Diagonal</b><br>
+				A diagonal is a segment joining non-consecutive vertices.
+				In Figure <b>F</b>. diagonal dash array is segment <svg class="segmentSymbol" label="AD"/> and segment <svg class="segmentSymbol" label="AC"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Equilateral Polygon</b><br>
+				A polygon is equilateral if all its sides are equal
+				<br>Examples: Figure <code>G</code> and <code>H</code>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Equiangular Polygon</b><br>
+				A polygon is equilateral if all its angles are equal
+				<br>Example: Figure <code>H</code>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Regular Polygon</b><br>
+				A polygon is regular if it is both equilateral and equiangular.
+				<br>Example: Figure <code>H</code>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Polygons names according to number of sides.</b><br>
+				3&nbsp;-&nbsp;Triangle;
+				4&nbsp;-&nbsp;Quadrilateral;
+				5&nbsp;-&nbsp;Pentagon;
+				6&nbsp;-&nbsp;Hexagon;
+				7&nbsp;-&nbsp;Heptagon;
+				8&nbsp;-&nbsp;Octagon;
+				9&nbsp;-&nbsp;Nonagon;
+				10&nbsp;-&nbsp;Decagon;
+				11&nbsp;-&nbsp;Undecagon;
+				12&nbsp;-&nbsp;Dodecagon
+			</td>
+		</tr>
+	</table>
+</div>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Triangle&nbsp;&nbsp;&nbsp;&nbsp;&bigtriangleup;A</h4>
+</div>
+<p>
+	A triangle is a polygon with three edges and three vertices.
+	It is one of the basic shapes in geometry.
+	A triangle with vertices A, B, and C is denoted <code>&bigtriangleup;ABC</code>.
+	The sum of the three vertices is <code>180&deg;</code>.
+</p>
+<div class="boxed25" style="width: 300; height: 180">
+	Parts of a Triangle
+	<svg class="svgTriangleParts" width="300" height="180"></svg>
+</div>
+<div class="boxed25" style="width: 300; height: 180">
+	Formula for Triangle
+	<svg class="svgTriangle" width="300" height="180"></svg>
+</div>
+<br>
+<i>Formula:</i><br>
+<div>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				<code>Area = <sup1>bh</sup1>/<sub1>2</sub1></code>
+				<br>From the figure Formula for Triangle:
+				<br>We can see that we have 2 bases which is b1 and b2.
+				To get the whole area will use <code><sup1>(b1 + b2)h</sup1> / <sub1>2</sub1></code>
+				<br>
+				To get the left side area only, will use <code><sup1>(b1)h</sup1> / <sub1>2</sub1></code>
+				<br>
+				To get the right side area only, will use <code><sup1>(b2)h</sup1> / <sub1>2</sub1></code>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Hypotenuse</b> is the longest side of a right triangle, opposite the right angle.
+				<br>Note: Will use the other side as b1, b2 and h
+				<br><br>Length of hypotenuse is <code>hyp<sup1>2</sup1> = b<sup1>2</sup1> + h<sup1>2</sup1> </code>
+				<br>From the figure Formula for Triangle: <i>(Pythagorean Theorem)</i>
+				<br>We can see that we have 2 bases which is b1 and b2.
+				<br>
+				To get hyp1 will use <code>hyp1<sup1>2</sup1> = b1<sup1>2</sup1> + h<sup1>2</sup1> </code>
+				<br>
+				To get hyp2 will use <code>hyp2<sup1>2</sup1> = b2<sup1>2</sup1> + h<sup1>2</sup1> </code>
+			</td>
+		</tr>
+	</table>
+</div>
+<i>Terms:</i><br>
+<div>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				Given the above figure.
+				The triangle <code>&bigtriangleup;ABC</code>,
+				its parts are the three vertices <code>A</code>, <code>B</code>, <code>C</code>;
+				the three sides <svg class="sideSymbol" label="AB"/>, <svg class="sideSymbol" label="AC"/>
+				and <svg class="sideSymbol" label="BC"/> and
+				the three interior angles <code>&ang;A</code>, <code>&ang;B</code> and <code>&ang;C</code>.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Exterior angle</b><br>
+				an angle that is adjacent and supplement to one of the interior angles of a triangle.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Remote interior angles of an exterior angle</b><br>
+				Given an exterior angle of a triangle, the two remote interior angles of this exterior angle are the interior angles of the triangle that are not adjacent to the given exterior angle.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Angle bisector</b><br>
+				This is a segment, a ray or a line that bisects an interior angle.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Altitude</b><br>
+				This is a segment from a vertex that is perpendicular to the line containing the opposite side.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Median</b><br>
+				This is a segment joining a vertex and the midpoint of the opposite side.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Perpendicular bisector of a side</b><br>
+				Given a side of a triangle, a perpendicular bisector is a segment or a line that is perpendicular to the given side and passes through the midpoint of the given side.
+			</td>
+		</tr>
+	</table>
+</div>
+<i>Classifications:</i><br>
+<div>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				According to the interior angles:
+				<br>&nbsp;&nbsp;<b>Acute triangle</b> is a triangle with three acute interior angles. In above figure, it will be (<code>&bigtriangleup;ABD</code>)
+				<br>&nbsp;&nbsp;<b>Right triangle</b> is a triangle with one right angle. (<code>&bigtriangleup;ACD</code>)
+				<br>&nbsp;&nbsp;<b>Obtuse triangle</b> is a triangle with one obtuse angle. (<code>&bigtriangleup;ADE</code> and <code>&bigtriangleup;BAE</code>)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				According to the number of congruent sides:
+				<br>&nbsp;&nbsp;<b>Scalene triangle</b> is a triangle with no two sides congruent. (<code>&bigtriangleup;BAE</code> and <code>&bigtriangleup;ACD</code>)
+				<br>&nbsp;&nbsp;<b>Isosceles triangle</b> is a triangle with two congruent sides. (<code>&bigtriangleup;ADE</code>)
+				<br>&nbsp;&nbsp;<b>Equilateral triangle</b> is a triangle with three congruent sides. (<code>&bigtriangleup;BCA</code>)
+				<br>In an isosceles triangle, the angles opposite the congruent sides are also congruent. Meanwhile, in an equilateral triangle, all angles are congruent.
+			</td>
+		</tr>
+	</table>
+</div>
+<br>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Quadrilaterals&nbsp;&nbsp;&nbsp;&nbsp;&fltns;A</h4>
+</div>
+<p>
+	A quadrilateral is a polygon with four sides. The sum of interior angles is <code>360&deg;</code> (equivalent to 2 triangles).
+	<br><b>Trapezoid</b> is a quadrilateral with exactly one pair of opposite sides parallel to each other. The parallel sides are called the bases, while the non-parallel sides are called the legs.
+	If the legs of a trapezoid are congruent (that is, equal in length), then the trapezoid is an isosceles trapezoid. Consequently, the base angles are congruent, and the remaining two angles are also congruent.
+	<br><b>Parallelogram</b> is a quadrilateral with two pairs of opposite sides parallel to each other.
+</p>
+<i>Computation of quadrilateral</i>
+<div>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				<div>
+					<div style="float: left;">
+						<svg width="180" height="160" class="svgQuad1" points="A, 68, 108, 84" otherpoints="B, C, D, E, F, G"/>
+					</div>
+					Given the figure at the left, how can we get all the missing angles?
+					<br>1. To get the value of <code>A</code> we must remember that a quadrilatel always have a sum of 360&deg; of interior angles.
+					<br><code> A = 360&deg; - (68&deg; + 108&deg; + 84&deg;)</code>
+					<br><code> A = 100&deg;</code>
+					<br>2. To get the value of <code>B</code>, we also understand that a <i>straight angle<i> is <code>180&deg;</code>
+					<code>B = 180&deg; - A = 180&deg; - 100&deg; = 80&deg;</code>
+					<br>3. <code>C = A</code> since they are opposite
+					<code>C = 100&deg;</code>
+					<br>4. <code>D = 80&deg;</code>
+					<br>5. <code>E = 180&deg; - 108&deg; = 72&deg;</code>
+					<br>6. <code>F = 108&deg;</code>
+					<br>7. <code>G = 72&deg;</code>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div>
+					<div style="float: left;">
+						<svg width="180" height="130" class="svgQuadIsoTrapezoid" points="A, B, C, 20" otherpoints="D, E, F, G, H, I"/>
+					</div>
+					Given the figure at the left (isosceles trapezoid), how can we get all the missing angles?
+					<br>We have <code>20&deg;</code> and <code>90&deg;</code> as given values.
+					<br>1. To get the value of A. We understand that we created a right triangle with the 20&deg; dash.
+					<br><code>A = 180&deg; - (90&deg; + 20&deg;) = 70&deg;</code>
+					<br>2. <code>B = A = 70&deg;</code>
+					<br>3. <code>D = 90&deg; + 20&deg; = 110&deg;</code>
+					<br>4. <code>C = 110&deg;</code>
+					<br>5. <code>E = 180&deg; - B = 110&deg;</code>
+					<br>6. <code>F = E = 110&deg;</code>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div>
+					<div style="float: left;">
+						<svg width="180" height="130" class="svgQuadRegTrapezoid" points="45, 88, A, 0" otherpoints="B, C, D"/>
+					</div>
+					Given the figure at the left (regular trapezoid), how can we get all the missing angles?
+					<br>We have <code>88&deg;</code> and <code>45&deg;</code> as given values.
+					<br>1. To get the value of A. We know that A = <code>180&deg;</code> <sup1>(total triangle)</sup1> - <code>(88 + 90)</code> <sup1>total given value</sup1> + <code>90</code> <sup1>right angle</sup1>.
+					<br>We can however simplify this further to <code>A = 180&deg; - 88&deg;</code>
+					to <code>A = 92&deg;</code>
+					<br>2. Same solution to get the value of B <code>B = 180&deg; - 45&deg; = 135&deg;</code>
+					<br>3. <code>C = A = 92&deg;</code>
+					<br>4. <code>D = 88&deg;</code>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div>
+					<div style="float: left;">
+						Rhombus
+						<br><code>Area = <sup1>pq</sup1>&frasl;<sub1>2</sub1></code>
+						<br><code>Perimeter = 4a</code><br>
+						<svg width="180" height="130" class="svgQuadRhombus" points="45, A, B, C" otherpoints="D, E, F"/>
+						<br>Rectangle
+						<br><code>Area = h * w</code>
+						<br><code>Perimeter = 2 (h + w)</code><br>
+						<svg width="180" height="100" class="svgQuadRect" points="45, A, B, C" otherpoints="D, E, F"/>
+						<br>Square
+						<br><code>Area = a<sup1>2</sup1></code>
+						<br><code>Perimeter = 4a</code><br>
+						<svg width="180" height="125" class="svgQuadSquare" points="45, A, B, C" otherpoints="D, E, F"/>
+					</div>
+
+					Given the figure at the left (rhombus), how can we get all the missing angles?
+					<br>We have <code>88&deg;</code> and <code>45&deg;</code> as given values.
+					<br>1. To get the value of A. <code>A = 180&deg; - 45&deg;</code>
+					<br><code>A = 135&deg;</code>
+					<br>2. <code>B = 45&deg;</code>
+					<br>3. <code>C = A = 135&deg;</code>
+					<br>4. <code>D = A = 135&deg;</code>
+					<br><br>
+					<ul>
+						<li>
+							Opposite angles of a parallelogram are congruent.
+						</li>
+						<li>
+							Consecutive angles of a parallelogram are supplementary.
+						</li>
+						<li>
+							Diagonals of a parallelogram divide the parallelogram into two congruent triangles.
+						</li>
+						<li>
+							Diagonals of a parallelogram bisect each other.
+						</li>
+						<li>
+							A diagonal of a rectangle divides the rectangle into two congruent right triangles.
+						</li>
+						<li>
+							A diagonal of a square divides the square into two congruent isosceles right triangles.
+						</li>
+						<li>
+							Diagonals of a rectangle are congruent.
+						</li>
+						<li>
+							Diagonals of a rhombus are perpendicular.
+						</li>
+						<li>
+							Diagonals of a square are both congruent and perpendicular.
+						</li>
+					</ul>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<br>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Circles&nbsp;&nbsp;&nbsp;&nbsp;&bigcirc;A</h4>
+</div>
+<p>
+	A circle is the set of all points that are the same distance from a fixed point.
+	This fixed point is called the <b>center of the circle</b>.
+	A segment drawn from any point on the circle to the center is called a <b>radius</b>.
+	<br><b>Note:</b> A circle is named by its center.
+</p>
+<p>
+<div>
+	<div style="float: left;">
+		<svg width="180" height="200" class="svgCircle" points="P, A, B, C"/>
+	</div>
+	<ul>
+		<li>
+			A <b>chord</b> is a segment (<svg class="segmentSymbol" label="AP"/>
+			and <svg class="segmentSymbol" label="PC"/>) that connects any two points of a circle. <svg class="segmentSymbol" label="AP"/>, <svg class="segmentSymbol" label="PB"/> are chords of <code>Circle P</code>.
+		</li>
+		<li>
+			A <b>radius</b> is a chord (<svg class="segmentSymbol" label="AP"/>) from the center to its perimeter.
+		</li>
+		<li>
+			A <b>diameter</b> is a chord (<svg class="segmentSymbol" label="CB"/>) that passes through the center of a circle. <svg class="segmentSymbol" label="CB"/> is a diameter of <code>Circle P</code>.
+			It is the longest chord of a circle and it is twice the length of a circle’s <b>radius</b>.
+		</li>
+		<li>
+			A <b>central angle</b> is an angle whose vertex is on the circle’s center, and whose sides intersect the circle at two points. <code>&ang;APB</code> is a central angle of <code>Circle P</code>.
+		</li>
+		<li>
+			An <b>arc</b> is a portion of a circle determined by a central angle. <code>Arc AB</code> is an arc of <code>Circle P</code>.
+		</li>
+	</ul>
+</div>
+<div style="float: left">
+	<i>Formula</i>
+	<br><code>Area = &pi;r<sup1>2</sup1></code>
+	<br><code>Circumferense = 2&pi;r</code>
+</div>
+<script>
+
+function callAnglesDefinition(paper, obj) {
+	var html = obj.html();
+	var type = obj.attr("type");
+	
+	if (type == 'VERTICAL') {
+		doAngleByVertical(paper, html, type);
+	}
+	else if (type == 'LINEAR') {
+		doAngleByLinear(paper, html, type);
+	}
+	else if (type == 'SUPPLEMENTARY') {
+		doAngleBySupplementary(paper, html, type);
+	}
+	else if (type == 'COMPLEMENTARY') {
+		doAngleByComplementary(paper, html, type);
+	}
+	else if (type == 'ADJACENT') {
+		doAngleByAdjacent(paper, html, type);
+	}
+	else if (type == 'ROTATION') {
+		doAngleByRotation(paper, html, type);
+	}
+	else if (type == 'TYPES') {
+		doAngleByType(paper, html, type);
+	}
+}
+	window.onload = function() {
+		rewriteAllSymbols();
+		initialSpeech();
+		
+		var svgAnglesDefinition = Snap("#svgAnglesDefinition");
+		$(".angleDefinitionClass").click(function(a) {
+			callAnglesDefinition(svgAnglesDefinition, $(this));
+		});
+		callAnglesDefinition(svgAnglesDefinition, $($(".angleDefinitionClass")[0]));
+	}
+</script>
+
+</body></html>

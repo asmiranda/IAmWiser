@@ -1,0 +1,191 @@
+CATEGORY: GRADE7-MATH
+TOPIC: Integers
+TOPIC_CODE: Integers
+
+1.	Choose the correct answer for <blockquote>(-5) + (-11)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	-16
+b.	-6
+c.	+16
+d.  +6
+
+2.	Choose the correct answer for <blockquote>(6) + (-9)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	15
+b.	-15
+c.	-3
+d.	+3
+
+3.  Choose the correct answer for <blockquote>(-42) + 16</blockquote>
+Correct. a
+Rationale. empty
+
+a.  -26
+b.  -58
+c.  +58
+d.  +26
+
+4.  Choose the correct answer for <blockquote>(38) + (-20)</blockquote>
+Correct. d
+Rationale. empty
+
+a. -58
+b. 58
+c. -18
+d. 18
+
+5.  Choose the correct answer for <blockquote>(-20) + (-15)</blockquote>
+Correct. -35
+Rationale. empty
+
+a. +35
+b. -35
+c. 5
+d. -5
+
+6.  Choose the correct answer for <blockquote>(-14) + (22) + (8) + (-16)</blockquote>
+Correct. c
+Rationale. empty
+
+a. -100
+b. 100
+c. 0
+d. 50
+
+7.  Choose the correct answer for <blockquote>31 + 70 + 9 + (-155)</blockquote>
+Correct. a
+Rationale. empty
+
+a. -45
+b. 45
+c. 245
+d. -245
+
+8.  Choose the correct answer for <blockquote>(18) + (-11) + (3)</blockquote>
+Correct. b
+Rationale. empty
+
+a. 29
+b. 10
+c. -29
+d. 32
+
+9.  Choose the correct answer for <blockquote>(-9) + (-19) + (-6)</blockquote>
+Correct.  b
+Rationale. empty
+
+a. 36
+b. -36
+c. 16
+d. -16
+
+10.  Choose the correct answer for <blockquote>(-4) + (25) + (-15)</blockquote>
+Correct. a
+Rationale. empty
+
+a. 6
+b. -6
+c. 44
+d. -44
+
+11.  Choose the correct answer for <blockquote>(50) + (-13) + (-12)</blockquote>
+Correct. a
+Rationale. empty
+
+a. 25
+b. -25
+c. 37
+d. -37
+
+12.  Choose the correct answer for <blockquote>(-100) + (48) + (49)</blockquote>
+Correct. a
+Rationale. empty
+
+a. -3
+b. 3
+c. 148
+d. -148
+
+13.  Mrs. Reyes charged <code>$3,752.00</code> worth of groceries on her credit card. 
+Find her balance after she made a payment of <code>$2,530.00</code>.
+Correct. b
+Rationale. empty
+
+a. $6,282.00
+b. $1,222.00
+c. $1,000.00
+d. $3,752.00
+
+14.  In a game, Team Azcals lost 5 yards in one play 
+but gained 7 yards in the next play. What was the actual yardage gain of the team?
+Correct. b
+Rationale. empty
+
+a. 12 yards
+b. 2 yards
+c. 10 yards
+d. 7 yards
+
+15.  A vendor gained $50.00 on the first day; lost $28.00 on the second day, 
+and gained P49.00 on the third day. How much profit did the vendor gain in 3 days?
+Correct. c
+Rationale. empty
+
+a. &78.00
+b. $127.00
+c. $71.00
+d. $77.00
+
+16.  Ronnie had $2,280 in his checking account at the beginning of the month. 
+He wrote checks for $450, $1,200, and $900. 
+He then made a deposit of $1000. 
+If at any time during the month the account is overdrawn, 
+a $300 service charge is deducted. 
+What was Ronnie’s balance at the end of the month?
+Correct. c
+Rationale. empty
+
+a. $6,130
+b. $5,530
+c. $430
+d. $4,530
+
+17.  Choose the correct answer for <blockquote>-5 + 10</blockquote>
+Correct. a
+Rationale. empty
+
+a. 5
+b. -5
+c. 15
+d. -15
+
+18.  Choose the correct answer for <blockquote>12 + 5 + (-8) + 20 + (-16)</blockquote>
+Correct. a
+Rationale. empty
+
+a. 13
+b. -13
+c. 61
+d. -61
+
+19.  Choose the correct answer for <blockquote>11 + 5 + (-2)</blockquote>
+Correct. b
+Rationale. empty
+
+a. -14
+b. 14
+c. 18
+d. -18
+
+20.  Choose the correct answer for <blockquote>(+13) + (-17)</blockquote>
+Correct. c
+Rationale. empty
+
+a. 4
+b. 30
+c. -4
+d. -30

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/w3.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/snap.svg.js"></script>
+        <script type="text/javascript" src="js/topic/myappjs.js"></script>
+
+        <style>
+                .rcorners5 {
+                    border-radius: 15px 50px 30px;
+                    border-style: solid;
+                    border-color: #ffffff;
+                    padding: 10px;
+                    width : 100%;
+                    height : 100px;
+                }
+        </style>
+    </head>
+<body>
+    Choose Subject:
+    <select id="selectSubject" name="selectSubject">
+        <optgroup label="Focused Subject">
+            <option value="Math">Mathematics</option>
+            <option value="Science">Science</option>
+        </optgroup>
+
+        <optgroup label="Other Subject">
+            <option value="History">History</option>
+            <option value="PE">PE</option>
+            <option value="English">English</option>
+            <option value="Filipino">Filipino</option>
+        </optgroup>
+    </select> Good luck!!!
+    <div id="Math" class="subjects">
+        <div class="w3-row">
+            <div class="w3-col s4 w3-red w3-center rcorners5">Integers</div>
+            <div class="w3-col s4 w3-pink w3-center rcorners5">Rational Numbers</div>
+            <div class="w3-col s4 w3-orange w3-center rcorners5">Measurements</div>
+        </div>
+        <div class="w3-row">
+            <div class="w3-col s4 w3-green w3-center rcorners5">Polynomials</div>
+            <div class="w3-col s4 w3-teal w3-center rcorners5">Equations</div>
+            <div class="w3-col s4 w3-cyan w3-center rcorners5">Geometry</div>
+        </div>
+        <div class="w3-row">
+            <div class="w3-col s4 w3-lime w3-center rcorners5">Statistics</div>
+        </div>
+    </div>
+    <div id="UnderConstruction" class="subjects">
+        <h1>Ongoing development of <span id="subjectname"></span> subject is coming very soon. Stay tuned!!!</h1>
+    </div>
+    <!--<div id="Science" class="subjects">-->
+        <!--<div class="w3-row">-->
+            <!--<div class="w3-col s4 w3-red w3-center rcorners5">Biology</div>-->
+            <!--<div class="w3-col s4 w3-pink w3-center rcorners5">Chemistry</div>-->
+            <!--<div class="w3-col s4 w3-orange w3-center rcorners5">Physics</div>-->
+        <!--</div>-->
+    <!--</div>-->
+    <script>
+        function changeSubject(subject) {
+            $(".subjects").hide();
+            if ($("#"+subject).attr("id") != undefined) {
+                $("#"+subject).show();
+            }
+            else {
+                $("#subjectname").html("<i>"+subject+"</i>");
+                $("#UnderConstruction").show();
+            }
+        }
+
+        window.onload = function() {
+            $('#selectSubject').change(function() {
+                var value = $("#selectSubject").val();
+                changeSubject(value);
+            });
+
+            $('.rcorners5').click(function() {
+                var subject = $("#selectSubject").val();
+                gotoDrill("Grade7", subject, this.innerText);
+                //gotoTopic("Grade7", subject, this.innerText);
+            });
+
+            changeSubject("Math");
+        };
+    </script>
+</body>
+</html>
+

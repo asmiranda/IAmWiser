@@ -1,0 +1,204 @@
+CATEGORY: GRADE7-MATH
+TOPIC: Measurements
+TOPIC_CODE: Measurements
+
+1.	Convert <blockquote>15 meters to feet</blockquote>
+Correct. a
+Rationale. empty
+
+a.	49.2126 feet
+b.	590.5512 feet
+c.	1500 feet
+d.  16.4042 feet
+
+2.	Convert <blockquote>15 meters to kilometer</blockquote>
+Correct. a
+Rationale. empty
+
+a.	0.015 kilometer
+b.	49.2126 kilometer
+c.	1500 kilometer
+d.  16.4042 kilometer
+
+3.	Convert <blockquote>7 feet to meters</blockquote>
+Correct. b
+Rationale. empty
+
+a.	84 meters
+b.	2.1336 meters
+c.	2.33333 meters
+d.  48 meters
+
+4.	Convert <blockquote>400 meters to kilometer</blockquote>
+Correct. b
+Rationale. empty
+
+a.	0.248548 kilometer
+b.	0.4 kilometer
+c.	1312.34 kilometers
+d.  1.4 kilometer
+
+5.	Convert <blockquote>0.15 kilometer to meters</blockquote>
+Correct. b
+Rationale. empty
+
+a.	0.09320568 meter
+b.	150 meters
+c.	15 meters
+d.  9.32 meters
+
+6.	Convert <blockquote>20 meters to yards</blockquote>
+Correct. c
+Rationale. empty
+
+a.	0.02 yards
+b.	65.6168 yards
+c.	21.8723 yards
+d.  787.402 yards
+
+7.	Convert <blockquote>24 inch to feet</blockquote>
+Correct. c
+Rationale. empty
+
+a.	0.6096 foot
+b.	0.67 foot
+c.	2 feet
+d.  6.096 feet
+
+8.	Convert <blockquote>100 inch to meter</blockquote>
+Correct. c
+Rationale. empty
+
+a.	8.33333 meters
+b.	2.77778 meters
+c.	2.54 meters
+d.  25.4 meters
+
+9.	Convert <blockquote>100 feet to meters</blockquote>
+Correct. d
+Rationale. empty
+
+a.	1200 meters
+b.	33.3333 meters
+c.	0.03048 meter
+d.  30.48 meters
+
+10.	Convert <blockquote>20 meters to feet</blockquote>
+Correct. d
+Rationale. empty
+
+a.	0.02 foot
+b.	787.402 feet
+c.	2 feet
+d.  65.6168 feet
+
+11. Calculate the volume of a cone.
+<br><svg width="100" height="120" class="coneVolumeSymbol" h="h = 5" r="r = 2"></svg>
+
+Correct. d
+Rationale. empty
+
+a.	25.94
+b.	7
+c.	10.94
+d.  20.94
+
+12. Calculate the volume of a cone.
+<br><svg width="100" height="120" class="coneVolumeSymbol" h="h = 10" r="r = 4"></svg>
+
+Correct. d
+Rationale. empty
+
+a.	104.55
+b.	14.55
+c.	40
+d.  167.55
+
+13. Calculate the volume of a sphere.
+<br><svg width="100" height="120" class="sphereVolumeSymbol" r="r = 4"></svg>
+
+Correct. a
+Rationale. empty
+
+a.	268.08
+b.	40.08
+c.	40
+d.  167.55
+
+14. Calculate the volume of a sphere.
+<br><svg width="100" height="120" class="sphereVolumeSymbol" r="r = 5.4"></svg>
+
+Correct. a
+Rationale. empty
+
+a.	659.58
+b.	50.08
+c.	50
+d.  467.55
+
+15. Calculate the volume of a cylinder.
+<br><svg width="100" height="150" class="cylinderVolumeSymbol" r="r = 4" h="h = 5"></svg>
+
+Correct. a
+Rationale. empty
+
+a.	251.33
+b.	45.33
+c.	54
+d.  454.55
+
+16. Calculate the volume of a cylinder.
+<br><svg width="100" height="150" class="cylinderVolumeSymbol" r="r = 2.5" h="h = 5"></svg>
+
+Correct. a
+Rationale. empty
+
+a.	98.17
+b.	45.17
+c.	255
+d.  454.17
+
+17. Calculate the volume of a rectangular prism.
+<br><svg width="150" height="150" class="rectPrismVolumeSymbol" l="l = 2.5" h="h = 5" w="w = 2"></svg>
+
+Correct. b
+Rationale. empty
+
+a.	12.5
+b.	25
+c.	9.5
+d.  20
+
+18. Calculate the volume of a rectangular prism.
+<br><svg width="150" height="150" class="rectPrismVolumeSymbol" l="l = 3" h="h = 5" w="w = 2"></svg>
+
+Correct. b
+Rationale. empty
+
+a.	325
+b.	30
+c.	25
+d.  50
+
+19. Calculate the volume of a rectangular pyramid.
+<br><svg width="150" height="150" class="rectPyramidVolumeSymbol" l="l = 1" h="h = 2" w="w = 3"></svg>
+
+Correct. c
+Rationale. empty
+
+a.	5
+b.	3
+c.	2
+d.  4
+
+20. Calculate the volume of a rectangular pyramid.
+<br><svg width="150" height="150" class="rectPyramidVolumeSymbol" l="l = 3" h="h = 4" w="w = 5"></svg>
+
+Correct. c
+Rationale. empty
+
+a.	30
+b.	34.5
+c.	20
+d.  25
+

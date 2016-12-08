@@ -1,0 +1,975 @@
+CATEGORY: MIDWIFERY
+TOPIC: MIDWIFE-PHC
+TOPIC_CODE: MIDWIFE-PHC
+
+SET-A
+
+GENERAL INSTRUCTIONS: This test questionnaire contains 100 test items. Shade only one (1) box for each question on your answer sheets. Two or more boxes shaded will invalidate your answer. AVOID ERASURES.
+
+SITUATION 1: Tuberculosis remains as a major public health problem in the Philippines. The following questions below relate to tuberculosis care and management.
+
+1.	In the tuberculosis control program of DOH, the following is NOT true:
+Correct. c
+Rationale.  Tuberculin test is not the best test for children. Sputum collection subjected to laboratory for Acid fast staining is the best case finding for children.
+
+a.	Direct observation therapy is best way to monitor drug intake
+b.	Case finding in adults is by chest x-ray
+c.	Tuberculin test is the best manner for case finding in children
+d.	Free medicines are given to patients with cavity lesions
+
+2.	The DOH program “Tutok Gamutan” refers to:
+Correct. d
+Rationale. DOTS (directly Observed Treatment, Short course or Tutok Gamutan) which the world health organization (WHO) introduced in 1996, is a combination of technical and managerial components breaking the cycle of transmission between the TB infectious to non infectious cases.
+DOTS is the most effective strategy in controlling TB today. This strategy takes place in a health facility, treatment partner’s house or a patient’s house. Under DOTS, a treatment partner watches the patient takes his drug daily, reports and traces the patient if he defaults, provides health education regularly and motivates the patient on sputum follow ups.
+
+a.	Anti-tetanus vaccination
+b.	Polio vaccination
+c. Nutrition administration
+d. Directly observed TB therapy
+
+3.	Mr. Mendoza came to the clinic/facility to avail the program service of National TB Program, on which of the following documents or records must the public health Midwife make an entry on Mr. Mendoza’s visit?
+Correct. a
+Rationale. the TCL (target/client list) is for the several public health programs. If the client/patient has come to the clinic for program service for which there is a target/client list (TCL), an appropriate entry is made in TCL. B- This is the document, form or pieces of papers upon which the presenting symptoms or complaints of the patient on consultation and diagnosis (if available), treatment and date of treatment is recorded. C- If the visit is a usual, ex.: prenatal visit, a mark would be made on the appropriate block on the tally sheet/report form. D- Tally sheet is he same as Report Form. (PHN, 10th ed.p.84)
+
+a.	Target/client list (TCL)
+b. Individual treatment
+c. Tally sheet
+d. Report form
+
+4.	The use of local resources (human or financial) and training community leadership and management skills are strategies of what principle in the Primary Health Care?
+Correct. c
+Rationale. A-In this principle, community building and organizing as well as forming of health committees are the strategies. A- in this principle, re-allocation of budgetary resources as well as advocacy for political support from national leadership down to the barangay level are some of the strategies. D- for social mobilization, establishment of an effective health referral and collaboration between government and non-government organizations are used.  (COPAR FOR COMMUINITY HEALTH DEVP’T, JIMENEZ, P. 36)
+
+a.	Decentralization
+b. Community participation
+c. Self reliance
+d. Social mobilization
+
+5.	Participatory Action Research (PAR) is an investigation on problems and issues concerning life and environment of the underprivileged by way of research collaboration. The difference between Traditional research and PAR is that in participatory action research:
+Correct. a
+Rationale. if in traditional research the purpose is to identify and meet individual needs within existing social problems, in PAR, through the investigation on problems and issues in the community, people will be conscious of their suffering and develop competence for changing their own situation (social transformation). B-refer to A. C- the outside researcher is the professional researcher, he shares his knowledge to encourage genuine participation. This researcher initiates the researcher initiates the research process, assisting the community but does not dominate the community. The community members are the ones who will define their own problems. D- the methodology in PAR is determined by the local culture and innovativeness of the people. The method of data collection is through discussion among villagers and direct observations.  (COPAR FOR COMMUNITY HEALTH DEVP’T, JIMENEZ, P. 40-41)
+
+a.	It seeks social transformation
+b.	The purpose is to identify individual needs
+c.	The professional researcher defined the research or community problem
+d.	The method of data collection is through questionnaires and surveys
+
+6.	The following except one are the activities that the students do during their immersion period of Student Immersion Program.
+Correct. b
+Rationale. exposure is allowing the students to go to the Barrios to see the actual situation that affect the health conditions of the people as well as to observe and find out their health practices. The students go to the barrios for some hours. A, C, D- these are the activities involved in the emersion period. Other activities include: social investigation, community study and diagnosis, conduct of training seminars. (COPAR FOR COMMUNITY HEALTH DEVP’T, JIMENEZ, P. 51)
+
+a.	Selection of site
+b.	Exposure to the barrios
+c. Conduct election of officers
+d. Provide health and education services
+
+7.	In the community study/diagnosis phase of COPAR process, the program utilizes:
+Correct. d
+Rationale. community study is a comprehensive documentation of data about the community gathered through social investigation. A- team- building activities happen during the community organization and building phase. B, C- mobilization schemes happen and is done during the community action phase as well as setting up linkages, network and referral systems.  (COPAR FOR COMMUITY HEALTH DEVP’T, JIMENEZ, P. 75)
+
+a.	Team building activities
+b.	Initial identification and implementation of resource mobilization schemes
+c.	Setting up referral systems
+d.	Participatory action research
+
+8.	A group of BSM II students are now in the entry phase of COPAR. One of the important activities that should be undertaken is to facilitate integration in the selected community. This can be done through:
+Correct. d
+Rationale. conversing with people in places where they usually gather, such as corner store, market place or washing streams facilitates integration. House to house visit or informal discussions will help in getting acquainted with people and the residents who would know the nature of the program. This will develop empathy towards the people. A- this will help in identifying potential leaders in the community to prepare the community for health and development work. B, C- these are examples of delivery of basic health services. These activities will orient the community on the health services that can be done in the community.  (COPAR FOR COMMUNITY HEALTH DEVP’T, JIMENEZ, P. 67)
+
+a.	Core group formation
+b. Weighing of children
+c. Health education
+d. Converse with people
+
+9.	The following except one are the phases of emergency/disaster management.
+Correct. b
+Rationale. this is part of the Praparedness phase  (PHN IN THE PHIL.1OTH ED, P. 331)
+
+a.	Prevention
+b. Awareness
+c. Preparedness/readiness
+d. Mitigation
+
+10.	Which of the following statements is incorrect about Principles of Disaster Management?
+Correct. b
+Rationale. they should be developed before or prior to the disaster. The rest of the choices are correct.  (PHN IN THE PHIL., 1OTH ED, P. 331)
+
+a.	The first priority is the protection of people
+b.	Capabilities are developed during the impact of a hazard
+c.	Disaster management is part of national development plans and objectives
+d.	It is an interdisciplinary collaboration
+
+11.	Who supervises Botika ng Barangay operations?
+Correct. c
+Rationale. Choices A,B- they are trained as Botika ng Barangay Aides  (PHN IN THE PHIL. 10TH ED, P. 335)
+
+a.	Accredited barangay health workers
+b.	Community volunteer health workers
+c. Licensed pharmacist
+d. Public health Midwife
+
+12.	The Purok 2 Barangay health center is conducting health teaching program to the operators of animal farms. The PHN enumerated preventive measures in humans in order to prevent Avian Influenza. Which of the following measures is inappropriate?
+Correct. c
+Rationale. this does not fall on the “prevention” aspect. Early recognition of cases is an appropriate measure during an outbreak among poultry with the virus.  (PHN IN THE PHIL. 10TH ED, P. 3405)
+
+a.	Children in any instance should be discouraged from handling poultry
+b.	Proper cooking of poultry should be observed
+c.	Early recognition of cases
+d.	Yearly vaccination of poultry workers
+
+13.	In the provision of Programs and Projects of The DOH Nutrition Program, all of the following are included in the Service Package of Maternal and Child Health, BUT:
+Correct. d
+Rationale. Essential Maternal and Child Health Service Package ensure the right of the child, development, protection and participation. It includes the following: BREASTFEEDING, COMPLEMENTARY FEEDING, MICRONUTRIENT SUPPLEMENTATION. Food fortification is one of the Programs and projects in the DOH NUTRITION PROGRAM
+
+a. Breast feeding
+b. Complementary feeding
+c. Micronutrient feeding
+d. Food fortification
+
+14.	When the midwife determines whether resources were maximized in implementing Ligtas Tigdas, she is evaluating:
+Correct. b
+Rationale. Efficiency is determining whether the goals were attained at the least possible cost.
+
+a.	Effectiveness 		b. Efficiency 			c. Adequacy 		d. Appropriateness
+
+15.	In the IMCI program of the WHO-DOH, the mother of a one-year-old child with 5 times watery stools with no signs of dehydration, will be advised by the midwife to return to the center if the following symptoms develop:
+Correct. a
+Rationale. empty
+
+a. Bloody stools, drinks poorly
+b. Cries with tears
+c. Vomiting, febrile
+d. All of the above
+
+16.	A 4 1/2 old child is observed to have fever, is difficult to wake up, cannot drink and severely undernourished. Under the IMCI program this child can be classified as having:
+Correct. d
+Rationale. empty
+
+a. Severe Pneumonia
+b. Pneumonia
+c. No penumonia
+d. Very severe disease
+
+17.	In the Non-Communicable Disease Control Program of the DOH, Midwife Fe recognizes her role in the control of Hypertension of her constituents. In this program the midwife who is taking the BP of a new patient observed that 2 readings differ by 5 mmHg will:
+Correct. d
+Rationale. if the first 2 readings differ by 5 mmHg or more, obtain a 3rd reading and include this in the average. If it is the first visit, repeat the procedure with the other arm. Subsequently, BP readings should then be performed on the arm with a higher BP.  (PHN IN THE PHILIPPINES, 10TH ED, P. 50)
+
+a.	Document the BP readings
+b.	Take the mean of the 2 readings and consider this as the client’s BP
+c.	Inform the client of the result and stay for a while to answer client’s questions
+d.	Obtain a 3rd reading, using the other arm
+
+18.	To assess certain problems to the infant after delivery, when will the NewBorn Screening (NBS) be done to the infant delivered in the RHU?
+Correct. d
+Rationale. inform each woman the importance of BIRTH REGISTRATION, IMPORTANCE OF BREAST FEEDING, NBS FOR BABIES IN RHU 48 HOURS – 2 WEEKS AFTER BIRTH, AND SCHEDULE TO RETURN FOR POST PARTUM VISITS.
+
+a. Immediately after birth until the first 72 hours
+b. After giving the dose of BCG
+c. Before cleaning the cord, getting blood sample from it
+d. 48 hours up to 2 weeks after birth
+
+19.	Which is an example of the school midwife’s health care provider functions?
+Correct. b
+Rationale. Conducting random classroom inspection during a measles epidemic
+Random classroom inspection is assessment of pupils/students and teachers for signs of a health problem prevalent in the community.
+
+a.	Requesting for BCG from the RHU for school entrant immunization
+b.	Conducting random classroom inspection during a measles epidemic
+c.	Taking remedial action on an accident hazard in the school playground
+d.	Observing places in the school where pupils spend their free time
+
+20.	This provides data which is needed to plan the client’s care and ensure its continuity and serves as an important communication tool for various team members:
+Correct. c
+Rationale. through documentation, this furnishes written evidence of the quality of care that the client received and their response to it: whether revisions were made in hid/her plan of care and whether such has been effective. A- this refer to changes in the client’s health status that result from nursing. B- this will evaluate the effectiveness of nursing care done or changes in behavior, condition, or compliance. D- this will give essential direction to action, specific objectives of care made.  (PHN IN THE PHILIPPINES, 10TH ED, P. 46)
+
+a.	Outcome elements
+b. Quality assurance
+c. Documentation
+d. Goal setting
+
+21.	Midwife Ann is instituting measures to solve the environmental problem in her barangay. She is performing:
+Correct. c
+Rationale. empty
+a. Planning
+b. Assessment
+c. Intervention
+d. Evaluation
+
+22.	The midwife recognizes that the level of prevention involving communicating with and preparing the employees’ supervisor regarding placement of job after employees have recovered from illness/sickness is:
+Correct. c
+Rationale. Rehabilitation efforts are directed toward workers disabled by occupational and non-occupational problems. Placement in a job involves careful analysis of the work, tools and workplace to ascertain necessary modifications. A- in primary prevention, dissemination of health and safety information and instruction are common prevention technique towards workers. B- early detection and treatment of both work- and non-work related health problems, screening and monitoring of workers exposed to potential hazards and the affected community posed by the company hazards are the activities in the secondary level of prevention. D- this is not a level of prevention, but an assessment of the occupational health program.  (PHN IN THE PHILIPPINES, 10TH ED, P. 106)
+
+a.	Primary prevention
+b. Secondary prevention
+c. Tertiary prevention
+d. Program evaluation
+
+23.	The midwife knows that her role in the healthcare delivery system involves primary level of prevention. By this, it means that the midwives’ primary goal in healthcare is:
+Correct. a
+Rationale. empty
+
+a.	assessment of the community’s health status
+b.	case finding of patients with early signs and symptoms of diseases, both communicable and non infectious.
+c.	Early diagnosis and treatment of disease conditions
+d.	Restoration of houses in the community after a typhoon
+
+24.	Which of the following cases is NOT covered by EPI?
+Correct. d
+Rationale. Rubella (German Measles)
+
+a. Ralph with lockjaw
+b. Jane with low grade fever and night sweating
+c. Tina with maculo-papular rashes and Koplik’s spots
+d. Kate with fever and polymorphous rashes
+
+25.	The Hepatitis B immunization had been newly integrated into the EPI (Expanded Program on Immunization). What year was the Hepatitis B vaccine included in the EPI program?
+Correct. a
+Rationale. hepatitis B immunization has been integrated into the EPI in 1992 among infants 0-1 year of age. B- this was the period of excitement where all concerned agencies public and private sector participated for the Oplan Alis Disis (Polio Eradication Project). C- in this year, our country has been certified polio free. D- this was the year when the program achieved 80% coverage of fully immunized children (FIC) in the country.  (PHN IN THE PHILIPPINES, 10TH ED, P.141)
+
+a.	1992
+b. 1997
+c. 2000
+d. 1990
+
+26.	BCG vaccine is given to infant at time of birth. It is usually administered on the right deltoid of the arm. You recall that the upper outer part of the thigh receives what vaccine?
+Correct. d
+Rationale. Measles is administered on the outer part of the upper arm. Wherein the Tetanus toxoid vaccine in on the deltoid region of the arm.
+
+a. Hepa B and Tetanus Toxoid
+b. Measles and Hep B
+c. DPT and Tetanus Toxoid
+d. DPT and Hep B
+
+27.	A child can be called FIC or FULLY IMMUNIZED CHILD when a child receives the following before a child’s birthday.
+Correct. b
+Rationale. empty
+
+a.	Spongebobsando
+b.	1 dose of BCG and measles, and 3 doses of OPV, DPT and Hep B
+c.	1 dose of BCG and measles, and 3 doses of OPV, DOT and Hep B
+d.	1 dose of BCG, 1 measles, 3 doses of OPV, 3 doses of DPT, 3 doses of Hep B, 4 doses of Tetanus Toxoid
+
+28.	Micronutrient supplementation is necessary to the fetus. Vitamin A is given twice a week, after 4 months of pregnancy. How much Vit. A will the mother receive?
+Correct. c
+Rationale. the dose of Vitamin A is 10,000 iu. It is given twice a week (a total of 20,000 iu) starting on the 4th month of pregnancy to prevent the development of congenital anomalies.
+
+a. 10,000 iu in a week
+b. 100,000 iu in a week
+c. 20,000 iu a week
+d. 200,000 iu a week
+
+29.	Vitamin A plays a vital role in the growth and development of children. Ria 8 months old infant just received single dose of Vitamin A. Her mother noticed that Ria develop vomiting, some headaches and nausea. She is now worried, what will advise her?
+Correct. c
+Rationale. . After receiving Vitamin A dose, the child may develop vomiting, headaches, or nausea. Reassure the mother that should these symptoms develop, they will disappear within 24 hours
+
+a.	This is not normal
+b.	The side effect will last about 2 hours and disappear
+c.	Normal and side effect disappears within 24 hours
+d.	The side effect are normal and should disappear within 32 hours
+
+30.	Malnutrition continues to be the public health concerns in the country. The common nutritional deficiencies  are;
+Correct. d
+Rationale. these deficiencies lead to a serious physical, mental, social and economic condition among children and women.
+
+a. Vitamin A, Iron, Vitamin B
+b. Iron,  Thiamine, Vitamin E
+c. Vitamin C, Iron, Iodine
+d. Iron, Iodine, Vitamin A
+
+31.	Food fortification is one of the strategies to prevent micronutrient deficiency conditions. R.A. 8976 mandates fortification of certain food items. Which of the following is among these food items?
+Correct. a
+Rationale. R.A. 8976 mandates fortification of rice, wheat flour, sugar and cooking oil with Vitamin A, iron and/or iodine.
+
+a.	Sugar
+b. Bread
+c. Margarine
+d. Filled milk
+
+32.	Which type of Anemia results when a mother has a profuse bleeding due to uterine atony?
+Correct. d
+Rationale. empty
+
+a. Nutritional anemia
+b. Pernicious anemia
+c. Macrocytic anemia
+d. Blood loss anemia
+
+33.	When a mother is given a Tetanus Toxoid (TT), the baby is protected from tetanus neonatorum through which type of immunity?
+Correct. d
+Rationale. empty
+
+a. Artificial active
+b. Natural active
+c. Artificial passive
+d. Natural passive
+
+34.	How would you explain the occurrence of leg cramps during pregnancy to the mother?
+Correct. d
+Rationale. empty
+
+a. She lacks protein
+b. It is due to the baby’s weight
+c. It is normal in pregnancy
+d. She lacks calcium and should drink milk everyday
+
+35.	According to research and studies which supports BEMOC, fasting in labor:
+Correct. d
+Rationale. Fasting in labor: relic or requirement (An evaluation of the scientific literature) - Fasting during labor is a tradition that continues with no evidence of improved outcomes for mother or newborn. Only one study evaluated the probable risk of maternal aspiration mortality, which is approximately 7 in 10 million births.- Sleutel, M., and Golden, S., 1999 (Slide No. 31)
+
+a.	is a strong pre-requisite for safe delivery and prevention of aspiration
+b.	is a tradition that continues with sufficient basis
+c.	is not supported for sufficient maternal hydration and during labor and delivery
+b.	is a practice that has no evidence to improve outcomes for mother and newborn
+
+36.	The following is not an advantage of uterine massage?
+Correct. c
+Rationale.
+Uterine massage: The Evidence
+_ Less blood loss at 30 minutes
+_ Less blood loss at 60 minutes
+_ Reduction in the use of additional uterotonics
+_ The number of women losing >500 ml of blood
+approximately halved.
+_ Two women in the control group and none in
+the uterine massage group needed blood
+transfusions
+Hofmeyr GJ, et al. Uterine massage for preventing postpartum haemorrhage.
+Cochrane Database of Systematic Reviews 2008, Issue 3 (Slide No. 46)
+
+a.	Less blood loss at 30 minutes
+b.	Less blood loss at 60 minutes
+c. Increase in the use of additional uterotonics
+d. The number of women losing >500 ml of blood approximately halved
+
+37.	The midwife in the clinical area is aware that BEMOC approaches include all, but one:
+Correct. d
+Rationale. Administration of corticosteroid is done during the preterm period according to the BeMONC policy. (Note: pls ask Maam Digs for the PDF and Ppt File on BeMONC)
+
+a. Administration of parenteral antibiotics on its initial loading dose
+b. Administration of parenteral oxytocic drugs
+c. Administration of parenteral anticonvulsants for preeclampsia/eclampsia
+d. Administration of corticosteroid in postterm labor
+
+38.	Which of these options do not reflect principles of maternity care under BeMONC?
+Correct. d
+Rationale. SUMMARY: PRINCIPLES OF MATERNITY CARE
+-1. Effective and beneficial (evidence-basedor scientific)
+-2. Appropriate
+-3. Harmless or safe
+- leads to “Physiologic” management for healthy, normal pregnancies
+
+a. Effective and beneficial (evidence-based or scientific)
+b. Appropriate
+c. Harmless or safe
+d. None of the above
+
+39.	Exclusive breastfeeding is defined as:
+Correct. b
+Rationale. exclusive breastfeeding means giving baby only breast milk and no other liquids or solids, not even water.
+
+a.	Milk is only the source of liquid of the infant
+b.	Providing the infant only breast milk and not even water or other liquids
+c.	Breast milk is substituted if the commercial milk is unavailable
+d.	Breast milk is only an optional thing to do
+
+40.	Ms. Tan is asking the signs of good attachment are. The health care provider is equipped with knowledge that the  signs of  good attachments in breastfeeding are the following, but one:
+Correct. d
+Rationale. the signs of good attachment during breastfeeding are chin touching the breast, mouth wide open, lower lip turned outward, more areola is visible above than below the mouth. If the attachment is not good, one may see: chin is not touching the breast, mouth not wide open, lips pushed forward, lower lip pushed forward, and lower lip turned in or more areola (equal amount) visible below infants than above it.
+
+a. Chin touching the breast
+b. The mouth is wide open
+c. Lower lip turned outward
+d. Lower lip turned inward
+
+
+41.	In the promotion of breastfeeding, encourage mothers to increase milk flow through the following, EXCEPT:
+Correct. a
+Rationale. empty
+
+a. Stretch and roll exercise 	 				c. Regular feeding
+b. Empty both breasts in every feeding			d. Take Natalac tablets
+
+42.	Exclusive breastfeeding of infants is recommended for the first 6 months of their extrauterine lives. Breastfeeding benefits the following option, EXCEPT:
+Correct. d
+Rationale. the benefits of breastfeeding to infants includes (nutritional complete food, streghthens the immune system, increases iq level, reduces the infants exporsure to infection) to mother (reduces post partum hemorrhages,natural method of delaying pregnancy, reduces risk of ovarian, breast cancer as well as osteoporosis) in community (conserve funds that otherwise will be spent on breast milk substitute, saves medical cost to family).
+
+a. Infants
+b. Mother
+c. Community
+d. Father
+
+43.	Midwife Maria is explaining to a mother whose baby was born prematurely about the principles of feeding. Which of the following statements made by the midwife is correct?
+Correct. c
+Rationale. this ensures that he/she gets sufficient nutrients as well as this provides the best stimulus for continued milk production. A- this is not a correct intervention, baby should not be starved. B- extra fluid is needed if the child has a fever or diarrhea. The baby who is exclusively breastfeeding receives all the liquid he needs in the breastmilk.  D- after 6 months of age, all babies require other foods to complement breastmilk, we call these complementary foods.  (PHN IN THE PHILIPPINES, 10TH ED, P. 138)
+
+a.	Starve the baby while waiting for the milk to come in
+b.	Give extra fluids regularly to the child
+c.	Breastfeed per baby’s demand
+d.	Breastmilk satisfies all the nutrient and fluid needs of baby from birth to 1 year of age
+
+44.	It is defined as the temporary post-partum method of postponing pregnancy based on physiological infertility experienced by breast feeding women.
+Correct. b
+Rationale. LAM is Lactational Amenorrheal Method, a natural contraception based on suppression of ovulation while continuously breastfeeding because an increase in Prolactin and Oxytocin suppresses FSH, LH and LTH which are responsible for the process of Ovulation. Choice A. Pills – contains  hormone-estrogen and progesterone taken daily. Choice C. Billing’s method is abstaining from sexual intercourse during fertile ‘wet’ days to prevent pregnancy. Choice D. STH method is identifying the fertile and infertile days of the menstrual cycle as determined through a combination of observations made on the cervical mucus, basal body temp recording and other signs of ovulation.
+
+a. Pills
+b. LAM
+c. Billing’s method
+d. Sympto-thermal method (STH)
+
+45.	Sakura who is now on her 2nd trimester of pregnancy and a mother of 9 children decided that her husband has to undergo a vasectomy. Based on your knowledge, all but one are part of Sakura’s husband experience is:
+Correct. b
+Rationale. the disadvantages of vasectomy are: OPTION A, C AND D.  Advantages include, the man will not lose his sexual desire, ejaculation, and orgasm. The man can have better sex since he does not fear that his partner will not get pregnant. It also does not affect the hormonal function of man.
+
+a. Hematoma in scrotum
+b. Loses orgasm
+c. Reversibility is difficult and expensive
+d. Swelling / edema 2-3 days post procedure
+
+46.	Which type of family-midwife contact will provide you with the best opportunity to observe family dynamics?
+Correct. c
+Rationale. Home visit . Dynamics of family relationships can best be observed in the family’s natural environment, which is the home.
+
+a.	Clinic consultation
+b. Group conference
+c. Home visit
+d. Written communication
+
+47.	Based on the “Unang Yakap” delivery principles, what is the reason for preparing three pairs of gloves?
+Correct. c
+Rationale. Two will be used by the obstetrician (double gloving) and the other pair will be for the pediatrician.
+
+a.	two will be used by the pediatrician and the other pair will be for the obstetrician
+b.	one pair will be used by the obstetrician, the other for the pediatrician and last for the Midwife
+c.	two will be used by the obstetrician and the other pair will be for the pediatrician
+d.	one pair will be used by the obstetrician, the other for the pediatrician and last for the midwife
+
+48.	Which of the following is a correct measure during the first three-minute of the newborn’s life?
+Correct. d
+Rationale. Baby should be fully delivered before calling the time of birth. (B) Time too short. Baby should be dried for at least 30 seconds. This will also stimulate baby to breathe. (C) Do not wash the baby until after 6 hours.
+
+a.	once the baby’s head is delivered from the perineum, call out the time of birth
+b.	dry the baby for at least 15 seconds using the first towel or linen
+c.	wash the baby immediately as the breathing is established
+b.	Initiate skin-to-skin contact as the baby is dry
+
+49.	When should the first pair of gloves be removed by the health care professional facilitating the delivery?
+Correct. a
+Rationale. The second pair of gloves worn by the pediatrician is intended for the cord cutting.
+
+a.	before handling the umbilical cord
+b.	before placental delivery
+c. immediately after baby-out
+d. none of the above
+
+50.	Which of the following should the midwife give further teaching as she observes a nursing student assisting on cutting and handling of the cord?
+Correct. b
+Rationale. Milking is no longer done as pulsation has already stopped before handling of the cord.
+
+a.	waiting for the pulsation to stop before cutting the cord
+b.	not milking the cord on the maternal side, only to the fetal side
+c.	clamping the cord 2 cm above the base of the umbilicus
+d.	applying the second clamp 5 cm from the base of the umbilicus before cutting the cord
+
+51.	 All but one are advantages of waiting for the pulsation to stop:
+Correct. d
+Rationale. Inject 10 IU Oxytocin into the mother’s arm to prevent uterine atony.
+
+a. prevents anemia
+b. lower rate of intraventricular hemorrhages
+c. milking is no longer necessary
+d. oxytocin administration will be optional
+
+52.	Which statement does not explain the need for skin-to-skin contact between the mother and the newborn?
+Correct. d
+Rationale. Newborn will begin crawling reflex usually after 30 min as he needs to feed. Counsel the mother on positioning and attachment.
+
+a.	It is essential to creating the bond between mother and child increasing the chances of over-all success of breastfeeding
+b.	Allows colonization of good bacteria
+c.	Protection from hypoglycemia
+b.	It discourages newborn’s crawling reflex for correct breastfeeding
+
+53.	Based on the “Unang Yakap” protocol, the newborn should:
+Correct. b
+Rationale. This promotes early mother-child bonding and will be continued with rooming-in
+
+a. receive eye care on the NICU after vital signs are stabilized
+b. be allowed to stay with the mother as she recovers from giving birth
+c. stay at the NICU for further assessment and observation on the first 24 hours of life
+d. be washed after an hour
+
+54.	The old midwife on the area needs to be instructed by the Midwife Manager regarding “Unang Yakap” Protocol. Which of her action should be applauded?
+Correct. d
+Rationale. Teaching the mother exclusive breastfeeding up to six months. Rapid assessment of breathing and tone is done while drying the infant for at least 30 seconds. Immediately clamping the cord after delivery should not be done as you need to wait for the pulsation to stop.  Eyecare and immunization after the first breastfeeding is done on the mother’s chest or abdomen to continuously promote mother-child bond.
+
+a. Teaching the mother exclusive breastfeeding up to two years
+b. Rapid assessment of breathing and tone after drying the infant
+c. Immediately clamping the cord after delivery
+d. Eyecare and immunization after the first breastfeed
+
+55.	Which of the following best explains the rationale of the “Unang Yakap? Principle?
+Correct. b
+Rationale.  (7:47 of Unang Yakap Video)
+
+a. It is parallel to the FOURmula One Program initiate since the time of Pres. Arroyo
+b. It is in line with the millenium development goal of reducing child mortality in the country
+c. It centered on the goal of decreasing the risk of maternal death in the rural and sub-urban areas
+d. All of the above
+
+56.	Under the IMCI Protocol, how many signs are needed to classify under any one classification?
+Correct. b
+Rationale. according to DOH, two signs must be present in each classification
+
+a. one
+b. two
+c. three
+d. all
+
+57.	Jasmine would be classified by the midwife under which classification for the diarrhea?
+Correct. c
+Rationale. no dehydration- not enough signs to classify as some or severe dehydration
+
+a.	Severe Dehydration
+b. Some Dehydration
+c. No dehydration
+d. None of the above
+
+58.	Given the classification identified above, what will the midwife do to treat Jasmine?
+Correct. c
+Rationale. plan A- treat diarrhea at home
+
+a. Give fluid as in Plan C
+b. Give fluid and food as in Plan B
+c. Treat diarrhea at home as in Plan A
+d. Refer the child urgently
+
+59.	 What is the classification for baby Clarisse in the fever assessment box?
+Correct. c
+Rationale. - Fever: Malaria unlikely: blood smear (-), runny nose, measles, other causes of fever
+Malaria: blood smear(+)
+Very severe febrile disease/Malaria: Any general danger signs or stiff neck
+
+a. Very severe Febrile Disease/ Malaria
+b. Malaria
+c. Fever: Malaria unlikely
+d. none of the above
+
+60.	What is the treatment for the classification identified above?
+Correct. c
+Rationale. - interventions under the classification of “fever: malaria unlikely:
+-	Give one dose Paracetamol for temperature 38.5 degree Celsius and above
+-	Advise mother when to return immediately
+-	Follow up in 2 days if fever persists
+
+a. First dose of Quinine then after
+b. Oral antimalarial drug
+c. Give Paracetamol for temperature 38.5 degree Celsius and above
+d. none of the above
+
+61.	What is the classification for measles if the child admitted shows pus draining from the right eye?
+Correct. b
+Rationale. measles with mouth or eyes complication: pus draining from the eye, mouth ulcers
+Severe Complicated Measles: any general danger signs, clouding of cornea or deep or extensive mouth ulcers
+
+a. Severe Complicated Measles
+b. measles with mouth or eyes complication
+c. measles
+d. none of the above
+
+62.	What is the treatment of measles with mouth complication?
+Correct. a
+Rationale. treatment for measles with eye or mouth complications: Give vit. A, if pus draining from the eye (apply tetracycline eye ointment), if mouth ulcers (teach the mother the treat with gentian  violet, follow up in 2 days
+
+a. salt water and gentian violet
+b. betadine and gentian violet
+c. gentian violet
+d. none of the above
+
+63.	For measles with eye or mouth complications, the child is given with VAC. If Baby Evan, who is 12 months and 2 weeks old the recommended VAC is:
+Correct. c
+Rationale. for children ages 1 year and above, give VAC 200,000 iu every six months.
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	100,000 iu to be taken every 6 months
+b.	100,000 iu to be taken on a single dose
+c.200,000 iu every 6 months
+d.200,000 iu on a single dose basis every year
+
+64.	Baby Kiko, 4 years of age, has a body temperature of 37.8°C. Upon assessment at the health center, baby Kiko was diagnosed to have measles and has mouth ulcer. If measles now or within the last 3 months, the classification is:
+Correct. b
+Rationale. Measles- color coded Green is assess for measles now or within the last three months.
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	severe complicated measles
+b. measles
+c. measles with malaria
+d. measles with eye or mouth complication
+
+65.	What is Menchu’s classification for dehydration?
+Correct. b
+Rationale. Some dehydration:
+Two of the following signs:
+-	Restless, irritable
+-	Sunken eyes
+-	Drinks eagerly, thirsty
+-	Skin pinch goes back slowly
+
+a. Severe Dehydration
+b. Some dehydration
+c. no dehydration
+d. mild dehydration
+
+66.	How much oresol will the health worker give Menchu for the classification identified above?
+Correct. b
+Rationale. - determining amount of ORS over 4-hour period:
+12 months- 2 years(10- <10 kg): 700- 900 mL
+Other method is: weight (kg) times 75: 75*10= 750 mL
+
+a. 650 cc
+b.750cc
+c.50 to 100cc after each loose stool
+d.  None of the above
+
+67.	 What are the classification of Menchu for persistent diarrhea and bloody stool?
+Correct. a
+Rationale. since menchu has signs of dehydration, she is classified under severe persistent diarrhea(more  than 14 days); there is blood in the stool
+
+a. Severe Persistent Diarrhea and Dysentery
+b. Persistent diarrhea and Dysentery
+c. No dehydration and Dysentery
+d. none of the above
+
+68.	 Sugar water given to prevent hypoglycemic is prepared as follows:
+Correct. b
+Rationale. : If the child is not able to breastfeed but is able to swallow:
+-	Dissolve 4 level teaspoons of sugar(20 grams) in 200ml water
+
+a. 4 teaspoons heapful of sugar in 200 ml water
+b. 4 level teaspoons of sugar in 200ml water
+c. 30 – 50 ml milk in 200ml water
+d. 5ml/kg of 10% Dextrose water (D10) over a few minutes
+
+69.	What is the replacement of the a milk in the care of a child who has a persistent diarrhea;
+Correct. c
+Rationale. empty
+
+a.rice water
+b.buko juice
+c.nutrient rich semi solid foods
+d.none of the above
+
+70.	Lucresia, a newly hired Midwife was assigned at a district hospital. During summer months, there are an increased number of cases for diarrhea. A client classified under Some dehydration should be assessed for all but one:
+Correct. c
+Rationale. Signs to be assessed for Some Dehydration; Yellow are: restless, irritable, sunken eyes, drinks eagerly/ thirsty and skin when pinch it goes back slowly
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	the child is restless and irritable
+b.	drinks eagerly or thirsty
+c. skin when pinch goes back very slowly
+d. sunken eyes
+
+71.	 Justin Baby has not able to drink, has sunken eyes upon initial assessment and has diarrhea. Upon epidemiological surveillance and report, there are no cases of shigellosis. This data would be interpreted as:
+Correct. c
+Rationale. A child with signs of dehydration and has diarrhea is under the Pink row: Severe Persistent Diarrhea
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	Severe dehydration
+b. Dysentery
+c. Severe Persistent diarrhea
+d. Persistent diarrhea
+
+72.	 Madame Tander, a head Midwife of an RHU is orienting a group of new midwives regarding the treatment plan and protocol for diarrhea. She emphasize that all except for one is not a part of home treatment:
+Correct. c
+Rationale. Zinc supplement is given for children 2 months up to 5 years)
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	Continue feeding the child
+b.	Give extra fluids
+c. Give zinc supplement for (0months – 5 years)
+d. When to return or follow-up
+
+73.	Teach the mother or guardian how to mix and give ORS, give the mother 2 packets of ORS to use at home. The next step would be to show the mother how much fluid to give in addition to the usual fluid intake for a child whose age is 2 years and 6 months:
+Correct. c
+Rationale. . For Plan-A diarrhea management: Fluid for 0 – 2 years: 50 – 100 ml and 2 years and above: 100 – 200 ml
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	50 - 100 ml after each loose stool
+b.	200 – 450 ml after each loose stool
+c. 100 – 200 ml after each loose stool
+d. 450 – 800 ml after each loose stool
+
+74.	 In the clinic, the Midwife gave the recommended amount of ORS over a period of 4 hours for a client under yellow row. What is the recommend amount or volume of fluid if the child is 8 months old and weighs 9.95 kgs.:
+Correct. d
+Rationale. If the child weighs between 6 - < 10 kg and whose age is from 4 months to 12 months, they should receive at least 450 – 800 ml of fluid for over a 4 hour period
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	960 – 1600 ml
+b. 200 -450 ml
+c. 800 – 960 ml
+d. 450 – 800 ml
+
+75.	If the child has diarrhea and signs of dehydration. The public health Midwife places the child under Plan-C though the child can drink, Midwife Virgie gave 100 ml/kg of PNSS. What action made by Virgie needs immediate teaching and correction:
+Correct. d
+Rationale. Re-assessment for infants are done after 6 hours and for a child, after 3 hours
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	She re-assess the child every 1 -2 hours for hydration status
+b.	She gave ORS when the child can drink
+c.	After 1-2hours of assessing the status of the child, she increases the IV drip rapidly
+d.	She re-assess an infant after 3 hours
+
+76. Boy Garlick was rushed by her mother to the nearest health agency because of fever. Assessment revealed: (-) of stiff neck, axilla temperature of 37.6°C and resides in Mandaluyong. Malaria classification is:
+Correct. c
+Rationale. The child has no danger sign neither stiff neck and resides in Mandaluyong, a low-malaria or no malaria risk area
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	High Malaria Risk –Malaria
+b.	Low Malaria risk – Malaria
+c. Low Malaria risk – Fever; Malaria unlikely
+d. High malaria risk – Very Severe febrile disease
+
+77. A child with history of travel from Mindoro suddenly develops fever 3 days after and had convulsion, stiff neck. This data is under what IMCI classification:
+Correct. d
+Rationale. . Mindoro is under the PMN surveillance for red alert for malaria including Palawan and Tawi-tawi. The child has history of travel then develops fever with one general danger sign and stiff neck.
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	High Malaria Risk –Malaria
+b.	Low Malaria risk – Malaria
+c. Low Malaria risk – Fever; Malaria unlikely
+d. High malaria risk – Very Severe febrile disease
+
+78. A 4 year old child under high malaria risk with the following sign/s: body temperature of 37.5C, warmth to touch , should received which treatment:
+1.	Give quinine (1st dose)
+2.	Give one dose of paracetamol
+3.	If fever persist or present every day for more than 7 days, refer for assessment
+4.	Treat the child to prevent low blood sugar
+5.	Follow-up in 5 days
+Correct. c
+Rationale. For High Malaria risk – Malaria (Yellow) is assessed for Fever (or by history or feels hot or temperature of 37.5C and with the following treatment: (aside from 2 and 3) Give oral co-artemether, advise the mother when to return, follow-up in 2 days if fever persist and if fever is present everyday for more than 7 days, refer for assessment
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	1,3 and 5
+b. 1, 2 and 4
+c. 2 and 3
+d. 2, 3 and 5
+
+79.A child came in at the health center with his mother. The mother verbalizes "Kaya ko po siya dinala dito dahil ilang araw ko ng naoobserbahan na may lumalabas sa tenga ng anak ko at umiiyak sya parati habang nakahawak sa tenga". The Midwife would look and feel for which of the following data:
+	i. Ear pain	ii. Ear discharge		iii Pus draining from the ear	iv. Tender swelling behind the ear
+Correct. b
+Rationale. III and IV. In the manual, does the child have an ear problem: the health care provider will Look and Feel for (1) Look for pus draining from the ear (2) feel for tender swelling behind the ear
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	i and iii
+c. i and ii
+b.   iii and iv
+d. ii and iv
+
+80.The following treatment are applied for what ear problem classification: Give antibiotics for 5 days, Give paracetamol for pain, dry the ear by wicking and follow-up in 5 days:
+Correct. b
+Rationale. Acute ear infection is managed by the following treatment: Give antibiotics for 5 days, Give paracetamol for pain, dry the ear by wicking and follow-up in 5 days
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	No ear infection
+b. Acute ear infection
+c. Chronic ear infection
+d. Mastoiditis
+
+81.Mastoiditis is defined as:
+Correct. b
+Rationale. By definition it is an infection of the mastoid bone of the skull, located just behind the outside ear. Or infection of the mastoid process, the portion of the temporal bone of the skull. In IMCI it is the tender swelling behind the posterior portion of the ear.
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	tender swelling behind the ear
+b.	tender swelling behind the posterior portion of the ear
+c.	tender swelling behind the anterior portion of the ear
+b.	all of the above
+
+82.Pus is seen draining from the ear with discharge that is less than a week:
+Correct. c
+Rationale. Acute Ear Infection is assessed through: (1) Pus is seen draining from the ear and (2) discharge is reported for less than 14 days (3) or with Ear pain
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	Mastoiditis
+b. Chronic Ear Infection
+c. Acute Ear Infection
+d. No Ear Infection
+
+83.All except for one is not part of the treatment and management for a client under Chronic ear infection:
+Correct. d
+Rationale. refer urgently to the hospital is under the treatment protocol for Mastoiditis /Pink row
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	Follow-up in 5 days
+b.	Treat with topical quinolone eardrops
+c. Dry the ear by wicking
+d. Refer urgently to the hospital
+
+84.In checking for malnutrition the following data or assessment findings verify the condition except for:
+Correct. d
+Rationale. Look for palmar pallor is a condition for anemia
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	look for visible severe wasting
+b.	look for edema of both feet
+c. determine weight for age
+d. look for palmar pallor
+
+85.A child who is 1 year of age is very low weight for age and has some palmar pallor, this would be a condition classified as:
+Correct. c
+Rationale. Both conditions are under the Yellow row of malnutrition and anemia status. Very low weight for age and Anemia
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	Severe Malnutrition and Severe Anemia
+b.	Severe malnutrition and Anemia
+c. Very low weight for age and Anemia
+d. Very low weight for age and Severe anemia
+
+86.Treatment protocol for some palmar pallor are:
+Correct. c
+Rationale. Give Mebendazole if child is 1 year of age and above and has not had a dose in the previous six months
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	Give Iron preparation
+b.	Give oral anti-malarial drug if high malaria risk
+c.	Give Mebendazole if child is 1 year of age and above and had a dose in 6 months
+d.	Follow –up in 14 days
+
+87.Assessment finding for severe malnutrition include which of the following data:
+I.	 Severe palmar pallor			III. Visible severe wasting
+II. Very low weight for age		IV.  Edema of both feet
+Correct. d
+Rationale. A child with severe malnutrition is assessed for : (1) Visible severe wasting and (2) Edema of both feet
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	I and III
+b. II and IV
+c. I and II
+d. III and IV
+
+88.Assess the child's feeding and counsel the mother on feeding according to the feeding recommendations. If the child is classified under very low weight for age, follow-up is done in:
+Correct. c
+Rationale. Very low weight for age under Yellow row; follow-up in 30 days
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	14 days
+b. 5 days
+c. 30 days
+d. 2 days
+
+89.A 1 1/2 month old child upon home visit by the midwife has the following findings: not feeding well, reported to have a previous convulsion, respiratory rate of 61 breaths per minute and an axilla temperature of 37.6C. This is classified as:
+Correct. d
+Rationale. Signs for very severe disease are the following: Not feeding well, convulsions, fast breathing, severe chest indrawing, fever 37.5C or above, low body temperature less than 35.5C and movement only when stimulated or no movement at all.
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	Severe disease
+b.   Local infection unlikely
+c. Local bacterial infection
+d. Very severe disease
+
+90.A newborn develops jaundice after 24 hours of birth. Further assessment shows that palms or soles are not yellow. The midwife will classify the newborn as having:
+Correct. b
+Rationale. Jaundice, appearing after 24 hours of age, and Palms and soles not yellow
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	No Jaundice
+b. Jaundice
+c. Severe Jaundice
+d. Pathologic jaundice
+
+91.After checking for diarrhea, the next step is to check for feeding problem or low weight for age. An infant who is not sucking effectively and has less than 8 breastfeeding within 24 hours and has a thrush is classify for :
+Correct. c
+Rationale. feeding problem or Low weigh for age is assess by the following signs: receives other foods or drinks, low weight for age and not well attached to breast
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	feeding problem
+b.	low weight for age
+c. Feeding problem or Low weight for age
+d. Very Severe Disease
+
+92.A mother in the post-partum ward asks the midwife regarding signs of good attachment. Signs of good attachment of the baby to the nipple include all but one:
+Correct. b
+Rationale. To check for attachment. Look for: (1) more areola seen above infant's lip than below bottom lip, (2) mouth wide open (3) lower lip turned outwards and (4) chin touching the breast
+Reference: Integrated Management of Childhood Illness-Department of Child and Adolescent Health and Development; WHO, and UNICEF, version 2008
+
+a.	mouth wide open
+c. chin touching the breast
+b.	lower lip turned inward
+d. more areola seen above infant's top lip
+
+93.Baby Jeffrey, age 36 months has persistent abdominal pain, persistent vomiting and has fever for more than 3 days. Basing from the given data, Baby Jeffrey is classified as having what condition:
+Correct. c
+Rationale. Severe Dengue Hemorrhagic Fever signs are: (+) Tourniquet test, capillary refill more than 3 seconds, skin petechiae, cold and clammy extremities, black stool or vomitus, bleeding in stools or vomitus, bleeding from nose or gums
+Reference: IMCI Manual- WHO, UNICEF, DOH, ADPCN and APSOM
+
+a.	Severe Persistent Diarrhea
+b.	Severe Dehydration
+c. Severe Dengue Hemorrhagic Fever
+d.Severe Complicated Measles
+
+
+94.A mother brought her 3 year to the center for persistent diarrheal weakness. The Midwife tries to assess further if the child is abnormally sleepy or difficult to awaken as evidenced by the following except:
+Correct. c
+Rationale. the child looks around the room despite weakness, which means that there is still interest on the part of the child.  (IMCI, VILLARAMA, P. 6)
+
+a.	He does not respond when touched
+b.	The child does not show interest in what’s happening around him
+c.	The Midwife notices the child watching her and weakly looks around the room
+d.	The child stares blankly
+
+95.Joyce, a 5 year old child was brought to the center for diarrhea. Assessment findings include: skin pinch goes back very slowly, drinks eagerly when offered water. The Midwife will classify her as having:
+Correct. d
+Rationale. if there is one sign present in the pink (severe dehydration) and one in the yellow (some dehydration) row, classify her on the yellow row.  (IMCI, VILLARAMA, P. 15)
+
+a.	No dehydration
+b. Persistent diarrhea
+c. Severe dehydration
+d. Some dehydration
+
+96.A group of BSM II students conducted a physical examination on children 5 years old below for malnutrition and anemia. One child was assessed to have: skin in the palm is very pale, the outline of ribs is easily seen and edema on both feet. This child will be classified as:
+Correct. c
+Rationale. severe malnutrition or severe anemia occurs when the child has visible severe wasting, severe palmar pallor, or edema on both feet. B- this occurs when the child has some palmar pallor or very low weight for age. D- this occurs when there is no anemia and there are no other signs of malnutrition.  (IMCI, VILLARAMA, P. 31)
+
+a.	Moderately malnourished
+b.	Anemia
+c. Severe anemia or severe malnutrition
+d. Not very low weight
+
+97.This is given to a child with measles.
+Correct. d
+Rationale. vitamin A resists the complications of measles virus and also helps the immune system to prevent other infections. A, C- these are anti malarial agents.  (IMCI, VILLARAMA, P. 14)
+
+a.	Primaquine
+b. Vitamin C
+c. Sulfadoxine
+d. Vitamin A
+
+98.A child has just received his first dose of OPV. The mother asked the Midwife of its side effects. The Midwife is correct if she tells the mother:
+Correct. d
+Rationale. no side effects are expected for OPV. A-fever is a side effect of DPT and Measles vaccine. B, C- these are not expected.  (IMCI, VILLARAMA, P. 78)
+
+a.	A slight fever is expected
+b.	Mouth sores could develop
+c. Transient watery stools  normal
+d. no side effect is expected
+
+99.The IMCI process is a case management process for a first level facility such as clinics and health centers. The following except one are the elements of IMCI case management process:
+Correct. b
+Rationale. improving family and community practices related to health and nutrition belongs to the 3 components of IMCI. The other two are: 1.) upgrading the case management and counseling skills of health care providers 2.) strengthening the health system effective management of childhood illness. A- because many children have more than one condition, each illness is classified according to whether it requires urgent pre-referral and referral (pink), treatment and advice (yellow), or home management (green). C- after classifying all conditions, identify specific treatment for the child. D-treatment includes teaching the caretaker how to give oral drugs, treat local infections.  (IMCI, A CONDENSED MODULE FOR MIDWIFES, VILLARAMA, P.3)
+
+a.	Classify
+b. Improve
+c. Identify
+d. Treatment
+
+100. A mother brings her sick child to the health center. As a PHM, you utilized the IMCI guidelines. The following except one are the danger signs that you would assess the child to know the seriousness of the problem:
+Correct. c
+Rationale. ear problems belonged to “main symptoms” along with cough, diarrhea and fever. A, B, D- “danger signs” include convulsions, lethargy, and unconsciousness, inability to drink/breastfeed and vomiting.  (IMCI, VILLARAMA, P. 4)
+
+a.	Check convulsions
+b.	Determined if the child is able to drink or breastfeed
+c. Assess ear problems
+d. Child is noticed to be abnormally sleepy
+
+GOOD LUCK AND GOD BLESS!!!
+
+SUBMIT YOUR ANSWER SHEET TO YOUR PROCTOR AND WAIT FOR FURTHER INSTRUCTIONS. ..
+

@@ -1,0 +1,286 @@
+<html>
+<head>
+	<link rel="stylesheet" href="css/w3.css">
+	<link rel="stylesheet" href="css/themes/w3-theme-blue.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<script src="js/bootstrap.min.js"></script>
+
+	<link 	rel="stylesheet" href="css/mycss.css">
+	<script type="text/javascript" src="js/snap.svg.js"></script>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/fraction.js"></script>
+	<script type="text/javascript" src="js/topic/myrationalnumbers.js"></script>
+	<script type="text/javascript" src="js/topic/myappjs.js"></script>
+	<script type="text/javascript" src="js/topic/myjs.js"></script>
+	<script>
+		function initialSpeech() {
+				setTimeout(function () {
+					sendTTS($('description').text());
+					sendTTS("Please click on the Drill to do the exercises.");
+				}, 5000);
+		}
+	</script>
+</head>
+<body>
+<div class="w3-container w3-theme w3-card-2">
+	<h3>Rational Numbers</h3>
+</div>
+<p style="text-align: left" id="description">
+	A <b>rational number</b> is a <b>number</b> that can be written as a ratio. That means it can be written as a fraction, in which both the numerator (the <b>number</b> on top) and the denominator (the <b>number</b> on the bottom) are whole <b>numbers</b>. The <b>number</b> 8 is a <b>rational number</b> because it can be written as the fraction 8/1.
+	<br>
+<p>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Locating Rational Numbers:</h4>
+</div>
+<svg id="container1" width="290px" height="200" style="width:290px;">
+</svg>
+<center>
+	Plot:
+	<select id="plotSelect" name="plotSelect" style="width: 100px; background-color:magenta; color:white; font-size: 18px;">
+		<option value=".5"><sup1>1</sup1>&frasl;<sub1>2</sub1></option>
+		<option value="-.5">-<sup1>1</sup1>&frasl;<sub1>2</sub1></option>
+		<option value="-1.5">-<sup1>3</sup1>&frasl;<sub1>2</sub1></option>
+	</select>
+</center>
+<br>
+<p>
+	If you click on all the buttons above you will see that the <code>1&frasl;2</code> is at the farthest right,
+	<br>while the <code>-1&frasl;2</code> is at the left of the origin, while the <code>-3&frasl;2</code> was at the furthest left.
+	<br>This will also means that <code>-3&frasl;2 < -1&frasl;2 < 1&frasl;2.</code>
+</p>
+<br>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Reducing Fractions to Lowest Terms:</h4>
+</div>
+Consider the following two fractions:
+<blockquote><sup1>1</sup1>/2 and <sup1>2</sup1>/4</blockquote>
+These fractions are <code>equivalent fractions</code>.
+They both represent the same amount.
+One half of an orange is equal to two quarters of an orange.
+However, only one of these fractions is written in <b>lowest terms</b>.
+<br><br>
+<b>A fraction is in lowest terms when the numerator and denominator have no <code>common factor</code> other than 1.</b>
+<br><br>
+<blockquote>The factors of 2 are 1 and <b>2</b>.<br>The factors of 4 are 1, <b>2</b>, and 4.<br>2 and 4 share a common factor: 2.</blockquote>
+
+We can reduce this fraction by dividing both the numerator and denominator by their common factor, 2.
+<blockquote><sup>2 ÷ 2</sup>&frasl;<sub1>4 ÷ 2</sub1> = <sup1>1</sup1>&frasl;<sub1>2</sub1></blockquote>
+1 and 2 have no common factor other than 1, so the fraction is in lowest terms.
+<div class="w3-container w3-theme w3-card-2">
+	<i>Methods of reducing fractions</i>
+</div>
+Let's try the example below:<blockquote><b><sup1>60</sup1>/<sub1>72</sub1></b></blockquote>
+The factors of 60 are 1, <b>2, 3,</b> 5, <b>6</b>, 10, <b>12</b>, 15, 30, 60.
+<br>The factors of 72 are 1, <b>2, 3,</b> 4, <b>6</b>, 9, <b>12</b>, 18, 36, 72.
+<br>60 and 72 have three common factors: <b>2, 3,</b> and <b>6.</b>
+<br><br><i>Methods #1: Common Factors</i>
+<div class="indent10">
+	1. Divide 60 and 72 by 2 (lowest common factor)
+	<div class="indent50" style="color: magenta">
+		<sup1>60 &divide; 2</sup1> / <sub1>72 &divide; 2</sub1> = <sup1>30</sup1> / <sub1>36</sub1>
+	</div>
+	2. Getting the factor of 30 and 36 we get 3.
+	Divide 30 and 36 by 3 (lowest common factor)
+	<div class="indent50" style="color: magenta">
+		<sup1>30 &divide; 3</sup1> / <sub1>36 &divide; 3</sub1> = <sup1>10</sup1> / <sub1>12</sub1>
+	</div>
+	3. Getting the factor of 10 and 12 we get 2.
+	Divide 10 and 12 by 2 (lowest common factor)
+	<div class="indent50" style="color: magenta">
+		<sup1>10 &divide; 2</sup1> / <sub1>12 &divide; 2</sub1> = <sup1>5</sup1> / <sub1>6</sub1>
+	</div>
+</div>
+<br><i>Methods #2: Greatest Common Factors (more efficient)</i>
+<div class="indent10">
+	1. Divide 60 and 72 by 12 (greatest common factor)
+	<div class="indent50" style="color: magenta">
+		<sup1>60 &divide; 12</sup1> / <sub1>72 &divide; 12</sub1> = <sup1>5</sup1> / <sub1>6</sub1>
+	</div>
+</div>
+<br><i>Methods #3: Prime Factors (more efficient)</i>
+<div class="indent10">
+	<sup1>60</sup1>/<sub1>76</sub1>
+	<br>The prime factors of 60 are <b>2 x 2 x 3</b> x 5.
+	<br>The prime factors of 76 are 2 x <b>2 x 2 x 3</b> x 3.
+	<div class="indent50" style="color: magenta">
+		<br><sup1>2 x 2 x 3 x 5</sup1>/<sub1>2 x 2 x 2 x 3 x 3</sub1><br>
+	</div>
+	We remove the <b>2 x 2 x 3</b> the numerator and denominator have in common:
+	<div class="indent50" style="color: magenta">
+		<sup1>5</sup1>/<sub1>2 x 3</sub1> = <sup1>5</sup1>/<sub1>6</sub1>
+	</div>
+</div>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Converting Decimal to Rational Numbers:</h4>
+</div>
+<svg id="container2" width="100%" height="300" style="width:100%;">
+</svg>
+<center>
+	Convert:
+	<select id="convertSelect" name="convertSelect" style="width: 100px; background-color:magenta; color:white; font-size: 18px;">
+		<option value="1.8">1.8</option>
+		<option value="-3.5">-3.5</option>
+		<option value="-2.3">-2.3</option>
+		<option value="-0.002">-0.002</option>
+	</select>
+</center>
+<br>
+<div class="w3-container w3-theme w3-card-2">
+	<h4>Converting Repeating Decimal to Rational Numbers:</h4>
+</div>
+<p>These are the steps to remember when converting repeating decimals to fraction.</p>
+<p style="text-align: left">
+	<b>Step 1:</b>Let x equal the repeating decimal you are trying to convert to a fraction
+</p>
+<p style="text-align: left">
+	<b>Step 2:</b>Examine the repeating decimal to find the repeating digit(s)
+</p>
+<p style="text-align: left">
+	<b>Step 3:</b>Place the repeating digit(s) to the left of the decimal point
+</p>
+<p style="text-align: left">
+	<b>Step 4:</b>Place the repeating digit(s) to the right of the decimal point
+</p>
+<p style="text-align: left">
+	<b>Step 5:</b>Subtract the left sides of the two equations.Then, subtract the right sides of the two equations
+</p>
+<p style="text-align: left">
+	&nbsp;&nbsp;&nbsp;&nbsp;As you subtract, just make sure that the difference is positive for both sides
+</p>
+<p style="text-align: left">
+	&nbsp;&nbsp;&nbsp;&nbsp;Now let's practice converting repeating decimals to fractions with good examples below.
+</p>
+<svg id="container3" width="100%" height="300" style="width:100%;">
+</svg>
+<center>
+	Convert:
+	<select id="convertRepeatingSelect" name="convertRepeatingSelect" style="width: 100px; background-color:magenta; color:white; font-size: 18px;">
+		<option value="1.3535"  repeating="35" digitLeft="2" digitRight="0">1.3535</option>
+		<option value="0.5555"  repeating="5"  digitLeft="1" digitRight="0">0.5555</option>
+		<option value="1.04242" repeating="42" digitLeft="3" digitRight="1">1.04242</option>
+		<option value="0.8181"  repeating="81" digitLeft="2" digitRight="0">0.8181</option>
+	</select>
+</center>
+<div class="w3-container w3-theme w3-card-2">
+	<h3>Addition and Subtraction</h3>
+</div>
+<svg id="containerAddSub" width="100%" height="300" style="width:100%;">
+</svg>
+<center>
+	Compute:
+	<select id="addSubFraction" name="addSubFraction" style="width: 150px; background-color:magenta; color:white; font-size: 18px;">
+		<optgroup label="Whole + Fraction">
+			<option value="ADD" whole1="2" numerator1="0" denominator1="0" whole2="1" numerator2="1" denominator2="2" lcd="0">2 + 1 <sup>1</sup>&frasl;<sub>2</sub></option>
+			<option value="ADD" whole1="3" numerator1="0" denominator1="0" whole2="1" numerator2="3" denominator2="2" lcd="0">3 + 1 <sup>3</sup>&frasl;<sub>2</sub></option>
+			<option value="SUB" whole1="4" numerator1="0" denominator1="0" whole2="1" numerator2="1" denominator2="2" lcd="0">4 - 1 <sup>1</sup>&frasl;<sub>2</sub></option>
+			<option value="SUB" whole1="4" numerator1="0" denominator1="0" whole2="1" numerator2="3" denominator2="2" lcd="0">4 - 1 <sup>3</sup>&frasl;<sub>2</sub></option>
+		</optgroup>
+
+		<optgroup label="Same Denominator">
+			<option value="ADD" whole1="1" numerator1="2" denominator1="3" whole2="1" numerator2="2" denominator2="3" lcd="0">1 <sup>2</sup>&frasl;<sub>3</sub> + 1 <sup>2</sup>&frasl;<sub>3</sub></option>
+			<option value="ADD" whole1="1" numerator1="3" denominator1="4" whole2="1" numerator2="3" denominator2="4" lcd="0">1 <sup>3</sup>&frasl;<sub>4</sub> + 1 <sup>3</sup>&frasl;<sub>4</sub></option>
+			<option value="SUB" whole1="1" numerator1="2" denominator1="3" whole2="1" numerator2="2" denominator2="3" lcd="0">1 <sup>2</sup>&frasl;<sub>3</sub> - 1 <sup>2</sup>&frasl;<sub>3</sub></option>
+			<option value="SUB" whole1="2" numerator1="3" denominator1="4" whole2="1" numerator2="3" denominator2="4" lcd="0">2 <sup>3</sup>&frasl;<sub>4</sub> - 1 <sup>3</sup>&frasl;<sub>4</sub></option>
+		</optgroup>
+
+		<optgroup label="Different Denominator">
+			<option value="ADD" whole1="1" numerator1="2" denominator1="3" whole2="1" numerator2="1" denominator2="4" lcd="12">1 <sup>2</sup>&frasl;<sub>3</sub> + 1 <sup>1</sup>&frasl;<sub>4</sub></option>
+			<option value="ADD" whole1="2" numerator1="1" denominator1="4" whole2="1" numerator2="3" denominator2="8" lcd="8">2  <sup>1</sup>&frasl;<sub>4</sub> + 1 <sup>3</sup>&frasl;<sub>8</sub></option>
+			<option value="SUB" whole1="1" numerator1="2" denominator1="3" whole2="1" numerator2="1" denominator2="4" lcd="12">1 <sup>2</sup>&frasl;<sub>3</sub> - 1 <sup>1</sup>&frasl;<sub>4</sub></option>
+			<option value="SUB" whole1="2" numerator1="3" denominator1="4" whole2="1" numerator2="3" denominator2="8" lcd="8">2  <sup>3</sup>&frasl;<sub>4</sub> - 1 <sup>3</sup>&frasl;<sub>8</sub></option>
+		</optgroup>
+	</select>
+</center>
+<br>
+<b>More Examples:</b><br>
+<div class="w3-row">
+	<div class="w3-col" style="text-align:right; width:25%">&nbsp;&nbsp;<b>Add:</b>&nbsp;&nbsp;</div>
+	<div class="w3-col" style="text-align:left; width:75%">
+		<b><code>2.3 + 7.21</code></b><br>
+		<code>(2 <sup>3</sup>&frasl;<sub>10</sub> + 7 <sup>21</sup>&frasl;<sub>100</sub>)</code><br>
+		<code>2 <sup>30</sup>&frasl;<sub>100</sub> + 7 <sup>21</sup>&frasl;<sub>100</sub> </code><br>
+		<code>(2 + 7) + ( <sup>(30+21)</sup>&frasl;<sub>100</sub> ) </code><br>
+		<code>9 + <sup>51</sup>&frasl;<sub>100</sub> = 9 <sup>51</sup>&frasl;<sub>100</sub> or 9.51</code>
+	</div>
+</div>
+<br>
+<div class="w3-row">
+	<div class="w3-col s4 w3-left" style="text-align:right; width:25%">&nbsp;&nbsp;<b>Subtract:</b>&nbsp;&nbsp;</div>
+	<div class="w3-col s4 w3-left" style="text-align:left; width:75%">
+		<b><code>9.6 – 3.25 </code></b><br>
+		<code>9 <sup>6</sup>&frasl;<sub>10</sub> - 3 <sup>25</sup>&frasl;<sub>100</sub> </code><br>
+		<code>9 <sup>60</sup>&frasl;<sub>100</sub> - 3 <sup>25</sup>&frasl;<sub>100</sub> </code><br>
+		<code>(9 - 3) + ( <sup>(60-25)</sup>&frasl;<sub>100</sub> ) </code><br>
+		<code>6 + <sup>35</sup>&frasl;<sub>100</sub> = 6 <sup>35</sup>&frasl;<sub>100</sub> or 6.35</code>
+	</div>
+</div>
+<br>
+<div class="w3-container w3-theme w3-card-2">
+	<h3>Multiplication and Division</h3>
+</div>
+<svg id="containerMulDiv" width="100%" height="300" style="width:100%;">
+</svg>
+<center>
+	Compute:
+	<select id="mulDivFraction" name="mulDivFraction" style="width: 150px; background-color:magenta; color:white; font-size: 18px;">
+		<optgroup label="Multiplication">
+			<option value="MUL" whole1="2" numerator1="0" denominator1="0" whole2="0" numerator2="1" denominator2="2">2 &times; <sup>1</sup>&frasl;<sub>2</sub></option>
+			<option value="MUL" whole1="3" numerator1="0" denominator1="0" whole2="0" numerator2="3" denominator2="2">3 &times; <sup>3</sup>&frasl;<sub>2</sub></option>
+		</optgroup>
+
+		<optgroup label="Division">
+			<option value="DIV" whole1="2" numerator1="0" denominator1="0" whole2="0" numerator2="1" denominator2="2">2 &times; <sup>1</sup>&frasl;<sub>2</sub></option>
+			<option value="DIV" whole1="3" numerator1="0" denominator1="0" whole2="0" numerator2="3" denominator2="2">3 &times; <sup>3</sup>&frasl;<sub>2</sub></option>
+		</optgroup>
+	</select>
+</center>
+<br><br>
+Basis rules of Multiplication and Division of Rational Numbers:<br>
+<div class="alert-info">
+	For multiplication, just direct multiply of numerator and denominator.
+	<br>
+	For Division:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;a. Take the reciprocal of the second fraction.
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;b. Then multiply the reciprocal by the first fraction.
+</div>
+<br><br>
+<b>More Examples:</b><br><br>
+<div class="w3-row">
+	<div class="w3-col" style="text-align:right; width:25%">&nbsp;&nbsp;<b>Multiplication:</b>&nbsp;&nbsp;</div>
+	<div class="w3-col" style="text-align:left; width:75%">
+		<b><code>2.3 × 2.2</code></b><br>
+		<code>2 <sup>3</sup>&frasl;<sub>10</sub> × 2 <sup>2</sup>&frasl;<sub>10</sub> </code><br>
+		<code><sup>23</sup>&frasl;<sub>10</sub> × <sup>22</sup>&frasl;<sub>10</sub>  </code><br>
+		<code><sup>(22 × 23)</sup> &frasl; <sub>(10 × 10)</sub>  </code><br>
+		<code><sup>506</sup>&frasl;<sub>100</sub>  </code><br>
+		<code>5 <sup>6</sup>&frasl;<sub>100</sub></code>
+	</div>
+</div>
+<br>
+<div class="w3-row">
+	<div class="w3-col s4 w3-left" style="text-align:right; width:25%">&nbsp;&nbsp;<b>Division:</b>&nbsp;&nbsp;</div>
+	<div class="w3-col s4 w3-left" style="text-align:left; width:75%">
+		<b><code>2.3 &divide; 2.2</code></b><br>
+		<code>2 <sup>3</sup>&frasl;<sub>10</sub> &divide; 2 <sup>2</sup>&frasl;<sub>10</sub> </code><br>
+		<code><sup>23</sup>&frasl;<sub>10</sub> &divide; <sup>22</sup>&frasl;<sub>10</sub> </code><br>
+		<code><sup>23</sup>&frasl;<sub>10</sub> × <sup>10</sup>&frasl;<sub>22</sub> </code><br>
+		<code><sup>(23 × 10)</sup>&frasl; <sub>(10 × 22)</sub> </code><br>
+		<code><sup>230</sup>&frasl;<sub>220</sub> </code><br>
+		<code>1 <sup>10</sup>&frasl;<sub>220</sub> </code><br>
+		<code>1 <sup>1</sup>&frasl;<sub>22</sub></code>
+	</div>
+</div>
+
+<script>
+	window.onload = function() {
+		initialSpeech();
+		callPloting(Snap("#container1"), 3);
+		callConvert(Snap("#container2"));
+		callRepeating(Snap("#container3"));
+		callAddSubFraction(Snap("#containerAddSub"));
+		callMulDivFraction(Snap("#containerMulDiv"));
+		rewriteFractions();
+	}
+</script>
+</body>
+</html>

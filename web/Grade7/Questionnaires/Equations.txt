@@ -1,0 +1,626 @@
+CATEGORY: GRADE7-MATH
+TOPIC: Equations
+TOPIC_CODE: Equations
+
+1.	Find the value of k <blockquote>2(2k + 1) = 2</blockquote>
+Correct. a
+Rationale. empty
+
+a.	k = 0
+b.	k = 10
+c.	k = -10
+d.  k = -2
+
+2.	Find the value of k <blockquote>2(3k − 1) = −8</blockquote>
+Correct. b
+Rationale. empty
+
+a.	k = 1
+b.	k = -1
+c.	k = -8
+d.  k = -13
+
+3.	Find the value of k<blockquote>2 = 2(2k − 3)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	k = -2
+b.	k = 2
+c.	k = 7
+d.  k = 9
+
+4.	Find the value of k<blockquote>−12 = 3(4k − 4)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	k = 10
+b.	k = 0
+c.	k = -12
+d.  k = 12
+
+5.	Find the value of k<blockquote>−102 = 6(5k − 2)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	k = 3
+b.	k = 30
+c.	k = -3
+d.  k = -102
+
+6.	Find the value of k<blockquote>5(4k − 1) = 95</blockquote>
+Correct. c
+Rationale. empty
+
+a.	k = -5
+b.	k = 25
+c.	k = 5
+d.  k = 51
+
+7.	Find the value of k<blockquote>3(5k − 6) = −78</blockquote>
+Correct. c
+Rationale. empty
+
+a.	k = 4
+b.	k = -78
+c.	k = -4
+d.  k = 78
+
+8.	Find the value of k<blockquote>8(7k + 4) = −416</blockquote>
+Correct. d
+Rationale. empty
+
+a.	k = -56
+b.	k = 416
+c.	k = -7
+d.  k = -8
+
+9.	Find the value of k<blockquote>2(3k − 8) = −58</blockquote>
+Correct. d
+Rationale. empty
+
+a.	k = 7
+b.	k = -58
+c.	k = 58
+d.  k = -7
+
+10.	Find the value of k<blockquote>4(9k + 8) = −220</blockquote>
+Correct. d
+Rationale. empty
+
+a.	k = 9
+b.	k = 98
+c.	k = +7
+d.  k = -7
+
+11.	Find the value of g<blockquote>2(5g + 4) = 5(3g − 3)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	g = 4.6
+b.	g = 6.4
+c.	g = 4.4
+d.  g = 4.5
+
+12.	Find the value of g<blockquote>4(5g − 5) = 6(4g + 2)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	g = -8
+b.	g = 8
+c.	g = -18
+d.  g = 18
+
+13.	Find the value of g<blockquote>6(2g + 5) = 3(6g − 4)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	g = 7
+b.	g = -7
+c.	g = 17
+d.  g = -17
+
+14.	Find the value of g<blockquote>6(7g − 4) = 8(5g − 1)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	g = 8
+b.	g = -8
+c.	g = 18
+d.  g = -18
+
+15.	Find the value of g<blockquote>4(2g + 4) = 4(4g + 4)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	g = 10
+b.	g = 0
+c.	g = -10
+d.  g = 20
+
+16.	Find the value of g<blockquote>3(8g − 3) = 10(3g + 3)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	g = -5.5
+b.	g = -6.5
+c.	g = -5.6
+d.  g = -4.5
+
+17.	Find the value of g<blockquote>4(8g + 9) = 7(6g + 2)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	g = 2.1
+b.	g = 2.2
+c.	g = 1.2
+d.  g = -2.2
+
+18.	Find the value of g<blockquote>2(12g − 3) = 9(4g + 10)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	g = 8
+b.	g = -8
+c.	g = -18
+d.  g = 18
+
+19.	Find the value of g<blockquote>12(9g + 9) = 10(6g − 6)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	g = 3.5
+b.	g = -0.5
+c.	g = -3.5
+d.  g = 2.5
+
+20.	Find the value of g<blockquote>10(13g + 10) = 10(8g − 8)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	g = -3.5
+b.	g = -3.4
+c.	g = -3.6
+d.  g = -4.5
+
+21.	Find the value of smallest g<blockquote>g<sup1>2</sup1> − 6g + 8 = 0</blockquote>
+Correct. c
+Rationale. empty
+
+a.	g = -2
+b.	g = 22
+c.	g = 2
+d.  g = -12
+
+22.	Find the value of smallest g<blockquote>g<sup1>2</sup1> − 4g − 5 = 0</blockquote>
+Correct. c
+Rationale. empty
+
+a.	g = 1
+b.	g = -10
+c.	g = -1
+d.  g = 10
+
+23.	Find the value of smallest g<blockquote>g<sup1>2</sup1> − 9g + 14 = 0</blockquote>
+Correct. c
+Rationale. empty
+
+a.	g = 12
+b.	g = 22
+c.	g = 2
+d.  g = -2
+
+24.	Find the value of smallest g<blockquote>g<sup1>2</sup1> − g − 2 = 0</blockquote>
+Correct. c
+Rationale. empty
+
+a.	g = 1
+b.	g = -10
+c.	g = -1
+d.  g = 10
+
+25.	Find the value of smallest g<blockquote>g<sup1>2</sup1> − 4g − 45 = 0</blockquote>
+Correct. b
+Rationale. empty
+
+a.	g = 5
+b.	g = -5
+c.	g = -25
+d.  g = 25
+
+26.	Find the value of smallest g<blockquote>g<sup1>2</sup1> − 11g + 30 = 0</blockquote>
+Correct. b
+Rationale. empty
+
+a.	g = 15
+b.	g = 5
+c.	g = -5
+d.  g = -15
+
+27.	Find the value of smallest g<blockquote>g<sup1>2</sup1> + 10g + 21 = 0</blockquote>
+Correct. b
+Rationale. empty
+
+a.	g = -17
+b.	g = -7
+c.	g = 7
+d.  g = 17
+
+28.	Find the value of smallest g<blockquote>g<sup1>2</sup1> + 14g = −45</blockquote>
+Correct. b
+Rationale. empty
+
+a.	g = 9
+b.	g = -9
+c.	g = -19
+d.  g = 19
+
+29.	Find the value of smallest g<blockquote>g<sup1>2</sup1> − 14g = −45</blockquote>
+Correct. a
+Rationale. empty
+
+a.	g = 5
+b.	g = 15
+c.	g = -15
+d.  g = -5
+
+30.	Find the value of smallest g<blockquote>g<sup1>2</sup1> − 2g = 63</blockquote>
+Correct. a
+Rationale. empty
+
+a.	g = -7
+b.	g = 7
+c.	g = -17
+d.  g = 17
+
+31.	Find the value of h
+	<blockquote>
+	8h + 5i = −0.5<br>
+	8h + 2i = −5
+	</blockquote>
+Correct. a
+Rationale. empty
+
+a.	h = -1
+b.	h = 1
+c.	h = -10
+d.  h = 10
+
+32.	Find the value of s
+	<blockquote>
+	3s + 4t = 18.5<br>
+	2s + t = 6.5
+Correct. a
+Rationale. empty
+
+a.	s = 1.5
+b.	s = -1.5
+c.	s = 1
+d.  s = -1
+
+33.	Find the value of m
+	<blockquote>
+	m + 3n = 24<br>
+	5m + 8n = 64
+	</blockquote>
+Correct. a
+Rationale. empty
+
+a.	m = 0
+b.	m = 10
+c.	m = -10
+d.  m = 2
+
+34.	Find the value of b
+	<blockquote>
+	b − c = −3<br>
+	11b + 3c = 79
+	</blockquote>
+Correct. a
+Rationale. empty
+
+a.	b = 5
+b.	b = -5
+c.	b = 15
+d.  b = -15
+
+35.	Find the value of a
+	<blockquote>
+	14a − 4b = 116<br>
+	−a − 6b = −46
+	</blockquote>
+Correct. a
+Rationale. empty
+
+a.	a = 10
+b.	a = -10
+c.	a = 1
+d.  a = -1
+
+36.	Find the value of x
+	<blockquote>
+	−2x + 3y = 1<br>
+	2x + 16y = 18
+	</blockquote>
+Correct. a
+Rationale. empty
+
+a.	x = 1
+b.	x = -1
+c.	x = 10
+d.  x = 110
+
+37.	Find the value of s
+	<blockquote>
+	20s + 6t = 244<br>
+	7s + 9t = 147.5
+	</blockquote>
+Correct. b
+Rationale. empty
+
+a.	s = -9.5
+b.	s = 9.5
+c.	s = 9
+d.  s = -9
+
+
+38.	Find the value of m
+	<blockquote>
+	3m − n = 6.5<br>
+	25m + 3n = 82.5
+	</blockquote>
+Correct. b
+Rationale. empty
+
+a.	m = 13
+b.	m = 3
+c.	m = -13
+d.  m = -3
+
+
+39.	Find the value of n
+	<blockquote>
+	20n − 10p = 100<br>
+	4n + 4p = 104
+	</blockquote>
+Correct. b
+Rationale. empty
+
+a.	n = -12
+b.	n = 12
+c.	n = 1
+d.  n = -1
+
+40.	Find the value of n
+	<blockquote>
+	20n + 16p = 312<br>
+	n − 2p = −32
+	</blockquote>
+Correct. b
+Rationale. empty
+
+a.	n = 12
+b.	n = 2
+c.	n = -2
+d.  n = -12
+
+41.	Work out the value of
+<blockquote>
+	w<sup1>2</sup1>+3w+3.
+	<br>Where w=2, x=2 and y=1.
+</blockquote>
+Correct. b
+Rationale. empty
+
+a.	-13
+b.	13
+c.	130
+d.  1
+
+42.	Work out the value of
+<blockquote>
+	4w<sup1>2</sup1>+xy.
+	<br>Where w=3, x=2 and y=2.
+</blockquote>
+Correct. b
+Rationale. empty
+
+a.	-40
+b.	40
+c.	4
+d.  -4
+
+43.	Work out the value of
+<blockquote>
+	e<sup1>2</sup1>+3e+2.
+	<br>Where e=4, f=2 and g=2.
+</blockquote>
+Correct. b
+Rationale. empty
+
+a.	-30
+b.	30
+c.	3
+d.  -3
+
+44.	Work out the value of
+<blockquote>
+	q + r + s.
+	<br>Where q=5, r=5 and s=2.
+</blockquote>
+Correct. b
+Rationale. empty
+
+a.	-12
+b.	12
+c.	1
+d.  -1
+
+45.	Work out the value of
+<blockquote>
+	2m<sup1>2</sup1>+np.
+	<br>Where m=6, n=3 and p=3.
+</blockquote>
+Correct. b
+Rationale. empty
+
+a.	-81
+b.	81
+c.	8
+d.  -8
+
+46.	Work out the value of
+<blockquote>
+	d + e + f.
+	<br>Where d=7, e=5 and f=2.
+</blockquote>
+Correct. d
+Rationale. empty
+
+a.	-14
+b.	1
+c.	-1
+d.  14
+
+47.	Work out the value of
+<blockquote>
+	u<sup1>2</sup1>−2.
+	<br>Where u=7, v=7 and w=5.
+</blockquote>
+Correct. d
+Rationale. empty
+
+a.	-47
+b.	-4
+c.	4
+d.  47
+
+48.	Work out the value of
+<blockquote>
+	e<sup1>2</sup1>−8.
+	<br>Where e=5, f=0 and g=3.
+</blockquote>
+Correct. d
+Rationale. empty
+
+a.	-17
+b.	1
+c.	-1
+d.  17
+
+49.	Work out the value of
+<blockquote>
+	bcd.
+	<br>Where b=5, c=0 and d=−6.
+</blockquote>
+Correct. d
+Rationale. empty
+
+a.	10
+b.	-10
+c.	20
+d.  0
+
+50.	Work out the value of
+<blockquote>
+	r<sup1>2</sup1> − 4.
+	<br>Where r=5, s=−1 and t=−10.
+</blockquote>
+Correct. d
+Rationale. empty
+
+a.	-21
+b.	2
+c.	-2
+d.  21
+
+51.	Two numbers have a <blockquote>product of 20 and a sum of 9.</blockquote> What is the largest number?
+Correct. d
+Rationale. empty
+
+a.	-5
+b.	50
+c.	-50
+d.  5
+
+52.	Two numbers have a <blockquote>product of 45 and a sum of 14.</blockquote> What is the smallest number?
+Correct. b
+Rationale. empty
+
+a.	25
+b.	5
+c.	-25
+d.  -5
+
+53.	Two numbers have a <blockquote>product of 80 and a sum of 18.</blockquote> What is the smallest number?
+Correct. b
+Rationale. empty
+
+a.	-80
+b.	8
+c.	80
+d.  -8
+
+54.	Two numbers have a <blockquote>product of 55 and a sum of 16.</blockquote> What is the smallest number?
+Correct. b
+Rationale. empty
+
+a.	-5
+b.	5
+c.	50
+d.  -50
+
+55.	Two numbers have a <blockquote>product of 28 and a sum of 11.</blockquote> What is the largest number?
+Correct. c
+Rationale. empty
+
+a.	17
+b.	-17
+c.	7
+d.  -7
+
+56.	Two numbers have a <blockquote>product of 0 and a sum of 9.</blockquote> What is the smallest number?
+Correct. c
+Rationale. empty
+
+a.	5
+b.	-4
+c.	0
+d.  5
+
+57.	Two numbers have a <blockquote>product of -196 and a sum of 0.</blockquote> What is the smallest number?
+Correct. b
+Rationale. empty
+
+a.	14
+b.	-14
+c.	-1
+d.  4
+
+58.	Two numbers have a <blockquote>product of -11 and a sum of -10.</blockquote> What is the smallest number?
+Correct. b
+Rationale. empty
+
+a.	11
+b.	-11
+c.	15
+d.  -15
+
+59.	Two numbers have a <blockquote>product of 128 and a sum of -24.</blockquote> What is the smallest number?
+Correct. b
+Rationale. empty
+
+a.	1
+b.	-16
+c.	-5
+d.  -15
+
+60.	Two numbers have a <blockquote>product of 1.44 and a sum of 2.6.</blockquote> What is the smallest number?
+Correct. b
+Rationale. empty
+
+a.	-0.8
+b.	0.8
+c.	1.8
+d.  -1.8
+	
+

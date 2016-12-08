@@ -1,0 +1,154 @@
+<html>
+<head>
+	<link rel="stylesheet" href="css/w3.css">
+	<link rel="stylesheet" href="css/themes/w3-theme-blue.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<script src="js/bootstrap.min.js"></script>
+
+    <link 	rel="stylesheet" href="css/mycss.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/fraction.js"></script>
+    <script type="text/javascript" src="js/snap.svg.js"></script>
+    <script type="text/javascript" src="js/topic/mymeasurement.js"></script>
+    <script type="text/javascript" src="js/topic/myappjs.js"></script>
+    <script type="text/javascript" src="js/topic/myjs.js"></script>
+    <script>
+		function initialSpeech() {
+				setTimeout(function () {
+					sendTTS($('description').text());
+					sendTTS("Please click on the Drill to do the exercises.");
+				}, 5000);
+		}
+	</script>
+	<style>
+	</style>
+</head>
+<body>
+	<div class="w3-container w3-theme w3-card-2">
+		<h4>Measurement and Measuring Length</h4>
+	</div>
+	<table class="w3-table w3-striped w3-border">
+		<caption>&nbsp;Metric System</caption>
+		<tbody>
+		<tr>
+			<td align="center"><b>Unit</b></td><td align="center"><b>To Meter</b></td><td align="center"><b>To Feet (f)</b></td>
+		</tr>
+		<tr>
+			<td>1 centimeter (cm)</td><td><sup>1</sup>&frasl;<sub>100</sub> meter (m)</td><td>0.0328 or 328&frasl;10000</td>
+		</tr>
+		<tr>
+			<td>1 decimeter (dm)</td><td><sup>1</sup>&frasl;<sub>10</sub> m</td><td>0.328  or 328&frasl;1000</td>
+		</tr>
+		<tr>
+			<td>1 meter (m)</td><td>----</td><td>0.328 or 328&frasl;1000</td>
+		</tr>
+		<tr>
+			<td>1 kilometer (km)</td><td>1000 m</td><td>3280.84 or 328094&frasl;100</td>
+		</tr>
+		</tbody>
+	</table>
+	<table class="w3-table w3-striped w3-border">
+		<caption>&nbsp;English System</caption>
+		<tbody>
+		<tr>
+			<td><b>Unit</b></td><td><b>Equivalent</b></td><td><b>To Meter (m)</b></td>
+		</tr>
+		<tr>
+			<td>1 foot (f)</td><td>12 inches (in)</td><td>0.3048 or 3048&frasl;10000</td>
+		</tr>
+		<tr>
+			<td>1 yard (yd)</td><td>3 f</td><td>0.9144 or 9144&frasl;10000</td>
+		</tr>
+		<tr>
+			<td>1 mile (mi)</td><td>5280 f</td><td>1609.34 or 160934&frasl;100</td>
+		</tr>
+		</tbody>
+	</table>
+	<br>
+	<svg id="svgLength" width="100%" height="350" style="width:100%;">
+	</svg>
+	<center>
+		Convert:&nbsp;
+		<input id="fromUnitNumber" value="5" name="fromUnitNumber" class="height" type="text" style="width: 40px;"/>
+		<select id="fromUnit" name="fromUnit" style="width: 100px; background-color:magenta; color:white; font-size: 18px;">
+			<option value="cm">cm</option>
+			<option value="m">m</option>
+			<option value="km">km</option>
+			<option value="in">in</option>
+			<option value="f">f</option>
+			<option value="mi">mi</option>
+		</select>
+	</center>
+
+	<div class="w3-container w3-theme w3-card-2">
+		<h4>Measuring  Weight/Mass Volume</h4>
+	</div>
+	<p>
+	Volume is the amount of space an object contains or occupies. 
+	The volume of a container is considered to be the capacity of the container. 
+	This is measured by the number of cubic units or the amount of fluid it can contain and not the amount of space the container occupies. 
+	The base SI unit for volume is the cubic meter (m3). 
+	Aside from cubic meter, another commonly used metric unit for volume of solids is the cubic centimeter (cm3 or cc) while the commonly used metric units for volume of fluids are the liter (L) and the milliliter (mL).
+	</p>
+	<center>
+		Formula:
+		<select id="volFormula" name="volFormula" style="width: 220px; background-color:magenta; color:white; font-size: 14px;">
+			<option value="CONE">Cone</option>
+			<option value="SPHERE">Sphere</option>
+			<option value="CYLINDER">Cylinder</option>
+			<option value="RECTANGULAR_PRISM">Rectagular Prism</option>
+			<option value="RECTANGULAR_PYRAMID">Rectagular Based Pyramid</option>
+		</select>
+	<center>
+	<svg id="svgVolume" width="100%" height="350" style="width:100%;">
+	</svg>
+	<div id="CONE" class="FORMULA">
+		<center>
+			Height:&nbsp;<input id="coneH" value="0" name="coneH" type="text" style="width: 40px;"/>
+			Radius:&nbsp;<input id="coneR" value="0" name="coneR" type="text" style="width: 40px;"/>
+			<a id="convert1" onClick="return calculateCone(paperVolume, $('#coneH').val(), $('#coneR').val());" class="fractions button button3 buttonSmaller">Go</a>
+		</center>
+	</div>
+	<div id="SPHERE" class="FORMULA">
+		<center>
+			Radius: &nbsp;<input id="sphereR" value="0" name="sphereR" type="text" style="width: 40px;"/>
+			<a id="convert1" onClick="return calculateSphere(paperVolume, $('#sphereR').val());" class="fractions button button3 buttonSmaller">Go</a>
+		</center>
+	</div>
+	<div id="CYLINDER" class="FORMULA">
+		<center>
+			Height:&nbsp;<input id="cylinderH" value="0" name="cylinderH" type="text" style="width: 40px;"/>
+			Radius&nbsp;<input id="cylinderR" value="0" name="cylinderR" class="radius" type="text" style="width: 40px;"/>
+			<a id="convert1" onClick="return calculateCylinder(paperVolume, $('#cylinderH').val(), $('#cylinderR').val());" class="fractions button button3 buttonSmaller">Go</a>
+		</center>
+	</div>
+	<div id="RECTANGULAR_PRISM" class="FORMULA">
+		<center>
+			Width:&nbsp;<input id="prismW" value="0" name="prismW" class="width" type="text" style="width: 40px;"/>
+			Height:&nbsp;<input id="prismH" value="0" name="prismH" class="height" type="text" style="width: 40px;"/>
+			Length:&nbsp;<input id="prismL" value="0" name="prismL" class="length" type="text" style="width: 40px;"/>
+			<a id="convert1" onClick="return calculateRecPrism(paperVolume, $('#prismW').val(), $('#prismH').val(), $('#prismL').val());" class="fractions button button3 buttonSmaller">Go</a>
+		</center>
+	</div>
+	<div id="RECTANGULAR_PYRAMID" class="FORMULA">
+		<center>
+			Width:&nbsp;<input id="pyramidW" value="0" name="pyramidW" type="text" style="width: 40px;"/>
+			Height:&nbsp;<input id="pyramidH" value="0" name="pyramidH" type="text" style="width: 40px;"/>
+			Length:&nbsp;<input id="pyramidL" value="0" name="pyramidL" type="text" style="width: 40px;"/>
+			<a id="convert1" onClick="return calculateRecPyramid(paperVolume, $('#pyramidW').val(), $('#pyramidH').val(), $('#pyramidL').val());" class="fractions button button3 buttonSmaller">Go</a>
+		</center>
+	</div>
+
+<script>
+
+var paperVolume;
+
+	window.onload = function() {
+		initialSpeech();
+		paperVolume = Snap("#svgVolume")
+		callConvertUnits(Snap("#svgLength"));
+		callVolumeFormula(paperVolume);
+	}
+</script>
+</body>
+</html>

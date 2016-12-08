@@ -1,0 +1,201 @@
+CATEGORY: GRADE7-MATH
+TOPIC: RationalNumbers
+TOPIC_CODE: RationalNumbers
+
+1.	Calculate fractions <blockquote>(2/3) + (2/3)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	4/3
+b.	3/4
+c.	4/6
+d.  4/9
+
+2.	Calculate fractions <blockquote>(3/6) + (3/5)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	11/10
+b.	9/30
+c.	6/11
+d.  10/11
+
+
+3.	Calculate fractions <blockquote>(4/7) − (1/5)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	35/13
+b.	13/35
+c.	3/2
+d.  2/3
+
+
+4.	Calculate fractions <blockquote>(2/6) − (1/5)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	15/2
+b.	2/15
+c.	1/1
+d.  2/30
+
+
+5.	Calculate fractions <blockquote>(4/10) + (3/7)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	7/17
+b.	29/35
+c.	35/29
+d.  17/7
+
+
+6.	Calculate fractions <blockquote>(6/9) − (7/11)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	1/2
+b.	13/20
+c.	1/33
+d.  33/1
+
+
+7.	Calculate fractions <blockquote>(3/4) − (6/10)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	3/14
+b.	9/14
+c.	3/20
+d.  18/60
+
+
+8.	Calculate fractions <blockquote>(4/13) − (3/7)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	1/6
+b.	-12/20
+c.	-11/91
+d.  12/20
+
+
+9.	Calculate fractions <blockquote>(9/19) + (3/5)</blockquote>
+Correct. d
+Rationale. empty
+
+a.	12/24
+b.	24/12
+c.	95/102
+d.  102/95
+
+
+10.	Calculate fractions <blockquote>(1/12) + (10/18)</blockquote>
+Correct. d
+Rationale. empty
+
+a.	36/23
+b.	11/30
+c.	30/11
+d.  23/36
+
+11.	Calculate fractions <blockquote>(3/4) × (3/4)</blockquote>
+Correct. a
+Rationale. empty
+
+a.  9/16	
+b.	6/8
+c.	9/8
+d.  6/16
+
+
+12.	Calculate fractions <blockquote>(1/2) × (3/4)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	3/8
+b.	4/8
+c.	4/6
+d.  3/6
+
+
+13.	Calculate fractions <blockquote>(4/5) × (1/5)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	5/10
+b.	4/25
+c.	5/25
+d.  4/10
+
+
+14.	Calculate fractions <blockquote>(5/6) × (4/5)</blockquote>	
+Correct. b
+Rationale. empty
+
+a.	20/11
+b.	2/3
+c.	3/2
+d.  11/20
+
+
+15.	Calculate fractions <blockquote>(1/2) ÷ (2/6)</blockquote>	
+Correct. b
+Rationale. empty
+
+a.	2/12
+b.	3/2
+c.	2/8
+d.  2/6
+
+
+16.	Calculate fractions <blockquote>(2/3) ÷ (5/11)</blockquote>	
+Correct. c
+Rationale. empty
+
+a.	10/33
+b.	7/14
+c.	22/15
+d.  10/14
+
+
+17.	Calculate fractions <blockquote>(3/10) ÷ (6/10)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	18/10
+b.	18/100
+c.	1/2
+d.  2/1
+
+
+18.	Calculate fractions <blockquote>(7/14) ÷ (6/8)</blockquote>	
+Correct. c
+Rationale. empty
+
+a.	42/22
+b.	1/6
+c.	2/3
+d.  13/22
+
+
+19.	Calculate fractions <blockquote>(7/12) × (3/9)</blockquote>	
+Correct. d
+Rationale. empty
+
+a.	10/21
+b.	21/21
+c.	4/21
+d.  7/36
+
+
+20.	Calculate fractions <blockquote>(4/6) × (6/8)</blockquote>	
+Correct. d
+Rationale. empty
+
+a.	24/14
+b.	10/14
+c.	4/48
+d.  1/2
+

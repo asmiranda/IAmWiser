@@ -1,0 +1,368 @@
+<html><head>
+	<link rel="stylesheet" href="css/w3.css">
+	<link rel="stylesheet" href="css/themes/w3-theme-blue.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/bootstrap-select.css">
+	<link rel="stylesheet" href="js/jqueryui/jquery-ui.css">
+	<link rel="stylesheet" href="css/mycss.css">
+
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/jqueryui/jquery-ui.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/bootstrap-select.js"></script>
+
+	<script type="text/javascript" src="js/snap.svg.js"></script>
+	<script type="text/javascript" src="js/topic/myappjs.js"></script>
+	<script type="text/javascript" src="js/topic/myjs.js"></script>
+	<script type="text/javascript" src="js/topic/mystatistics.js"></script>
+
+	<script type="text/javascript" src="js/chart/jquery.jqplot.js"></script>
+	<script type="text/javascript" src="js/chart/jqplot.barRenderer.js"></script>
+	<script type="text/javascript" src="js/chart/jqplot.pieRenderer.js"></script>
+
+	<script type="text/javascript" src="js/chart/jqplot.dateAxisRenderer.js"></script>
+	<script type="text/javascript" src="js/chart/jqplot.categoryAxisRenderer.js"></script>
+	<script type="text/javascript" src="js/chart/jqplot.cursor.js"></script>
+	<script type="text/javascript" src="js/chart/jqplot.highlighter.js"></script>
+	<script type="text/javascript" src="js/chart/jqplot.dragable.js"></script>
+	<script type="text/javascript" src="js/chart/jqplot.trendline.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="css/jquery.jqplot.css" />
+
+	<script>
+		function initialSpeech() {
+				setTimeout(function () {
+					sendTTS("In this topic, we will talk about integer addition.");
+				}, 5000);
+		}
+	</script>
+	<style>
+		.otherTerms td {
+			padding: 5px;
+		}
+		
+		input[type=text] {
+			width: 30px;
+			padding: 2px 2px;
+			margin: 1px 0;
+			box-sizing: border-box;
+			border: 1px solid #555;
+			outline: none;
+		}
+	</style>
+</head>
+<body>
+<div class="w3-container w3-theme w3-card-2">
+	<h3>Statistics</h3>
+</div>
+<p>
+	<b>Statistics</b> is the study of the <i>collection</i>, <i>analysis</i>, <i>interpretation</i>, <i>presentation</i>, and <i>organization of data</i>.
+	In applying statistics to, e.g., a scientific, industrial, or social problem,
+	it is conventional to begin with a statistical population or a statistical model process to be studied.
+	Populations can be diverse topics such as "all people living in a country" or "every atom composing a crystal".
+	Statistics deals with all aspects of data including the <i>planning of data collection</i> in terms of the
+	design of surveys and experiments.
+</p>
+<div class="w3-container w3-theme w3-card-2">
+	<i>Graphical Data Representation</i>
+</div>
+<div>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				<div>
+					<div style="float: right;">
+						<svg class="svgHistogram" width="300" height="250"
+							 data="10, 80, 20, 50, 150, 20"
+							 title="Height of Coconut Trees"
+							 bottom="Frequency"
+							 leftside="Height (feet)"/>
+					</div>
+					<b>Histogram</b><br>
+					A histogram is a graphical representation of the distribution of numerical data.
+					It is an estimate of the probability distribution of a continuous variable (quantitative variable) and
+					was first introduced by <b>Karl Pearson</b>.To construct a histogram, the first step is to "bin" the range of values?that is,
+					divide the entire range of values into a series of intervals?and then count how many values fall into each interval.
+					The bins are usually specified as consecutive, non-overlapping intervals of a variable.
+					The bins (intervals) must be adjacent, and are often (but are not required to be) of equal size.
+					<br><br>
+					We can interpret the chart above as, we have more than 300 trees that are 45 feet high, and around 400 trees that are between 0 to 15 feet high.
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div>
+					<div>
+						<div id="pieChart" style="width: 300px; height: 300px; float: left;"
+							 title="Consumed fruits this year"
+							 data="210,111,74,72,49"
+							 dataLabel="Apples,Oranges,Bananas,Grapes,Pears"
+						>
+						</div>
+						<b>Pie Chart</b><br>
+						A pie chart (or a circle chart) is a circular statistical graphic,
+						which is divided into slices to illustrate numerical proportion.
+						In a pie chart, the arc length of each slice (and consequently its central angle and area),
+						is proportional to the quantity it represents.
+						While it is named for its resemblance to a pie which has been sliced,
+						there are variations on the way it can be presented.
+						The earliest known pie chart is generally credited to <b>William Playfair's Statistical Breviary of 1801.</b>
+						<br><br>
+						The chart can be accomplished by counting all the records (in our example fruits) then get the percentage of each variations.
+						For example, if we have a total of 100 fruits (that includes Apples, Oranges...) then with that will get percentage of each.
+						In our case for a 100 fruits, we have 41 pcs. of apples consumed this year.
+						<br>
+						<b>Note:</b>The total count could be any value like 12,934 or 50 or even in billions.
+					</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div>
+					<div>
+						<div id="barChart" class="inline25" style="width: 300px; height: 300px; float: right;"
+							 title="Student Count/Grade Level"
+							 data="2352, 6485, 7142, 10784"
+						>
+						</div>
+						<b>Bar Chart</b><br>
+						A bar chart or bar graph is a chart or graph that presents grouped data
+						with rectangle|rectangular bars with lengths proportional to the values that they represent.
+						The bars can be plotted vertically or horizontally.
+						<br>A bar graph is a chart that use either horizontal or vertical bars
+						to show comparisons among categories. One axis of the chart shows
+						the specific categories being compared, and the other axis represents
+						a discrete value. Some bar graphs present bars clustered in groups
+						of more than one
+						<br><br>
+						In our sample chart, this is saying that there are more than 2,000 students enrolled
+						for Grade 1, more than 6,000 for Grade 2, between 6,000 and 8,000 for Grade 3 and more than 10,000 for Grade 4.
+					</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div>
+					<div>
+						<div id="lineChart" class="inline25" style="width: 250px; height: 250px; float: left;"
+							 title="Total Enrollment per Year"
+							 data="1000,3584,2548,6524"
+							 dataLabel="2011,2012,2013,2014"
+						>
+						</div>
+						<b>Line Chart</b><br>
+						A line chart or line graph is a type of chart which displays
+						information as a series of data points called <b>'markers'</b> connected
+						by straight line segments. It is a basic type of chart common
+						in many fields. It is similar to a scatter plot except that the
+						measurement points are ordered (typically by their x-axis value)
+						and joined with straight line segments. A line chart is often used
+						to visualize a trend in data over intervals of time ? a time series
+						? thus the line is often drawn chronologically.
+						<br><br>
+						Our example show that the total enrollment in 2011 was just 1,000 then it goes up in 2012 to 3,500 but went down to 2,500 and significantly up in 2014 to 6,500 students.
+					</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class="w3-container w3-theme w3-card-2">
+	<i>Mean, Median, Mode and Range</i>
+</div>
+<div>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				<b>Mean</b><br>
+				The mean is commonly referred to as the average of all values. To compute for the mean, add all the scores and divide the sum by the number of scores. It is the easiest ?average? to compute.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Mode</b><br>
+				The most frequent score/s in the given set of data is called the mode. It is also an ?average? score. A data set may have two modes (and hence the data set is called bimodal).
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Median</b><br>
+				The median is also an ?average? score. It is the middle score in the list after the scores are arranged in decreasing or increasing order. How do you get the median for an even number of scores in a set of data? What about for an odd number of scores?
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Range</b><br>
+				The range of a set of data is the difference between the largest and smallest values
+			</td>
+		</tr>
+	</table>
+</div>
+<div>
+	<i>Change numeric values from the left:</i>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td style="width: 80px; text-align: right;">
+				<button class="button1" id="btnNewRandom">Refresh</button><br>
+				1.<input type="text" id="input1" name="input1"/><br>
+				2.<input type="text" id="input2" name="input2"/><br>
+				3.<input type="text" id="input3" name="input3"/><br>
+				4.<input type="text" id="input4" name="input4"/><br>
+				5.<input type="text" id="input5" name="input5"/><br>
+				6.<input type="text" id="input6" name="input6"/><br>
+				7.<input type="text" id="input7" name="input7"/><br>
+				8.<input type="text" id="input8" name="input8"/><br>
+				9.<input type="text" id="input9" name="input9"/><br>
+				10.<input type="text" id="input10" name="input10"/>
+			</td>
+			<td>
+				Display:
+				<button id="displayMMMR" class="button1">MMMR</button>&nbsp;
+				<button id="displayPie" class="button1">Pie</button>&nbsp;
+				<button id="displayBar" class="button1">Bar</button>&nbsp;
+				<button id="displayLine" class="button1">Line</button>
+				<table>
+					<tr>
+						<td>
+							<svg id="svgCalculate" width="100%" height="250" style="width:100%;"></svg>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div id="mypieChart" style="width: 300px; height: 300px;"
+								 title="Consumed fruits this year"
+								 dataLabel="Apples,Oranges,Bananas,Grapes,Pears,Mangoes,Apricot,Avocado,Cherry,Date">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div id="mybarChart" style="width: 300px; height: 300px;"
+								 title="Student Count/Grade Level">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div id="mylineChart" style="width: 250px; height: 250px;"
+								 title="Total Enrollment per Year"
+								 dataLabel="2007,2008,2009,2010,2011,2012,2013,2014,2015,2016">
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+<div id="forMMMR" class="hidden">
+	<table style="width: 100%; margin: 0; font-size: 12px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				Data:
+			</td>
+			<td>
+				<span class="data1">XX</span>,
+				<span class="data2">XX</span>,
+				<span class="data3">XX</span>,
+				<span class="data4">XX</span>,
+				<span class="data5">XX</span>,
+				<span class="data6">XX</span>,
+				<span class="data7">XX</span>,
+				<span class="data8">XX</span>,
+				<span class="data9">XX</span>,
+				<span class="data10">XX</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Mean
+			</td>
+			<td>
+				<span class="meanval">XX</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Median
+			</td>
+			<td>
+				<span class="medianval">XX</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Mode
+			</td>
+			<td>
+				<span class="modeval">XX</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range
+			</td>
+			<td>
+				<span class="rangeval">XX</span>
+			</td>
+		</tr>
+	</table>
+</div>
+<script>
+function calculateAll(paper) {
+//	for MMMR
+	doMMMR(paper);
+
+	var points = new Array(10);
+	for (i=1; i<=10; i++) {
+		var val = parseInt($("#input"+i).val());
+		points[i-1] = val;
+	}
+	writePieChart("mypieChart", points.join()+"");
+	writeBarChart("mybarChart", points.join()+"");
+	writeLineChart("mylineChart", points.join()+"");
+}
+
+function hideAllExcept(a) {
+	$("#svgCalculate").hide();
+	$("#mypieChart").hide();
+	$("#mybarChart").hide();
+	$("#mylineChart").hide();
+	$("#"+a).show();
+}
+
+	window.onload = function() {
+		rewriteAllSymbols();
+		initialSpeech();
+
+		writePieChart("pieChart");
+		writeBarChart("barChart");
+		writeLineChart("lineChart");
+		populateInputBoxes();
+		
+		$("#btnNewRandom").click(function() {
+			populateInputBoxes();
+		});
+
+		var svgCalculate = Snap("#svgCalculate");
+		calculateAll(svgCalculate);
+		hideAllExcept("svgCalculate");
+
+		$("#displayMMMR").click(function() {
+			hideAllExcept("svgCalculate");
+			calculateAll(svgCalculate);
+		});
+		$("#displayPie").click(function() {
+			hideAllExcept("mypieChart");
+			calculateAll(svgCalculate);
+		});
+		$("#displayBar").click(function() {
+			hideAllExcept("mybarChart");
+			calculateAll(svgCalculate);
+		});
+		$("#displayLine").click(function() {
+			hideAllExcept("mylineChart");
+			calculateAll(svgCalculate);
+		});
+	}
+	
+</script>
+
+</body></html>

@@ -1,0 +1,519 @@
+CATEGORY: GRADE7-MATH
+TOPIC: Geometry
+TOPIC_CODE: Geometry
+
+1.	A rectangle has a  <blockquote>length of 6.4 m and a width of 8.4 m. </blockquote> What is its area?
+Correct. a
+Rationale. empty
+
+a.	53.76 m<sup1>2</sup1>
+b.	12.8 m<sup1>2</sup1>
+c.	50 m<sup1>2</sup1>
+d.  53 m<sup1>2</sup1>
+
+2.	A rectangle has a  <blockquote>length of 9.2 m and a width of 1.8 m. </blockquote> What is its area?
+Correct. a
+Rationale. empty
+
+a.	16.56 m<sup1>2</sup1>
+b.	16 m<sup1>2</sup1>
+c.	11 m<sup1>2</sup1>
+d.  11.56 m<sup1>2</sup1>
+
+3.	A rectangle has a  <blockquote>length of 7.6 m and a width of 9.6 m. </blockquote> What is its area?
+Correct. a
+Rationale. empty
+
+a.	72.96 m<sup1>2</sup1>
+b.	72 m<sup1>2</sup1>
+c.	17.2 m<sup1>2</sup1>
+d.  17.96 m<sup1>2</sup1>
+
+4.	A rectangle has a  <blockquote>length of 6 m and a width of 2.8 m. </blockquote> What is its area?
+Correct. b
+Rationale. empty
+
+a.	16 m<sup1>2</sup1>
+b.	16.8 m<sup1>2</sup1>
+c.	8.8 m<sup1>2</sup1>
+d.  6.8 m<sup1>2</sup1>
+
+5.	A rectangle has a  <blockquote>length of 10.4 m and a width of 6.6 m. </blockquote> What is its area?
+Correct. b
+Rationale. empty
+
+a.	68 m<sup1>2</sup1>
+b.	68.64 m<sup1>2</sup1>
+c.	8.4 m<sup1>2</sup1>
+d.  17 m<sup1>2</sup1>
+
+6.	A triangle has a  <blockquote>base of 5.2 m and a height of 5.6 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. b
+Rationale. empty
+
+a.	14 m<sup1>2</sup1>
+b.	14.56 m<sup1>2</sup1>
+c.	10 m<sup1>2</sup1>
+d.  10.8 m<sup1>2</sup1>
+
+7.	A triangle has a  <blockquote>base of 8 m and a height of 1.4 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. b
+Rationale. empty
+
+a.	5 m<sup1>2</sup1>
+b.	5.6 m<sup1>2</sup1>
+c.	9.4 m<sup1>2</sup1>
+d.  8 m<sup1>2</sup1>
+
+
+8.	A triangle has a  <blockquote>base of 7.2 m and a height of 11.8 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. b
+Rationale. empty
+
+a.	42 m<sup1>2</sup1>
+b.	42.48 m<sup1>2</sup1>
+c.	19 m<sup1>2</sup1>
+d.  18 m<sup1>2</sup1>
+
+
+9.	A triangle has a  <blockquote>base of 10.2 m and a height of 7 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. c
+Rationale. empty
+
+a.	35 m<sup1>2</sup1>
+b.	17.2 m<sup1>2</sup1>
+c.	35.7 m<sup1>2</sup1>
+d.  17 m<sup1>2</sup1>
+
+
+10.	A triangle has a  <blockquote>base of 2.8 m and a height of 10 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. c
+Rationale. empty
+
+a.	12 m<sup1>2</sup1>
+b.	7.2 m<sup1>2</sup1>
+c.	14 m<sup1>2</sup1>
+d.  12.8 m<sup1>2</sup1>
+
+11.	A circle has a  <blockquote>diameter of 1 m. </blockquote> What is its circumference?
+Correct. b
+Rationale. empty
+
+a.	1.1 m
+b.	3.1 m
+c.	1 m
+d.  2 m
+
+12.	A circle has a  <blockquote>diameter of 3.6 m. </blockquote> What is its circumference?
+Correct. b
+Rationale. empty
+
+a.	3.6 m
+b.	11.3 m
+c.	9 m
+d.  10 m
+
+13.	A circle has a  <blockquote>radius of 2.3 m. </blockquote> What is its circumference?
+Correct. d
+Rationale. empty
+
+a.	5 m
+b.	10 m
+c.	4 m
+d.  14.5 m
+
+14.	A circle has a  <blockquote>radius of 2.5 m. </blockquote> What is its circumference?
+Correct. d
+Rationale. empty
+
+a.	5 m
+b.	2.5 m
+c.	5.7 m
+d.  15.7 m
+
+15.	A circle has a  <blockquote>diameter of 3.4 m. </blockquote> What is its circumference?
+Correct. d
+Rationale. empty
+
+a.	17 m
+b.	5.7 m
+c.	3.4 m
+d.  10.7 m
+
+16.	A polygon has an  <blockquote>interior angle of 124°. </blockquote> What is the size of its corresponding exterior angle?
+Correct. a
+Rationale. empty
+
+a.	56°
+b.	34°
+c.	236°
+d.  214°
+
+17.	A polygon has an  <blockquote>interior angle of 31°. </blockquote> What is the size of its corresponding exterior angle?
+Correct. a
+Rationale. empty
+
+a.	149°
+b.	59°
+c.	239°
+d.  13°
+
+18.	A hexagon has  <blockquote>5 of its exterior angles sum to 236°. </blockquote> What is the size of its other exterior angle?
+Correct. b
+Rationale. empty
+
+a.	56°
+b.	124°
+c.	112°
+d.  90°
+
+19.	A polygon has an  <blockquote>interior angle of 124°. </blockquote> What is the size of its corresponding exterior angle?
+Correct. b
+Rationale. empty
+
+a.	34°
+b.	56°
+c.	156°
+d.  236°
+
+
+20.	A polygon has an  <blockquote>interior angle of 131°. </blockquote> What is the size of its corresponding exterior angle?
+Correct. b
+Rationale. empty
+
+a.	41°
+b.	49°
+c.	221°
+d.  311°
+
+21.	A right angled triangle has two shorter sides of  <blockquote>length 6 cm and 7 cm. </blockquote>
+Find the length of the hypotenuse.
+Correct. b
+Rationale. empty
+
+a.	13
+b.	9.2
+c.	42
+d.  7.6
+
+22.	A right angled triangle has two shorter sides of  <blockquote>length 1 cm and 3 cm. </blockquote>
+Find the length of the hypotenuse.
+Correct. b
+Rationale. empty
+
+a.	13
+b.	3.2
+c.	31
+d.  2
+
+23.	A right angled triangle has two shorter sides of  <blockquote>length 11 cm and 3 cm. </blockquote>
+Find the length of the hypotenuse.
+Correct. c
+Rationale. empty
+
+a.	8
+b.	14
+c.	11.4
+d.  8.4
+
+24.	A right angled triangle has two shorter sides of  <blockquote>length 7 cm and 10 cm. </blockquote>
+Find the length of the hypotenuse.
+Correct. c
+Rationale. empty
+
+a.	10.2
+b.	17
+c.	12.2
+d.  10.7
+
+25.	A right angled triangle has two shorter sides of  <blockquote>length 14 cm and 10 cm. </blockquote>
+Find the length of the hypotenuse.
+Correct. c
+Rationale. empty
+
+a.	24
+b.	140
+c.	17.2
+d.  14.7
+
+26.	What is the size of an interior angle in a rectangle?
+Correct. d
+Rationale. empty
+
+a.	180°
+b.	45°
+c.	60°
+d.  90°
+
+27.	A pentagon has  <blockquote>4 of its interior angles sum to 500°. </blockquote> What is the size of its other interior angle?
+Correct. d
+Rationale. empty
+
+a.	50°
+b.	90°
+c.	130°
+d.  40°
+
+28.	A polygon has an  <blockquote>exterior angle of 93°. </blockquote> What is the size of its corresponding interior angle?
+Correct. d
+Rationale. empty
+
+a.	177°
+b.	7°
+c.	13°
+d.  87°
+
+29.	What is the size of an interior angle in a rectangle?
+Correct. b
+Rationale. empty
+
+a.	60°
+b.	90°
+c.	45°
+d.  180°
+
+30.	What is the size of an interior angle in an equilateral triangle?
+Correct. b
+Rationale. empty
+
+a.	90°
+b.	60°
+c.	45°
+d.  30°
+
+31.	A rectangle has a  <blockquote>length of 9 m and a width of 2.6 m. </blockquote> What is its perimeter?
+Correct. a
+Rationale. empty
+
+a.	23.2 m
+b.	11.6 m
+c.	23.4 m
+d.  18 m
+
+32.	A rectangle has a  <blockquote>length of 6.8 m and a width of 0.2 m. </blockquote> What is its perimeter?
+Correct. a
+Rationale. empty
+
+a.	14 m
+b.	7 m
+c.	1.36 m
+d.  7.2 m
+
+33.	A rectangle has a  <blockquote>length of 5.8 m and a width of 6.2 m. </blockquote> What is its perimeter?
+Correct. a
+Rationale. empty
+
+a.	24 m
+b.	12 m
+c.	35.96 m
+d.  35 m
+
+34.	A rectangle has a  <blockquote>length of 8.2 m and a width of 3.8 m. </blockquote> What is its perimeter?
+Correct. b
+Rationale. empty
+
+a.	12 m
+b.	24 m
+c.	31.16 m
+d.  31 m
+
+35.	A rectangle has a  <blockquote>length of 2.4 m and a width of 10.2 m. </blockquote> What is its perimeter?
+Correct. b
+Rationale. empty
+
+a.	22 m
+b.	25.2 m
+c.	12.6 m
+d.  24.48 m
+
+36.	A circle has a  <blockquote>radius of 2.8 m. </blockquote> What is its area?
+Correct. d
+Rationale. empty
+
+a.	5 m<sup1>2</sup1>
+b.	7.84 m<sup1>2</sup1>
+c.	3.92 m<sup1>2</sup1>
+d.  24.6 m<sup1>2</sup1>
+
+37.	A circle has a  <blockquote>radius of 0.5 m. </blockquote> What is its area?
+Correct. d
+Rationale. empty
+
+a.	1 m<sup1>2</sup1>
+b.	0.25 m<sup1>2</sup1>
+c.	0.6 m<sup1>2</sup1>
+d.  0.8 m<sup1>2</sup1>
+
+38.	A circle has a  <blockquote>radius of 2.6 m. </blockquote> What is its area?
+Correct. d
+Rationale. empty
+
+a.	2.6 m<sup1>2</sup1>
+b.	5.2 m<sup1>2</sup1>
+c.	10.4 m<sup1>2</sup1>
+d.  21.2 m<sup1>2</sup1>
+
+39.	A circle has a  <blockquote>radius of 2 m. </blockquote> What is its area?
+Correct. b
+Rationale. empty
+
+a.	4 m<sup1>2</sup1>
+b.	12.6 m<sup1>2</sup1>
+c.	2 m<sup1>2</sup1>
+d.  8 m<sup1>2</sup1>
+
+40.	A circle has a  <blockquote>radius of 6.5 m. </blockquote> What is its area?
+Correct. b
+Rationale. empty
+
+a.	13 m<sup1>2</sup1>
+b.	132.7 m<sup1>2</sup1>
+c.	26 m<sup1>2</sup1>
+d.  52 m<sup1>2</sup1>
+
+41.	A parallelogram has a <blockquote>base of 8 m and a height of 3.8 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. b
+Rationale. empty
+
+a.	11.8 m<sup1>2</sup1>
+b.	30.4 m<sup1>2</sup1>
+c.	24 m<sup1>2</sup1>
+d.  24.8 m<sup1>2</sup1>
+
+42.	A parallelogram has a  <blockquote>base of 2.6 m and a height of 6.6 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. b
+Rationale. empty
+
+a.	8.8 m<sup1>2</sup1>
+b.	17.16 m<sup1>2</sup1>
+c.	12.8 m<sup1>2</sup1>
+d.  12 m<sup1>2</sup1>
+
+43.	A parallelogram has a  <blockquote>base of 0.8 m and a height of 2.8 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. d
+Rationale. empty
+
+a.	3.6 m<sup1>2</sup1>
+b.	3 m<sup1>2</sup1>
+c.	28 m<sup1>2</sup1>
+d.  2.24 m<sup1>2</sup1>
+
+44.	A parallelogram has a  <blockquote>base of 12.8 m and a height of 2.6 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. d
+Rationale. empty
+
+a.	15.4 m<sup1>2</sup1>
+b.	15 m<sup1>2</sup1>
+c.	32.4 m<sup1>2</sup1>
+d.  33.28 m<sup1>2</sup1>
+
+45.	A parallelogram has a  <blockquote>base of 6.8 m and a height of 2.4 m </blockquote> perpendicular to its base.
+What is its area?
+Correct. d
+Rationale. empty
+
+a.	9.2 m<sup1>2</sup1>
+b.	9 m<sup1>2</sup1>
+c.	12.8 m<sup1>2</sup1>
+d.  16.32 m<sup1>2</sup1>
+
+46.	Two of the angles in a triangle are  <blockquote>52° and 61°. </blockquote> What is the size of the other angle?
+Correct. a
+Rationale. empty
+
+a.	67°
+b.	90°
+c.	157°
+d.  123°
+
+47.	Two of the angles in a triangle are  <blockquote>21° and 34°. </blockquote> What is the size of the other angle?
+Correct. a
+Rationale. empty
+
+a.	125°
+b.	215°
+c.	55°
+d.  90°
+
+48.	Two of the angles in a triangle are  <blockquote>132° and 14°. </blockquote> What is the size of the other angle?
+Correct. a
+Rationale. empty
+
+a.	34°
+b.	124°
+c.	90°
+d.  76°
+
+49.	Two of the angles in a triangle are  <blockquote>11° and 124°. </blockquote> What is the size of the other angle?
+Correct. b
+Rationale. empty
+
+a.	90°
+b.	45°
+c.	135°
+d.  79°
+
+50.	Two of the angles in a triangle are  <blockquote>46° and 82°. </blockquote> What is the size of the other angle?
+Correct. b
+Rationale. empty
+
+a.	90°
+b.	52°
+c.	142°
+d.  44°
+
+51.	What is the size of each angle in an rectangle?
+Correct. c
+Rationale. empty
+
+a.	180°
+b.	45°
+c.	90°
+d.  360°
+
+52.	Three of the angles in a quadrilateral are  <blockquote>118°, 99° and 58°. </blockquote> What is the size of the other angle?
+Correct. c
+Rationale. empty
+
+a.	45°
+b.	90°
+c.	85°
+d.  175°
+
+53.	Three of the angles in a quadrilateral are  <blockquote>192°, 24° and 47°. </blockquote> What is the size of the other angle?
+Correct. c
+Rationale. empty
+
+a.	83°
+b.	187°
+c.	97°
+d.  7°
+
+54.	Three of the angles in a quadrilateral are  <blockquote>12°, 47° and 122°. </blockquote> What is the size of the other angle?
+Correct. d
+Rationale. empty
+
+a.	89°
+b.	90°
+c.	1°
+d.  179°
+
+55.	Three of the angles in a quadrilateral are  <blockquote>17°, 96° and 149°. </blockquote> What is the size of the other angle?
+Correct. d
+Rationale. empty
+
+a.	82°
+b.	188°
+c.	2°
+d.  98°
+
+

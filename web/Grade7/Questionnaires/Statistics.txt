@@ -1,0 +1,379 @@
+CATEGORY: GRADE7-MATH
+TOPIC: Statistics
+TOPIC_CODE: Statistics
+
+1.	In a survey of <blockquote>36 people, 25 people</blockquote> said their favourite food is chicken.
+What angle in a pie chart would this represent?
+Correct. a
+Rationale. empty
+
+a.	250°
+b.	50°
+c.	90°
+d.  180°
+
+2.	In a survey of <blockquote>18 people, 14 people</blockquote> said their favourite sport was basketball.
+What angle in a pie chart would this represent?
+Correct. a
+Rationale. empty
+
+a.	280°
+b.	80°
+c.	190°
+d.  20°
+
+3.	In a survey of <blockquote>90 people, 51 people</blockquote> said their favourite colour was red.
+What angle in a pie chart would this represent?
+Correct. a
+Rationale. empty
+
+a.	204°
+b.	114°
+c.	156°
+d.  294°
+
+4.	In a survey of <blockquote>45 people, 45 people</blockquote> said their favourite drink was iced tea.
+What angle in a pie chart would this represent?
+Correct. b
+Rationale. empty
+
+a.	90°
+b.	360°
+c.	180°
+d.  45°
+
+5.	In a survey of <blockquote>30 people, 28 people</blockquote> said their favourite subject was Mathematics.
+What angle in a pie chart would this represent?
+Correct. b
+Rationale. empty
+
+a.	246°
+b.	336°
+c.	24°
+d.  156°
+
+6.	A list of <blockquote>4 numbers have a mean of 4.</blockquote> What number would you add to the list to get a <blockquote>new mean of 5?</blockquote>
+Correct. c
+Rationale. empty
+
+a.	8
+b.	16
+c.	9
+d.  20
+
+7.	A list of <blockquote>3 numbers have a mean of 5.</blockquote> What number would you add to the list to get a <blockquote>new mean of 7?	</blockquote>
+Correct. c
+Rationale. empty
+
+a.	8
+b.	15
+c.	13
+d.  30
+
+8.	A list of <blockquote>3 numbers have a mean of 10.</blockquote> What number would you add to the list to get a <blockquote>new mean of 11?	</blockquote>
+Correct. c
+Rationale. empty
+
+a.	13
+b.	30
+c.	14
+d.  15
+
+9.	A list of <blockquote>7 numbers have a mean of 10.</blockquote> What number would you add to the list to get a <blockquote>new mean of 13?	</blockquote>
+Correct. d
+Rationale. empty
+
+a.	17
+b.	70
+c.	35
+d.  34
+
+10.	A list of <blockquote>7 numbers have a mean of 18.</blockquote> What number would you add to the list to get a <blockquote>new mean of 23?	</blockquote>
+Correct. d
+Rationale. empty
+
+a.	25
+b.	50
+c.	29
+d.  58
+
+
+11.	Find the median of the following sets of data. <blockquote>3,3,3</blockquote>
+Correct. a
+Rationale. empty
+
+a.	3
+b.	9
+c.	6
+d.  12
+
+12.	Find the median of the following sets of data. <blockquote>2,4,2</blockquote>
+Correct. a
+Rationale. empty
+
+a.	2
+b.	8
+c.	4
+d.  6
+
+13.	Find the median of the following sets of data. <blockquote>3,5,4,2,3</blockquote>
+Correct. a
+Rationale. empty
+
+a.	3
+b.	5
+c.	2
+d.  4
+
+14.	Find the median of the following sets of data. <blockquote>6,6,2,3,4,5</blockquote>
+Correct. b
+Rationale. empty
+
+a.	4
+b.	4.5
+c.	5
+d.  6
+
+15.	Find the median of the following sets of data. <blockquote>3,6,3,3,4</blockquote>
+Correct. b
+Rationale. empty
+
+a.	4
+b.	3
+c.	6
+d.  9
+
+
+
+16.	Find the mean of the following sets of data. <blockquote>3,3,3</blockquote>
+Correct. c
+Rationale. empty
+
+a.	12
+b.	9
+c.	3
+d.  6
+
+17.	Find the mean of the following sets of data. <blockquote>0.2,0.4,0.3,0.4</blockquote>
+Correct. c
+Rationale. empty
+
+a.	0.2
+b.	0.4
+c.	0.3
+d.  0.9
+
+18.	Find the mean of the following sets of data. <blockquote>4,4,3,2,3</blockquote>
+Correct. c
+Rationale. empty
+
+a.	4
+b.	3
+c.	3.2
+d.  2
+
+19.	Find the mean of the following sets of data. <blockquote>3,2,2,3,3</blockquote>
+Correct. d
+Rationale. empty
+
+a.	2
+b.	3
+c.	13
+d.  2.6
+
+20.	Find the mean of the following sets of data. <blockquote>3,7,6,2,5,4</blockquote>
+Correct. d
+Rationale. empty
+
+a.	7
+b.	2
+c.	3.5
+d.  4.5
+
+
+21.	The sequence <blockquote>3,3,x has a mean of 3,</blockquote> what is x.
+Correct. a
+Rationale. empty
+
+a.	3
+b.	6
+c.	9
+d.  12
+
+22.	The sequence <blockquote>4,3,x has a mean of 4,</blockquote> what is x.
+Correct. a
+Rationale. empty
+
+a.	5
+b.	4
+c.	3
+d.  7
+
+23.	The sequence <blockquote>5,7,5,6,x has a mean of 6,</blockquote> what is x.
+Correct. a
+Rationale. empty
+
+a.	7
+b.	5
+c.	6
+d.  4
+
+24.	The sequence <blockquote>4,6,3,8,2,x has a mean of 5,</blockquote> what is x.
+Correct. b
+Rationale. empty
+
+a.	2
+b.	7
+c.	8
+d.  4
+
+25.	The sequence <blockquote>7,2,5,5,x has a mean of 5,</blockquote> what is x.
+Correct. b
+Rationale. empty
+
+a.	5
+b.	6
+c.	2
+d.  7
+
+26.	Find the range of the following sets of data. <blockquote>3,4</blockquote>
+Correct. c
+Rationale. empty
+
+a.	3
+b.	4
+c.	1
+d.  2
+
+
+27.	Find the range of the following sets of data. <blockquote>−20,−60</blockquote>
+Correct. c
+Rationale. empty
+
+a.	20
+b.	-40
+c.	40
+d.  -80
+
+
+28.	Find the range of the following sets of data. <blockquote>40,30,90,70</blockquote>
+Correct. c
+Rationale. empty
+
+a.	30
+b.	90
+c.	60
+d.  70
+
+29.	Find the range of the following sets of data. <blockquote>−110,−30,−40,−20</blockquote>
+Correct. d
+Rationale. empty
+
+a.	-90
+b.	30
+c.	40
+d.  90
+
+30.	Find the range of the following sets of data. <blockquote>2,2,4,4</blockquote>
+Correct. d
+Rationale. empty
+
+a.	3
+b.	4
+c.	6
+d.  2
+
+31.	Find the mode of the following sets of data. <blockquote>2,2</blockquote>
+Correct. a
+Rationale. empty
+
+a.	2
+b.	4
+c.	6
+d.  3
+
+32.	Find the mode of the following sets of data. <blockquote>4,2,7,4</blockquote>
+Correct. a
+Rationale. empty
+
+a.	4
+b.	2
+c.	7
+d.  8
+
+33.	Find the mode of the following sets of data. <blockquote>5,1,6,3,6</blockquote>
+Correct. a
+Rationale. empty
+
+a.	6
+b.	1
+c.	3
+d.  4
+
+34.	Find the mode of the following sets of data. <blockquote>1,1</blockquote>
+Correct. b
+Rationale. empty
+
+a.	2
+b.	1
+c.	3
+d.  4
+
+35.	Find the mode of the following sets of data. <blockquote>1,4,6,7,6,9</blockquote>
+Correct. b
+Rationale. empty
+
+a.	1
+b.	6
+c.	9
+d.  4
+
+36.	The probability that Umera loses at hockey is <blockquote><sup1>68</sup1> / <sub1>100</sub1>.</blockquote>
+If Umera plays hockey <blockquote>140 times,</blockquote> how many games can Umera expect to lose?
+Correct. c
+Rationale. empty
+
+a.	65
+b.	55
+c.	86
+d.  95
+
+37.	The probability that Yasin loses at hockey is <blockquote>28%.</blockquote>
+If Yasin plays hockey <blockquote>60 times,</blockquote> how many games can Yasin expect to lose?
+Correct. c
+Rationale. empty
+
+a.	7
+b.	71
+c.	17
+d.  72
+
+38.	The probability that Hafi wins at cards is <blockquote>0.07.</blockquote>
+If Hafi plays cards <blockquote>120 times,</blockquote> how many games can Hafi expect not to win?
+Correct. c
+Rationale. empty
+
+a.	122
+b.	212
+c.	112
+d.  121
+
+39.	The probability that Farzad loses at tennis is <blockquote>0.05.</blockquote>
+If Farzad plays tennis <blockquote>110 times,</blockquote> how many games can Farzad expect not to lose?
+Correct. d
+Rationale. empty
+
+a.	15
+b.	150
+c.	51
+d.  105
+
+40.	The probability that Negar loses at tennis is <blockquote><sup1>89</sup1> / <sub1>100</sub1>.</blockquote>
+If Negar plays tennis <blockquote>70 times,</blockquote> how many games can Negar expect to lose?
+Correct. d
+Rationale. empty
+
+a.	22
+b.	72
+c.	26
+d.  62

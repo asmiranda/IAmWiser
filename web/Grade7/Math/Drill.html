@@ -1,0 +1,116 @@
+<html>
+<head>
+	<link rel="stylesheet" href="css/w3.css">
+	<link rel="stylesheet" href="css/themes/w3-theme-blue.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="skins/minimal/minimal.css">
+	<link rel="stylesheet" href="skins/all.css">
+
+	<link rel="stylesheet" href="css/mycss.css">
+
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/snap.svg.js"></script>
+
+	<script type="text/javascript" src="js/icheck.js"></script>
+
+	<script type="text/javascript" src="js/topic/myappjs.js"></script>
+	<script type="text/javascript" src="js/topic/myjs.js"></script>
+	<script type="text/javascript" src="js/topic/mydrill.js"></script>
+</head>
+<body>
+<div id="question">(-5) + (-11)</div>
+<div id="rationale">(-5) + (-11)</div>
+<table style="width: 100%; font-size: 14px;" class="table table-condensed bottom">
+	<tr>
+		<td>
+			<input type="radio" id="answera" name="answer" value="a">
+			<label for="answera"><b>A.</b><span id="answerlbla">This is answer a</span></label>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input type="radio" id="answerb" name="answer" value="b">
+			<label for="answerb"><b>B.</b><span id="answerlblb">This is answer b</span></label>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input type="radio" id="answerc" name="answer" value="c">
+			<label for="answerc"><b>C.</b><span id="answerlblc">This is answer c</span></label>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input type="radio" id="answerd" name="answer" value="d">
+			<label for="answerd"><b>D.</b><span id="answerlbld">This is answer d</span></label>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<button id="prev" class="button button1">Prev</button>&nbsp;
+			<button id="next" class="button button2">Next</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<div style="float:right;">
+				<span id="itemOffset" style="font-weight: bold;"></span>&nbsp;&nbsp;
+				<button id="submit" class="button button3">Submit</button>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div style="float:right;">
+				<span id="status">Status</span>
+			</div>
+		</td>
+	</tr>
+</table>
+<script>
+	function rewriteAllSymbols() {
+		$(".coneVolumeSymbol").each(function() {
+			var paper = Snap(this);
+			writeCone(paper, this);
+		});
+		$(".rectPyramidVolumeSymbol").each(function() {
+			var paper = Snap(this);
+			writeRectPyramid(paper, this);
+		});
+		$(".rectPrismVolumeSymbol").each(function() {
+			var paper = Snap(this);
+			writeRectPrism(paper, this);
+		});
+		$(".cylinderVolumeSymbol").each(function() {
+			var paper = Snap(this);
+			writeCylinder(paper, this);
+		});
+		$(".sphereVolumeSymbol").each(function() {
+			var paper = Snap(this);
+			writeSphere(paper, this);
+		});
+	}
+
+	$(document).ready(function(){
+		$('input').iCheck({
+			checkboxClass: 'icheckbox_square-green',
+            radioClass: 'iradio_square-green',
+            increaseArea: '20%'
+		});
+		$('input').on('ifChecked', function(evt){
+			sendSelected($('#answera').is(':checked'), "a");
+			sendSelected($('#answerb').is(':checked'), "b");
+			sendSelected($('#answerc').is(':checked'), "c");
+			sendSelected($('#answerd').is(':checked'), "d");
+		});
+		$('#next').click(function() {
+			nextQuestion();
+		});
+		$('#prev').click(function() {
+			prevQuestion();
+		});
+		$('#submit').click(function() {
+			submitQuestion();
+		});
+	});
+	</script>
+</body>
+</html>

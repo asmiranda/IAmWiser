@@ -1,0 +1,884 @@
+<html>
+<head>
+	<link rel="stylesheet" href="css/w3.css">
+	<link rel="stylesheet" href="css/themes/w3-theme-blue.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="js/jqueryui/jquery-ui.css">
+    <link 	rel="stylesheet" href="css/mycss.css">
+	
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jqueryui/jquery-ui.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="js/snap.svg.js"></script>
+    <script type="text/javascript" src="js/topic/myappjs.js"></script>
+    <script type="text/javascript" src="js/topic/myjs.js"></script>
+    <script type="text/javascript" src="js/topic/mypolynomials.js"></script>
+    <script>
+		function initialSpeech() {
+				setTimeout(function () {
+					sendTTS("In this topic, we will talk about integer addition.");
+				}, 5000);
+		}
+	</script>
+	<style>
+		#term1, #term2, #term3, #term4 {
+			width:25%; 
+			position:relative; 
+			float: left;
+		}
+		.button {
+			background-color: #4CAF50; /* Green */
+			border: none;
+			color: white;
+			padding: 5px 12px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 12px;
+			margin: 1px 1px;
+			cursor: pointer;
+			width: 90%;
+		}
+		.button5 {border-radius: 12px;}
+		
+		.addSubClass {width: 100%; text-align: left;}
+
+		.ld {
+			text-align: right;
+			border-collapse: separate;
+			border-spacing: 2px;
+		}
+		.ld td {
+			width: 45px;
+		}
+	</style>
+</head>
+<body>
+	
+	<table style="display: none;" id='forAddSub'>
+		<tr>
+			<td class='addSub1' style='width:12%'>&nbsp;</td>
+			<td class='addSub1a'></td>
+			<td class='addSub1b'></td>
+			<td class='addSub1c'></td>
+			<td class='addSub1d'></td>
+		</tr>
+		<tr>
+			<td class='operation1' style='width:12%'></td>
+			<td class='addSub2a'></td>
+			<td class='addSub2b'></td>
+			<td class='addSub2c'></td>
+			<td class='addSub2d'></td>
+		</tr>
+		<tr>
+			<td class='operation2' style='width:12%'></td>
+			<td class='addSub3a'></td>
+			<td class='addSub3b'></td>
+			<td class='addSub3c'></td>
+			<td class='addSub3d'></td>
+		</tr>
+		<tr>
+			<td colspan='5' style="border-bottom: 1px solid #000;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class='addSubRes' style='width:12%'></td>
+			<td class='addSubRes1'></td>
+			<td class='addSubRes2'></td>
+			<td class='addSubRes3'></td>
+			<td class='addSubRes4'></td>
+		</tr>
+	</table>
+
+	<table style="display: none;" id='forFoil'>
+		<tr>
+			<td style="width:120px;"><b>F</b>irst Term:</td>
+			<td class='FVal'></td>
+		</tr>
+		<tr>
+			<td style="width:120px;"><b>O</b>uter Term:</td>
+			<td class='OVal'></td>
+		</tr>
+		<tr>
+			<td style="width:120px;"><b>I</b>nner Term:</td>
+			<td class='IVal'></td>
+		</tr>
+		<tr>
+			<td style="width:120px;"><b>L</b>ast Term:</td>
+			<td class='LVal'></td>
+		</tr>
+		<tr>
+			<td class='foilAdditionalText' colspan="2">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:120px;"><b>Answer</b>:</td>
+			<td class='foilFinalVal'></td>
+		</tr>
+		<tr>
+			<td colspan='2'>
+				<br><br><br><br>
+				<table>
+					<tr>
+						<td style="width: 30px;">&nbsp;</td>
+						<td style="width: 30px;" class="foilVal1"></td>
+						<td style="width: 30px; text-align: center" class="foilOperation1"></td>
+						<td style="width: 30px;" class="foilVal2"></td>
+						<td style="width: 30px;" class="foilVal3"></td>
+						<td style="width: 30px; text-align: center" class="foilOperation2"></td>
+						<td style="width: 30px;" class="foilVal4"></td>
+						<td style="width: 30px;">&nbsp;</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table style="display: none;" id='forVertical'>
+		<tr>
+			<td style='width:12%'>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td class='vterm1a'></td>
+			<td class='vterm1b'></td>
+		</tr>
+		<tr>
+			<td style='width:12%'>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td class='vterm2a' style="border-bottom: 1px solid #000;"></td>
+			<td class='vterm2b' style="border-bottom: 1px solid #000;"></td>
+		</tr>
+		<tr>
+			<td style='width:12%'>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td class='vprod1a'></td>
+			<td class='vprod1b'></td>
+		</tr>
+		<tr>
+			<td style='width:12%' style="border-bottom: 1px solid #000;">&nbsp;</td>
+			<td class='vprod2a' style="border-bottom: 1px solid #000;"></td>
+			<td class='vprod2b' style="border-bottom: 1px solid #000;"></td>
+			<td style="border-bottom: 1px solid #000;">&nbsp;</td>
+			<td style="border-bottom: 1px solid #000;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style='width:12%'>&nbsp;</td>
+			<td class='vresulta'></td>
+			<td class='vresultb'></td>
+			<td class='vresultc'></td>
+			<td class='vresultd'></td>
+		</tr>
+		<tr>
+			<td colspan='5'>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='1'>&nbsp;</td>
+			<td colspan='4' class="vtxt1"></td>
+		</tr>
+		<tr>
+			<td colspan='5'>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='2'><i>Answer:</i></td>
+			<td colspan='3' class="vfinal"></td>
+		</tr>
+	</table>
+
+	<table border="1" class="ld" id="forLongDivision" style="display: none;">
+		<tr>
+			<td colspan="3">&nbsp;</td>
+			<td class="quotientb"></td>
+			<td class="quotientc"></td>
+			<td class="quotientd"></td>
+		</tr>
+		<tr>
+			<td class="divisor" colspan="2">
+			</td>
+			<td class="dividenda">
+			</td>
+			<td class="dividendb">
+			</td>
+			<td class="dividendc">
+			</td>
+			<td class="dividendd">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">&nbsp;</td>
+			<td class="dividendLvl1a">
+			</td>
+			<td class="dividendLvl1b">
+			</td>
+			<td colspan="2">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="3">&nbsp;</td>
+			<td class="dividendLvl2aa">
+			</td>
+			<td class="dividendLvl2ab">
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="3">&nbsp;</td>
+			<td class="dividendLvl2ba">
+			</td>
+			<td class="dividendLvl2bb">
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="4">&nbsp;</td>
+			<td class="dividendLvl3aa">
+			</td>
+			<td class="dividendLvl3ab">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">&nbsp;</td>
+			<td class="dividendLvl3ba">
+			</td>
+			<td class="dividendLvl3bb">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">&nbsp;</td>
+			<td class="dividendLvl4">
+			</td>
+		</tr>
+		<tr>
+			<td class="divFinal" colspan="6">
+			</td>
+		</tr>
+	</table>
+	
+	<div class="w3-container w3-theme w3-card-2">
+		<h3>Polynomials</h3>
+	</div>
+	<p>
+		In mathematics, a <b>polynomial</b> is an <i>expression</i> consisting of <code>variables</code> (or indeterminates) and <code>coefficients</code>, 
+		that involves only the operations of addition, subtraction, multiplication, and non-negative integer exponents. 
+		An example of a polynomial of a single indeterminate <code>x is x<sup1>2</sup1> − 4x + 7</code>. 
+		An example in three variables is <code>x<sup1>3</sup1> + 2xyz<sup1>2</sup1> − yz + 1</code>.
+	</p>
+	<p>
+		Polynomials appear in a wide variety of areas of mathematics and science. 
+		For example, they are used to form polynomial equations, 
+		which encode a wide range of problems, from elementary word problems to 
+		complicated problems in the sciences; they are used to define <code>polynomial functions</code>, 
+		which appear in settings ranging from basic chemistry and physics to economics 
+		and social science; they are used in calculus and numerical analysis to approximate 
+		other functions. In advanced mathematics, polynomials are used to construct 
+		polynomial rings and algebraic varieties, central concepts in algebra and <i>algebraic geometry</i>.
+	</p>
+	<div class="w3-container w3-theme w3-card-2">
+		<div class="dropdown">
+			<i>Definition of Terms</i>&nbsp;&nbsp;&nbsp;&nbsp;
+			<button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Choose
+			<span class="caret"></span></button>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+				<li role="presentation">
+					<button role="menuitem" class="termClass button" style="width: 100%; text-align: left;"
+					termCount="1" term1="67a" term2="" term3="" term4=""><code>67a</code>
+					</button></li>
+				<li role="presentation">
+					<button role="menuitem" class="termClass button" style="width: 100%; text-align: left;"
+					termCount="2" term1="2xE_3" term2="-5x" term3="" term4=""><code>2x<sup>3</sup> - 5x</code>
+					</button></li>
+				<li role="presentation">
+					<button role="menuitem" class="termClass button" style="width: 100%; text-align: left;"
+					termCount="3" term1="2xE_2" term2="+4x" term3="-8" term4=""><code>2x<sup>2</sup> + 4x - 8</code>
+					</button></li>
+				<li role="presentation">
+					<button role="menuitem" class="termClass button" style="width: 100%; text-align: left;"
+					termCount="4" term1="2xE_5" term2="+7xE_3" term3="-9x" term4="+9"><code>2x<sup>5</sup> + 7x<sup>3</sup> - 9x + 9</code>
+					</button></li>
+			</ul>
+		</div>
+	</div>
+	<svg id="svgTerms" width="100%" height="300" style="width:100%;">
+	</svg>
+	<div>
+		<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+			<tr>
+				<td>
+					<b>Numerical coefficient</b> is the constant/number
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Literal coefficient</b> is the variable including its exponent.
+				</td>
+			</tr>
+			<tr>
+				<td>
+					The word <b>Coefficient</b> alone is referred to as the numerical coefficient.
+					In the literal coefficient <code>x<sup1>2</sup1></code>, <code>x</code> is called the <code>base</code> and <code>2</code> is called the <code>exponent</code>.
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Degree</b><br>
+					is the highest exponent or the highest sum of exponents of the
+					variables in a term.
+					<br>In <code>3x<sup1>2</sup1> – x + 5</code>, the degree is <code>2</code>.
+					<br>In <code>3x<sup1>2</sup1>y<sup1>3</sup1> – x<sup1>4</sup1>y<sup1>3</sup1></code> the degree is <code>7</code>.
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Similar Terms</b><br>
+					are terms having the same literal coefficients.
+					<code>3x2</code> and <code>-5x2</code> are similar because their literal coefficients are the same.
+					<code>5x</code> and <code>5x2</code> are NOT similar because their literal coefficients are NOT
+					the same.
+					<br>
+					<code>2x<sup1>3</sup1>y<sup1>2</sup1></code> and <code>–4x<sup1>2</sup1>y<sup1>3</sup1></code> are NOT similar because their literal coefficients are
+					NOT the same.
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="w3-container w3-theme w3-card-2">
+		<i>Laws of Exponents</i>
+	</div>
+	<br>
+	<div>
+		<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+			<tr>
+				<td>
+					<b>Product with same base</b> <code>x<sup1>a</sup1>x<sup1>b</sup1> = x<sup1>a+b</sup1></code>
+					<div style="margin: 0 auto; margin-left: 20px;">
+						When multiplying like bases, keep the base the same and add the exponents.	
+						<br><i>Example:</i>&nbsp;<code>2<sup1>5</sup1> * 2<sup1>7</sup1> = 2<sup1>12</sup1></code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Power to a Power</b><code>(x<sup1>a</sup1>)<sup1>b</sup1> = x<sup1>ab</sup1></code>
+					<div style="margin: 0 auto; margin-left: 20px;">
+						When raising a base with a power to another  power, keep the base the same and multiply the exponents.	
+						<br>
+						<i>Example:</i>&nbsp;<code>(5<sup1>4</sup1>)<sup1>3</sup1> = 5<sup1>12</sup1></code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Quotient With Same Base</b><code>x<sup1>a</sup1> &frasl; x<sup1>b</sup1> = x<sup1>a-b</sup1></code>
+					<div style="margin: 0 auto; margin-left: 20px;">
+						When dividing like bases, keep the base the same and subtract the denominator  exponent from the numerator exponent.
+						<br>
+						<i>Example:</i>&nbsp;<code>3<sup1>6</sup1> &frasl; 3<sup1>2</sup1> = 3<sup1>6-2</sup1> = 3<sup1>4</sup1></code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Product to a Power</b><code>(xy)<sup1>a</sup1> = x<sup1>a</sup1>y<sup1>a</sup1></code>
+					<div style="margin: 0 auto; margin-left: 20px;">
+						When raising a product to a power, distribute the power to each factor.
+						<br><i>Example:</i>&nbsp;<code>(5x)<sup1>4</sup1> = 5<sup1>4</sup1> x<sup1>4</sup1></code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Quotient to a Power</b><code>(x &frasl; y)<sup1>a</sup1> = x<sup1>a</sup1> &frasl; y<sup1>a</sup1></code>
+					<div style="margin: 0 auto; margin-left: 20px;">
+						When raising a fraction to a power, distribute the power to each factor in the numerator and denominator of the fraction.
+						<br><i>Example:</i>&nbsp;<code>(5 &frasl; r)<sup1>7</sup1> = 5<sup1>7</sup1> &frasl; r<sup1>7</sup1></code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Zero Power</b><code>x<sup1>0</sup1> = 1</code>
+					<div style="margin: 0 auto; margin-left: 20px;">
+						Anything raised to the zero power is one.
+						<br><i>Example:</i>&nbsp;<code>(5 &frasl; r)<sup1>0</sup1> = 1</code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Negative Power</b><code>x<sup1>-a</sup1> = 1 &frasl; x<sup1>a</sup1></code>
+					<div style="margin: 0 auto; margin-left: 20px;">
+						Negative exponents signify division. In particular, find the reciprocal of the base.
+						<br>When a base is raised to a negative power, reciprocate (find the reciprocal of) the base, keep the exponent with the original base, and drop the negative.
+						<br><i>Example:</i>&nbsp;<code>4<sup1>-3</sup1> = 1 &frasl; 4<sup1>3</sup1></code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Quotient with Negative Power</b><code>1 &frasl; x<sup1>-a</sup1> = x<sup1>a</sup1></code>
+					<div style="margin: 0 auto; margin-left: 20px;">
+						Negative exponents signify division. In particular, find the reciprocal of the base.
+						<br>When a denominator  is raised to a negative power, move the factor to the numerator, keep the exponent but drop the negative.
+						<br><i>Example:</i>&nbsp;<code>1 &frasl; 2<sup1>-5</sup1> = 2<sup1>5</sup1></code>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="w3-container w3-theme w3-card-2">
+		<div class="dropdown">
+			<i>Addition and Subtraction</i>&nbsp;&nbsp;&nbsp;&nbsp;
+			<button class="btn btn-default dropdown-toggle" type="button" id="menu2" data-toggle="dropdown">Choose
+			<span class="caret"></span></button>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="menu2">
+				<li role="presentation">
+					<button role="menuitem" tabindex="-1" class="addSubClass button" type="ADD"
+						term1a="4a" 	term1b="-3b" 	term1c="+2c" 	term1d=""
+						term2a="5a" 	term2b="+8b" 	term2c="-10c" 	term2d=""
+						term3a="-12a" 	term3b="" 		term3c="+c" 	term4d=""
+						resulta="-3a" 	resultb="+5b"	resultc="-7c" 	resultd=""
+					><b>Add</b> <code>4a – 3b + 2c</code>, <code>5a + 8b – 10c</code> and <code>-12a + c</code>.
+					</button>
+				</li>
+				<li role="presentation">
+					<button role="menuitem" tabindex="-1" class="addSubClass button" type="ADD"
+						term1a="13xE_4" 	term1b="–20xE_3" 	term1c="+5x" 	term1d="–10"
+						term2a="–8xE_4" 	term2b="-10xE_3" 	term2c="–15x" 	term2d="+10"
+						term3a="" 			term3b="" 			term3c="" 		term4d=""
+						resulta="5xE_4" 	resultb="–30xE_3" 	resultc="–10x"	resultd=""
+					><b>Add</b> <code>13x<sup1>4</sup1> – 20x<sup1>3</sup1> + 5x – 10</code> and <code>-10x<sup1>3</sup1> – 8x<sup1>4</sup1> – 15x + 10</code>.
+					</button>
+				</li>
+				<li role="presentation">
+					<button role="menuitem" tabindex="-1" class="addSubClass button" type="SUB"
+						term1a="2xE_2" 	term1b="–15x" 	term1c="+25" 	term1d=""
+						term2a="-3xE_2" term2b="-12x" 	term2c="+18" 	term2d=""
+						term3a="" 		term3b="" 		term3c="" 		term4d=""
+						resulta="-xE_2" resultb="–27x" 	resultc="+43" 	resultd=""
+					><b>Sub</b> <code>(2x<sup1>2</sup1> – 15x + 25)</code> - <code>(3x<sup1>2</sup1> + 12x – 18)</code>.
+					</button>
+				</li>
+				<li role="presentation">
+					<button role="menuitem" tabindex="-1" class="addSubClass button" type="SUB"
+						term1a="30xE_3" 	term1b="–50xE_2" 	term1c="+20x" 	term1d="–80"
+						term2a="-17xE_3" 	term2b="" 			term2c="-26x" 	term2d="-19"
+						term3a="" 			term3b="" 			term3c="" 		term4d=""
+						resulta="13xE_3" 	resultb="–50xE_2" 	resultc="-6x" 	resultd="-99"
+					><b>Sub</b> <code>(30x<sup1>3</sup1> – 50x<sup1>2</sup1> + 20x – 80)</code> – <code>(17x<sup1>3</sup1> + 26x + 19)</code>.
+					</button>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<svg id="svgAddSubPolynomials" width="100%" height="300" style="width:100%;">
+	</svg>
+	<div class="w3-container w3-theme w3-card-2">
+		<h4><i>Multiplication</i></h4>
+	</div>
+	<i>Rules in Multiplying Polynomials</i>
+	<div>
+		<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+			<tr>
+				<td>
+					<b>A.</b> To multiply a monomial by another monomial, simply multiply the numerical
+					coefficients then multiply the literal coefficients by applying the basic laws of
+					exponent.
+					<div class="indent50">
+						<i>Examples:</i>
+						<br>1) <code>(x<sup1>3</sup1>)(x<sup1>5</sup1>) = x<sup1>8</sup1></code>
+						<br>2) <code>(3x<sup1>2</sup1>)(-5x<sup1>10</sup1>) = -15x<sup1>12</sup1></code>
+						<br>3) <code>(-8x<sup1>2</sup1>y<sup1>3</sup1>)(-9xy<sup1>8</sup1>) = 72x<sup1>3</sup1>y<sup1>11</sup1></code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>B.</b> To multiply monomial by a polynomial, simply apply the distributive property and follow the rule in multiplying monomial by a monomial.
+					<div class="indent50">
+						<i>Examples:</i>
+						<br>1) <code>3x (x<sup1>2</sup1> – 5x + 7) = 3x<sup1>3</sup1> – 15x<sup1>2</sup1> + 21x</code>
+						<br>2) <code>-5x<sup1>2</sup1>y<sup1>3</sup1> (2x<sup1>2</sup1>y – 3x + 4y<sup1>5</sup1>) = -10x<sup1>4</sup1>y<sup1>4</sup1> + 15x<sup1>3</sup1>y<sup1>3</sup1> – 20x<sup1>2</sup1>y<sup1>8</sup1></code>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>C.</b> To multiply binomial by another binomial, simply distribute the first term of the first binomial to each term of the other binomial then distribute the second term to each term of the other binomial and simplify the results by combining similar terms. This procedure is also known as the <b>F-O-I-L</b> method or <b>Smile</b> method. Another way is the vertical way of multiplying which is the conventional one.
+					<div class="w3-container w3-theme w3-card-2">
+						<div class="dropdown">
+							<i>Multiply Method</i>&nbsp;&nbsp;&nbsp;&nbsp;
+							<button class="btn btn-default dropdown-toggle" type="button" id="menu3" data-toggle="dropdown">Choose
+							<span class="caret"></span></button>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="menu3">
+								<li role="presentation">
+									<button role="menuitem" tabindex="-1" href="#" class="foilClass button" style="width: 100%; text-align: left;"
+										term1a="x" 			term1b="3" 	operation1="+" 		operation2="+"
+										term2a="x" 			term2b="2"
+										resultF="xE_2" 		resultO="+2x"	resultI="+3x" 	resultL="6"
+										txt1="Combine &lt;code&gt;2x&lt;/code&gt; and &lt;code&gt;3x&lt;/code&gt;"
+										final="x&lt;sup1&gt;2&lt;/sup1&gt; + 5x + 6"
+									><b>Foil</b> <code>(x + 3)&nbsp;(x + 2)</code>.
+									</button>
+								</li>
+								<li role="presentation">
+									<button role="menuitem" tabindex="-1" href="#" class="verticalClass button" style="width: 100%; text-align: left;"
+										term1a="x" 			term1b="+3"
+										term2a="x" 			term2b="+2"
+										prod1a="2x" 		prod1b="+6"
+										prod2a="xE_2" 		prod2b="+3x"
+										resulta="xE_2" 		resultb="+3x"	resultc="+2x" 	resultd="+6"
+										txt1="Combine &lt;code&gt;2x&lt;/code&gt; and &lt;code&gt;3x&lt;/code&gt;"
+										final="x&lt;sup1&gt;2&lt;/sup1&gt; + 5x + 6"
+									><b>Vertical</b> <code>(x + 3)&nbsp;(x + 2)</code>.
+									</button>
+								</li>
+								<li role="presentation">
+									<button role="menuitem" tabindex="-1" href="#" class="foilClass button" style="width: 100%; text-align: left;"
+										term1a="3x" 			term1b="4y" 	operation1="-" 		operation2="-"
+										term2a="5x" 			term2b="2y"
+										resultF="15xE_2" 		resultO="-6yx"	resultI="-20xy" 	resultL="+8yE_2"
+										txt1="Combine &lt;code&gt;-6xy&lt;/code&gt; and &lt;code&gt;-20xy&lt;/code&gt;"
+										final="15x&lt;sup1&gt;2&lt;/sup1&gt; - 26xy + 8y&lt;sup1&gt;2&lt;/sup1&gt;"
+									><b>Foil</b>&nbsp;<code>(3x&nbsp;-&nbsp;4y)&nbsp;(5x&nbsp;-&nbsp;2y)</code>.
+									</button>
+								</li>
+								<li role="presentation">
+									<button role="menuitem" tabindex="-1" href="#" class="verticalClass button" style="width: 100%; text-align: left;"
+										term1a="3x" 			term1b="-4y"
+										term2a="5x" 			term2b="-2y"
+										prod1a="-6xy" 			prod1b="+8yE_2"
+										prod2a="15xE_2" 		prod2b="-20xy"
+										resulta="15xE_2" 		resultb="-20xy"	resultc="-6yx" 	resultd="+8yE_2"
+										txt1="Combine &lt;code&gt;-6xy&lt;/code&gt; and &lt;code&gt;-20xy&lt;/code&gt;"
+										final="15x&lt;sup1&gt;2&lt;/sup1&gt; - 26xy + 8y&lt;sup1&gt;2&lt;/sup1&gt;"
+									><b>Vertical</b>&nbsp;<code>(3x&nbsp;-&nbsp;4y)&nbsp;(5x&nbsp;-&nbsp;2y)</code>.
+									</button>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<svg id="svgFOIL" width="100%" height="300" style="width:100%;">
+					</svg>
+					<div class="indent50">
+						<i>More Examples:</i>
+						<br>1) <code>(x + 3)(x + 5) = x<sup1>2</sup1> + 8x + 15</code>
+						<br>2) <code>(x - 5)(x + 5) = x<sup1>2</sup1> + 5x – 5x – 25 = x<sup1>2</sup1> – 25</code>
+						<br>3) <code>(x + 6)<sup1>2</sup1> = (x + 6)(x + 6) = x<sup1>2</sup1> + 6x + 6x + 36 = x<sup1>2</sup1> + 12x + 36</code>
+						<br>4) <code>(2x + 3y)(3x – 2y) = 6x<sup1>2</sup1> – 4xy + 9xy – 6y<sup1>2</sup1> = 6x<sup1>2</sup1> + 5xy – 6y<sup1>2</sup1></code>
+						<br>5) <code>(3a – 5b)(4a + 7) = 12a<sup1>2</sup1> + 21a – 20ab – 35b</code>
+						<br><i>There are no similar terms so it is already in simplest form.</i>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>D.</b> To multiply a polynomial with more than one term by a polynomial with three or more terms, simply distribute the first term of the first polynomial to each term of the other polynomial. Repeat the procedure up to the last term and simplify the results by combining similar terms.
+					<div class="indent50">
+						<i>Examples:</i>
+						<br>
+						1) (x + 3)(x<sup1>2</sup1> – 2x + 3) 
+						<div class="indent25">
+							<code>
+								= x(x<sup1>2</sup1> – 2x + 3) – 3(x<sup1>2</sup1> – 2x + 3)
+								<br>= x<sup1>3</sup1> – 2x<sup1>2</sup1> + 3x – 3x<sup1>2</sup1> + 6x – 9
+								<br>= x<sup1>3</sup1> – 5x<sup1>2</sup1> + 9x – 9
+							</code>
+						</div>
+						<br>
+						2) (x<sup1>2</sup1> + 3x – 4)(4x<sup1>3</sup1> + 5x – 1) 
+						<div class="indent25">
+							<code>
+							= x<sup1>2</sup1>(4x<sup1>3</sup1> + 5x – 1) + 3x(4x<sup1>3</sup1> + 5x – 1) - 4(4x<sup1>3</sup1> + 5x – 1)
+							<br>= 4x<sup1>5</sup1> + 5x<sup1>3</sup1> – x<sup1>2</sup1> + 12x<sup1>4</sup1> + 15x<sup1>2</sup1> – 3x – 16x<sup1>3</sup1> – 20x + 4
+							<br>= 4x<sup1>5</sup1> + 12x<sup1>4</sup1> – 11x<sup1>3</sup1> + 14x<sup1>2</sup1> – 23x + 4
+							</code>
+						</div>
+						<br>
+						3) (2x – 3)(3x + 2)(x<sup1>2</sup1> – 2x – 1) 
+						<div class="indent25">
+							<code>
+							= (6x<sup1>2</sup1> – 5x – 6)(x<sup1>2</sup1> – 2x – 1)
+							<br>= 6x<sup1>4</sup1> – 17x<sup1>3</sup1> – 22x<sup1>2</sup1> + 17x + 6
+							</code>
+							<br><i>*Do the distribution one by one.</i>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="w3-container w3-theme w3-card-2">
+		<h4><i>Division</i></h4>
+	</div>
+	<p>
+		<i>To divide polynomial by a polynomial with more than one term (by long division), simply follow the procedure in dividing numbers by long division.</i>
+		<div class="indent10">
+			These are some suggested steps to follow:
+			<div>
+				<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+					<tr>
+						<td>
+							<b>1.</b> Check the dividend and the divisor if it is in standard form.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<b>2.</b> Set-up the long division by writing the division symbol where the divisor is	outside the division symbol and the dividend inside it.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<b>3.</b> You may now start the Division, Multiplication, Subtraction and Bring Down cycle.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<b>4.</b> You can stop the cycle when:
+							<div class="indent50">
+								a) the quotient (answer) has reached the constant term.
+								<br>b) the exponent of the divisor is greater than the exponent of the dividend
+							</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</p>
+	<div class="w3-container w3-theme w3-card-2">
+		<div class="dropdown">
+			<i>Division Examples:</i>&nbsp;&nbsp;&nbsp;&nbsp;
+			<button class="btn btn-default dropdown-toggle" type="button" id="menu4" data-toggle="dropdown">Choose
+			<span class="caret"></span></button>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="menu4">
+				<li role="presentation">
+					<button role="menuitem" tabindex="-1" href="#" class="divisionClass button" style="width: 100%; text-align: left;"
+						dividenda="xE_3"		dividendb="-4x_2" 	dividendc="+2x" 	dividendd="-3"
+						divisor="x&nbsp;+&nbsp;2"
+						dividendLvl1a="xE_3" 		dividendLvl1b="+2xE_2"
+						dividendLvl2aa="-6xE_2"		dividendLvl2ab="+2x"
+						dividendLvl2ba="-6xE_2"		dividendLvl2bb="-12x"
+						dividendLvl3aa="14x"		dividendLvl3ab="-3"
+						dividendLvl3ba="14x"		dividendLvl3bb="+28"
+						dividendLvl4="-31"
+						quotientb="xE_2" 	quotientc="-6x" 	quotientd="+14"
+						divFinal="x&lt;sup1&gt;2&lt;/sup1&gt; - 6x + 14 - &lt;sup1&gt;31&lt;/sup1&gt;&frasl;&lt;sub1&gt;(x + 2)&lt;/sub1&gt;"
+					><b>Div</b> <code>x<sup1>3</sup1> - 4x<sup1>2</sup1> + 2x - 3</code> to <code>x + 2</code>.
+					</button>
+					<button role="menuitem" tabindex="-1" href="#" class="divisionClass button" style="width: 100%; text-align: left;"
+						dividenda="2xE_3"		dividendb="+7x_2" 	dividendc="+2x" 	dividendd="+9"
+						divisor="2x&nbsp;+&nbsp;3"
+						dividendLvl1a="2xE_3" 		dividendLvl1b="+3xE_2"
+						dividendLvl2aa="4xE_2"		dividendLvl2ab="+2x"
+						dividendLvl2ba="4xE_2"		dividendLvl2bb="+6x"
+						dividendLvl3aa="-4x"		dividendLvl3ab="+9"
+						dividendLvl3ba="-4x"		dividendLvl3bb="-6"
+						dividendLvl4="15"
+						quotientb="xE_2" 	quotientc="+2x" 	quotientd="-2"
+						divFinal="x&lt;sup1&gt;2&lt;/sup1&gt; + 2x - 2 + &lt;sup1&gt;15&lt;/sup1&gt;&frasl;&lt;sub1&gt;(2x + 3)&lt;/sub1&gt;"
+					><b>Div</b> <code>2x<sup1>3</sup1> + 7x<sup1>2</sup1> + 2x + 9</code> to <code>2x + 3</code>.
+					</button>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<svg id="svgDivision" width="100%" height="300" style="width:100%;">
+	</svg>
+	<div class="w3-container w3-theme w3-card-2">
+		<i>Special Products</i>
+	</div>
+	<div>
+		<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+			<tr>
+				<td>
+					<b>1. Square of a Sum</b><br>
+					<div class="indent25">
+						<code>(a + b)<sup1>2</sup1> = a<sup1>2</sup1> + 2ab + b<sup1>2</sup1></code>
+						<br><br>Examples:
+						<table>
+							<tr>
+								<td valign="top" style="text-align: right; width: 150px;">
+									1. <code>(x + 5)<sup1>2</sup1></code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>2</sup1> + 2(5x) + 5<sup1>2</sup1></code>
+									<br>= <code>x<sup1>2</sup1> + 10x + 25</code>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" style="text-align: right; width: 100px;">
+									2. <code>(x + 2y)<sup1>2</sup1></code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>2</sup1> + 2(2yx) + (2y)<sup1>2</sup1></code>
+									<br>= <code>x<sup1>2</sup1> + 4xy + 4y<sup1>2</sup1></code>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" style="text-align: right; width: 100px;">
+									3. <code>(x + y + 4)<sup1>2</sup1></code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>((x + y) + 4)<sup1>2</sup1></code>
+									<br>= <code>(x + y)<sup1>2</sup1> + 2(4)(x + y) + (4)<sup1>2</sup1></code>
+									<br>= <code>[(x + y)<sup1>2</sup1>] + 8(x + y) + 16</code>
+									<br>= <code>[x<sup1>2</sup1> + 2xy + y<sup1>2</sup1>] + 8x + 8y + 16</code>
+									<br>= <code>x<sup1>2</sup1> + 2xy + y<sup1>2</sup1> + 8x + 8y + 16</code>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>2. Square of a Difference</b><br>
+					<div class="indent25">
+						<code>(a - b)<sup1>2</sup1> = a<sup1>2</sup1> - 2ab + b<sup1>2</sup1></code>
+						<br><br>Examples:
+						<table>
+							<tr>
+								<td valign="top" style="text-align: right; width: 150px;">
+									1. <code>(x - 5)<sup1>2</sup1></code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>2</sup1> - 2(5x) + 5<sup1>2</sup1></code>
+									<br>= <code>x<sup1>2</sup1> - 10x + 25</code>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" style="text-align: right; width: 100px;">
+									2. <code>(x - 5y)<sup1>2</sup1></code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>2</sup1> - 2(5yx) + (5y)<sup1>2</sup1></code>
+									<br>= <code>x<sup1>2</sup1> - 10xy + 25y<sup1>2</sup1></code>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" style="text-align: right; width: 100px;">
+									3. <code>(x + y - 2)<sup1>2</sup1></code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>((x + y) - 2)<sup1>2</sup1></code></code>
+									<br>= <code>[x + y]<sup1>2</sup1> - 2(2)(x + y) + 2<sup1>2</sup1></code>
+									<br>= <code>x<sup1>2</sup1> + 2xy + y<sup1>2</sup1> - 4x - 4y + 4</code>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>3. Product of a Sum and a Difference</b><br>
+					<div class="indent25">
+						<code>(a + b) (a - b) = a<sup1>2</sup1> - b<sup1>2</sup1></code>
+						<br><br>Examples:
+						<table>
+							<tr>
+								<td valign="top" style="text-align: right; width: 220px;">
+									1. <code>(x + 5)(x - 5)</code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>2</sup1> - 5<sup1>2</sup1></code>
+									<br>= <code>x<sup1>2</sup1> - 25</code>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" style="text-align: right; width: 100px;">
+									2. <code>(x + 5y) (x - 5y)</code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>2</sup1> - (5y)<sup1>2</sup1></code>
+									<br>= <code>x<sup1>2</sup1> - 25y<sup1>2</sup1></code>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" style="text-align: right; width: 100px;">
+									3. <code>(x + y - 1) (x + y + 1)</code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>([x + y] - 1) ([x + y] + 1)</code>
+									<br>= <code>(x + y)<sup1>2</sup1> - 1<sup1>2</sup1></code>
+									<br>= <code>x<sup1>2</sup1> + 2xy + y<sup1>2</sup1> - 1</code>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>4. Product of a binomial and a trinomial</b><br>
+					<div class="indent25">
+						<code>(a2 - ab + b2) (a + b) = a<sup1>3</sup1> + b<sup1>3</sup1></code>
+						<br><code>(a2 + ab + b2) (a - b) = a<sup1>3</sup1> - b<sup1>3</sup1></code>
+						<br><br>Examples:
+						<table>
+							<tr>
+								<td valign="top" style="text-align: right; width: 220px;">
+									1. <code>(x2 - 3x + 9)(x + 3)</code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>3</sup1> + 3<sup1>3</sup1></code>
+									<br>= <code>x<sup1>3</sup1> + 27</code>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" style="text-align: right; width: 100px;">
+									2. <code>(x<sup1>2</sup1> + 4x + 16) (x - 4)</code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>3</sup1> - 4<sup1>3</sup1></code>
+									<br>= <code>x<sup1>3</sup1> - 64</code>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" style="text-align: right; width: 100px;">
+									3. <code>(x<sup1>2</sup1> - 6x + 36) (x + 6)</code>&nbsp;
+								</td>
+								<td valign="top">
+									= <code>x<sup1>3</sup1> + 6<sup1>3</sup1></code>
+									<br>= <code>x<sup1>3</sup1> + 216</code>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+<script>
+	window.onload = function() {
+		initialSpeech();
+		var svgTerms = Snap("#svgTerms");
+		var svgAddSubPolynomials = Snap("#svgAddSubPolynomials");
+		var svgFOIL = Snap("#svgFOIL");
+		var svgDivision = Snap("#svgDivision");
+		
+		$(".termClass").click(function(a) {
+			callDisplayTerms(svgTerms, $(this));
+		});
+		callDisplayTerms(svgTerms, $($(".termClass")[0]));
+
+		$(".addSubClass").click(function(a) {
+			callAddSub(svgAddSubPolynomials, $(this));
+		});
+		callAddSub(svgAddSubPolynomials, $($(".addSubClass")[0]));
+
+		$(".foilClass").click(function(a) {
+			callFoilMethod(svgFOIL, $(this));
+		});
+		$(".verticalClass").click(function(a) {
+			callVerticalMethod(svgFOIL, $(this));
+		});
+		callFoilMethod(svgFOIL, $($(".foilClass")[0]));
+//		callVerticalMethod(svgFOIL, $($(".verticalClass")[0]));
+
+		$(".divisionClass").click(function(a) {
+			callLongDivision(svgDivision, $(this));
+		});
+		callLongDivision(svgDivision, $($(".divisionClass")[0]));
+	}
+</script>
+</body>
+</html>

@@ -1,0 +1,217 @@
+<html>
+<head>
+	<link rel="stylesheet" href="css/w3.css">
+	<link rel="stylesheet" href="css/themes/w3-theme-blue.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<script src="js/bootstrap.min.js"></script>
+
+    <link 	rel="stylesheet" href="css/mycss.css">
+    <script type="text/javascript" src="js/snap.svg.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/topic/myintegers.js"></script>
+    <script type="text/javascript" src="js/topic/myappjs.js"></script>
+    <script type="text/javascript" src="js/topic/myjs.js"></script>
+    <script>
+		function initialSpeech() {
+				setTimeout(function () {
+					sendTTS("In this topic, we will talk about integer addition.");
+				}, 5000);
+		}
+	</script>
+</head>
+<body>
+	<div class="w3-container w3-theme w3-card-2">
+		<h3>Integers</h3>
+	</div>
+	An <b>integer</b> is a whole number (not a fractional number) that can be positive, negative, or zero. 
+	Examples of integers are: -5, 1, 5, 8, 97, and 3,043.
+	<div class="w3-container w3-theme w3-card-2">
+		<h4>Addition/Subtraction of Integers</h4>
+	</div>
+	<p>
+		A good example of adding and subtracting integers is to show a number line like below.
+	</p>
+	<svg id="svgAddSub" width="300px" height="250" style="width:300px;">
+	</svg>
+	<center>
+		<select class="addSubOp" id="addSubInput1" name="addSubInput1" style="width: 50px; background-color:magenta; color:white">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="-1">-1</option>
+			<option value="-2">-2</option>
+			<option value="-3">-3</option>
+			<option value="-4">-4</option>
+			<option value="-5">-5</option>
+		</select>
+		<select class="addSubOp" id="addSubSelect" name="addSubSelect" style="width: 80px; background-color:magenta; color:white">
+			<option value="PLUS">Plus</option>
+			<option value="MINUS">Minus</option>
+		</select>
+		<select class="addSubOp" id="addSubInput2" name="addSubInput2" style="width: 50px; background-color:magenta; color:white">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="-1">-1</option>
+			<option value="-2">-2</option>
+			<option value="-3">-3</option>
+			<option value="-4">-4</option>
+			<option value="-5">-5</option>
+		</select>
+	</center>
+    <div id="container1" class="svgContainer w3-panel w3-sand w3-serif">
+    </div>
+    <br>
+	<div class="w3-container w3-theme w3-card-2">
+		<i>Rules of Addition and Subtraction</i>
+	</div>
+	<div>
+		<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+			<tr>
+				<td>
+					1a. (For Subtraction) Change the sign of the second value then add.
+					<div class="indent50">
+						<div style="float: left;">a.</div>
+						<div class="indent10">
+							<code>27 - (-30)</code><br>
+							<code>= 27 + (+30)</code><br>
+							<code>= 27 + 30</code><br>
+							<code>= 57</code>
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					1b. If the integers have the same sign, just add the positive equivalents of the integers and attach the common sign to the result.
+					<div class="indent50">
+						<div style="float: left;">a.</div>
+						<div class="indent10">
+							<code>27 + 30</code><br>
+							<code>= (27 + 30)</code><br>
+							<code>= (57)</code><br>
+							<code>= 57</code>
+						</div>
+						<br>
+						<div style="float: left;">b.</div>
+						<div class="indent10">
+							<code>(-20) + (-15)</code><br>
+							<code>= - (20 + 15)</code><br>
+							<code>= - (35)</code><br>
+							<code>= - 35</code>
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					2. If the integers have different signs, get the difference of the positive equivalents of the integers and attach the sign of the larger number to the result.<br><br>
+					<div class="indent50">
+						<div style="float: left;">a.</div>
+						<div class="indent10">
+							<code>(38) + (-20)</code><br>
+							Get the difference between <code>38</code> and <code>20: 18</code><br>
+							Since <code>38</code> is greater than <code>20</code>, the sign of the sum is positive.<br>
+							Hence <code>38 + (-20) = 18</code><br>
+						</div>
+						<br>
+						<div style="float: left;">b.</div>
+						<div class="indent10">
+							<code>(-42) + 16</code><br>
+							Get the difference between <code>42</code> and <code>16: 26</code><br>
+							Since <code>42</code> is greater than <code>16</code>, the sum will have a negative sign.<br>
+							Hence <code>(-42) + 16 = -26</code>
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					3. If there are move that two addends in the problem the first step to do is to combine addends with same signs and then get the difference of their sums.<br><br>
+					<div class="indent50">
+						<i>Examples:</i>
+						<div style="float: left;">a.</div>
+						<div class="indent10">
+			<code>(-14) + (22) + (8) + (-16)<br>
+			= -(14 + 16) + (22 + 8)<br>
+			= -30 + 30 = 0</code>
+						</div>
+						<br>
+						<div style="float: left;">b.</div>
+						<div class="indent10">
+			<code>31 + 70 + 9 + (-155)<br>
+			= (31 + 70 + 9) + (=-155)<br>
+			= 110 + (-155) = -45</code>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="w3-container w3-theme w3-card-2">
+		<h4>Multiplication of Integers</h4>
+	</div>
+    <div>
+		We learned that with whole numbers, multiplication is repeated addition. <br>
+		<div class="indent50">
+			For example <code>4 x 3</code>, means three groups of <code>4</code>. <br>Or,
+			putting it into a real context, <code>3</code> cars with <code>4</code> passengers each, how many passenger in all? Thus<br><br>
+			<code>4 x 3 = 4 + 4 + 4 = 12</code>.<br>
+			and it also follows that <br><code>4 x 3 = 3 x 4</code> which is equals <code>3 + 3 + 3 + 3 = 12</code>.</b><br><br>
+		</div>
+
+        In addition to the above statement we also have another rules about signed numbers multiplication.<br>
+        <div class="indent50 alert-info">
+			Rule 1:  	The product of a positive integer and a negative integer is a negative integer.<br>
+            Rule 2:  	The product of two negative integers or two positive integers is a positive integer.
+		</div>
+        <br>
+        Moving forward we should realize that <code>4 x 3 = 3 x 4 = 4(3) = (4)3 = 3(4)</code>.
+    </div>
+	<div class="w3-container w3-theme w3-card-2">
+		<h4>Division of Integers</h4>
+	</div>
+    <div>
+		The rules for division are exactly the same as those for multiplication. <br>
+        If we were to take the rules for multiplication and change the multiplication signs to division signs,
+        <br>we would have an accurate set of rules for division.</b><br><br>
+		<div class="indent50">
+			Here are three examples:<br><br>
+			Example 1: <code>-9 &divide; 3 = -3</code><br>
+			Example 2: <code>20 &divide; (-4) = -5</code><br>
+			Example 3: <code>-18 &divide; (-3) = 6</code><br><br>
+		</div>
+        Same rule as Multiplication:<br>
+        <div class="indent50 alert-info">
+			Rule 1:  	The quotient of a positive integer and a negative integer is a negative integer.<br>
+            Rule 2:  	The quotient of two negative integers or two positive integers is a positive integer.
+		</div>
+    </div>
+<script>
+	window.onload = function() {
+		initialSpeech();
+		var svgAddSub = Snap("#svgAddSub");
+		moveLeftRight(svgAddSub, 0, 0, 5);
+		
+		$("#addSubInput1, #addSubInput2, #addSubSelect").change(function() {
+			var firstVal = $('#addSubInput1').val();
+			var secondVal = $('#addSubInput2').val();
+			var operation = $('#addSubSelect').val();
+			if (operation=="PLUS") {
+				addValue(svgAddSub, firstVal, secondVal);
+			}
+			else {
+				subValue(svgAddSub, firstVal, secondVal);
+			}
+		});
+		var firstVal = $('#addSubInput1').val();
+		var secondVal = $('#addSubInput2').val();
+		addValue(svgAddSub, firstVal, secondVal);
+	}
+</script>
+</body>
+</html>

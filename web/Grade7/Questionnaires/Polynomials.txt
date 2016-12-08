@@ -1,0 +1,413 @@
+CATEGORY: GRADE7-MATH
+TOPIC: Polynomials
+TOPIC_CODE: Polynomials
+
+1. Calculate then choose the correct answer for
+<blockquote>(3x + 2) + (4x + 6)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	7x + 8
+b.	12x + 12
+c.	12x<sup1>2</sup1> + 12
+d.  7x<sup1>2</sup1> + 8
+
+2. Calculate then choose the correct answer for
+<blockquote>(2x + y + 3z) + (x − y + z)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	2x<sup1>2</sup1> + 3z<sup1>2</sup1>
+b.	3x + 4z
+c.	3x<sup1>2</sup1> + 4z<sup1>2</sup1>
+d.  2x<sup1>2</sup1> - 2y<sup1>2</sup1> + 3z<sup1>2</sup1>
+
+3. Calculate then choose the correct answer for
+<blockquote>(x<sup1>2</sup1> + 2) + (x<sup1>2</sup1> - 5)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	x<sup1>4</sup1> - 10
+b.	2x<sup1>2</sup1> - 3
+c.	2x<sup1>4</sup1> - 10
+d.  2x<sup1>2</sup1> - 10
+
+4. Calculate then choose the correct answer for
+<blockquote>(3a<sup1>2</sup1> + 2a - 1) + (a<sup1>2</sup1> + a + 1)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	3a<sup1>4</sup1> + 2a<sup1>2</sup1>
+b.	4a<sup1>2</sup1> + 3a
+c.	3a<sup1>4</sup1> + 2a<sup1>2</sup1> - 1
+d.  4a<sup1>4</sup1> + 3a<sup1>2</sup1>
+
+5. Calculate then choose the correct answer for
+<blockquote>(2x<sup1>2</sup1> + 3x -1) + (x<sup1>2</sup1> - x + 2)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	2x<sup1>4</sup1> + 2x + 1
+b.	2x<sup1>2</sup1> + 2x<sup1>2</sup1> + 1
+c.	3x<sup1>2</sup1> + 2x + 1
+d.  3x<sup1>2</sup1> + 2x
+
+6. Calculate then choose the correct answer for
+<blockquote>(2z - z<sup1>2</sup1> + 5) + (z<sup1>2</sup1> - 3z + 1)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	2z<sup1>2</sup1> - z + 6
+b.	2z<sup1>2</sup1> + 6
+c.	-z + 6
+d.  2z<sup1>4</sup1> - z + 6
+
+7. Calculate then choose the correct answer for
+<blockquote>(3 - 2t<sup1>2</sup1> + t) + (t<sup1>2</sup1> - t - 3)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	2t<sup1>4</sup1> - t<sup1>2</sup1>
+b.	2t<sup1>2</sup1>2 - t
+c.	-t<sup1>2</sup1>
+d.  -t
+
+8. Calculate then choose the correct answer for
+<blockquote>(4m − 2n) − (3m + 3n)</blockquote>
+Correct. d
+Rationale. empty
+
+a.	7m − 5n
+b.	m − 6n
+c.	7m − 6n
+d.  m − 5n
+
+9. Calculate then choose the correct answer for
+<blockquote>(6a + 2b − 7) − (a − b + 2)</blockquote>
+Correct. d
+Rationale. empty
+
+a.	7a + 3b − 9
+b.	5a + b − 9
+c.	5a + 3b − 5
+d.  5a + 3b − 9
+
+10. Calculate then choose the correct answer for
+<blockquote>(t<sup1>2</sup1> + 8) - (4t<sup1>2</sup1> + 1)</blockquote>
+Correct. d
+Rationale. empty
+
+a.	-5t<sup1>2</sup1> + 7
+b.	3t<sup1>2</sup1> + 7
+c.	-3t<sup1>2</sup1> + 9
+d.  -3t<sup1>2</sup1> + 7
+
+11. Calculate then choose the correct answer for
+<blockquote>(6a<sup1>2</sup1> + 3b + 1) - (a<sup1>2</sup1> - 3b - 5)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	5a<sup1>2</sup1> + 6b + 6
+b.	7a<sup1>2</sup1> + 4b + 4
+c.	7a<sup1>2</sup1> + 6b + 6
+d.  5a<sup1>2</sup1> + 4b + 4
+
+12. Calculate then choose the correct answer for
+<blockquote>(2x<sup1>2</sup1> + 3x - 1) - (-2x<sup1>2</sup1> + 3x - 1)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	4x<sup1>2</sup1>
+b.	4x<sup1>2</sup1> + 6x - 2
+c.	4x<sup1>2</sup1> + 6x
+d.  4x<sup1>2</sup1> + 2
+
+13. Calculate then choose the correct answer for
+<blockquote>(3x<sup1>2</sup1> + 5) - (x + 1)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	2x<sup1>2</sup1> + 4
+b.	3x<sup1>2</sup1> - x + 4
+c.	3x<sup1>2</sup1> + 4
+d.  2x<sup1>2</sup1> - x + 6
+
+14. Calculate then choose the correct answer for
+<blockquote>(3x + 7x<sup1>2</sup1> - 6) - (5x<sup1>2</sup1> + x + 9)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	2x<sup1>2</sup1> + 2x + 15
+b.	2x<sup1>2</sup1> + 2x - 15
+c.	8x<sup1>2</sup1> + 2x - 15
+d.  2x<sup1>2</sup1> + 8x - 15
+
+15. Calculate then choose the correct answer for
+<blockquote>(x<sup1>2</sup1> - 7x + 10) + (2x<sup1>2</sup1> + 2x - 3) - (3x<sup1>2</sup1> - 5x + 7)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	6x<sup1>2</sup1> - 14x + 20
+b.	6x<sup1>2</sup1> - 14x - 20
+c.	0
+d.  x<sup1>2</sup1> - 14x + 20
+
+16. Calculate then choose the correct answer for
+<blockquote>(a + 1)(a + 5)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	a<sup1>2</sup1> + 4a + 5
+b.	a<sup1>2</sup1> + 5a + 5
+c.	a<sup1>2</sup1> + 6a + 5
+d.  2a<sup1>2</sup1> + 4a + 5
+
+17. Calculate then choose the correct answer for
+<blockquote>(b + 3)(b + 9)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	b<sup1>2</sup1> + 12b + 12
+b.	b<sup1>2</sup1> + 27b + 12
+c.	b<sup1>2</sup1> + 12b + 27
+d.  2b<sup1>2</sup1> + 12b + 12
+
+18. Calculate then choose the correct answer for
+<blockquote>(c − 6)( c − 2)  </blockquote>
+Correct. c
+Rationale. empty
+
+a.	2c<sup1>2</sup1> - 8c + 8
+b.	c<sup1>2</sup1> - 8c - 12
+c.	c<sup1>2</sup1> - 8c + 12
+d.  2c<sup1>2</sup1> - 4c - 12
+
+19. Calculate then choose the correct answer for
+<blockquote>(d − 2)(d − 2)  </blockquote>
+Correct. b
+Rationale. empty
+
+a.	d<sup1>2</sup1> - 4d - 4
+b.	d<sup1>2</sup1> - 4d + 4
+c.	d<sup1>2</sup1> - 4d
+d.  d<sup1>2</sup1> - 2d + 4
+
+20. Calculate then choose the correct answer for
+<blockquote>(f + 6)(f − 3)  </blockquote>
+Correct. b
+Rationale. empty
+
+a.	f<sup1>2</sup1> + 3f + 18
+b.	f<sup1>2</sup1> + 3f - 18
+c.	f<sup1>2</sup1> + 3f - 3
+d.  2f<sup1>2</sup1> + 3f - 18
+
+21. Calculate then choose the correct answer for
+<blockquote>(g −5)(g + 2)  </blockquote>
+Correct. b
+Rationale. empty
+
+a.	g<sup1>2</sup1> - 3g + 10
+b.	g<sup1>2</sup1> - 3g - 10
+c.	g<sup1>2</sup1> - 3g - 3
+d.  g<sup1>2</sup1> - 10g - 10
+
+22. Calculate then choose the correct answer for
+<blockquote>(h − 7)(h + 7)  </blockquote>
+Correct. b
+Rationale. empty
+
+a.	h<sup1>2</sup1> - 14h + 49
+b.	h<sup1>2</sup1> - 49
+c.	h<sup1>2</sup1> - 14h - 49
+d.  h<sup1>2</sup1> - 49h + 49
+
+23. Calculate then choose the correct answer for
+<blockquote>(j + 4)(j − 4)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	j<sup1>2</sup1> - 16
+b.	j<sup1>2</sup1> - 8j + 16
+c.	j<sup1>2</sup1> + 8j - 8
+d.  j<sup1>2</sup1> - 16j + 16
+
+24. Calculate then choose the correct answer for
+<blockquote>(3a + 1)(2a + 5)  </blockquote>
+Correct. a
+Rationale. empty
+
+a.	6a<sup1>2</sup1> + 17a + 5
+b.	6a<sup1>2</sup1> + 11a + 5
+c.	6a<sup1>2</sup1> + 17a + 11
+d.  6a<sup1>2</sup1> + 4a + 7
+
+25. Calculate then choose the correct answer for
+<blockquote>(2b + 7)(b + 5)  </blockquote>
+Correct. a
+Rationale. empty
+
+a.	2b<sup1>2</sup1> + 17b + 35
+b.	2b<sup1>2</sup1> + 9b + 35
+c.	2b<sup1>2</sup1> + 17b + 9
+d.  2b<sup1>2</sup1> + 9b + 17
+
+26. Calculate then choose the correct answer for
+<blockquote>(7c − 3)(4c − 5)  </blockquote>
+Correct. a
+Rationale. empty
+
+a.	28c<sup1>2</sup1> - 47c + 15
+b.	28c<sup1>2</sup1> - 15c + 15
+c.	28c<sup1>2</sup1> - 47c + 47
+d.  28c<sup1>2</sup1> - 10c + 9
+
+27. Calculate then choose the correct answer for
+<blockquote>(2d − 5)(6d −1)  </blockquote>
+Correct. d
+Rationale. empty
+
+a.	12d<sup1>2</sup1> - 32d - 5
+b.	12d<sup1>2</sup1> + 32d - 5
+c.	12d<sup1>2</sup1> - 5d + 32
+d.  12d<sup1>2</sup1> - 32d + 5
+
+28. Calculate then choose the correct answer for
+<blockquote>(3f + 2)(5f − 1)  </blockquote>
+Correct. d
+Rationale. empty
+
+a.	15f<sup1>2</sup1> + 2f - 7
+b.	15f<sup1>2</sup1> - 7f + 2
+c.	15f<sup1>2</sup1> + 7f + 2
+d.  15f<sup1>2</sup1> + 7f - 2
+
+29. Calculate then choose the correct answer for
+<blockquote>(6g + 5)(2g −5)  </blockquote>
+Correct. d
+Rationale. empty
+
+a.	12g<sup1>2</sup1> - 20g + 25
+b.	12g<sup1>2</sup1> + 20g - 25
+c.	12g<sup1>2</sup1> - 25g - 20
+d.  12g<sup1>2</sup1> - 20g - 25
+
+30. Calculate then choose the correct answer for
+<blockquote>(7h − 5)(7h + 5)  </blockquote>
+Correct. d
+Rationale. empty
+
+a.	49h<sup1>2</sup1> - 49h + 25
+b.	49h<sup1>2</sup1> - 49h - 25
+c.	49h<sup1>2</sup1> + 49h - 25
+d.  49h<sup1>2</sup1> - 25
+
+31. Calculate then choose the correct answer for
+<blockquote>(y<sup1>2</sup1> + 3y + 2) / (y + 1) </blockquote>
+Correct. d
+Rationale. empty
+
+a.	y - 2
+b.	y<sup1>2</sup1> + y + 2
+c.	y + 1
+d.  y + 2
+
+
+32. Calculate then choose the correct answer for
+<blockquote>(n<sup1>2</sup1> + 6n + 5) / (n + 1)</blockquote>
+Correct. d
+Rationale. empty
+
+a.	n - 5
+b.	n<sup1>2</sup1> + n + 5
+c.	n + 3
+d.  n + 5
+
+
+33. Calculate then choose the correct answer for
+<blockquote>(x<sup1>2</sup1> - 5x + 6) / (x - 2)</blockquote>
+Correct. d
+Rationale. empty
+
+a.	x<sup1>2</sup1> + x - 3
+b.	x + 3
+c.	x<sup1>2</sup1> - x + 3
+d.  x - 3
+
+
+34. Calculate then choose the correct answer for
+<blockquote>(x<sup1>2</sup1> + 3x - 4) / (x + 4)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	x - 1
+b.	x<sup1>2</sup1> + x - 1
+c.	x + 1
+d.  3x - 1
+
+
+35. Calculate then choose the correct answer for
+<blockquote>(b<sup1>2</sup1> - 9a + 20) / (a - 5)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	b - 4
+b.	b<sup1>2</sup1> + b - 4
+c.	b + 4
+d.  b - 2
+
+
+36. Calculate then choose the correct answer for
+<blockquote>(b<sup1>2</sup1> + 8b - 20) / (b - 2)</blockquote>
+Correct. a
+Rationale. empty
+
+a.	b + 10
+b.	b - 10
+c.	b + 5
+d.  b<sup1>2</sup1> + b - 10
+
+
+37. Calculate then choose the correct answer for
+<blockquote>(x<sup1>2</sup1> + 2x + 3) / (x + 1)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	x + 1
+b.	x + 1 + <sup1>2</sup1> / <sub1>(x+1)</sub1>
+c.	x + 1 + <sup1>1</sup1> / <sub1>(x+1)</sub1>
+d.  x + 2 + <sup1>2</sup1> / <sub1>(x+1)</sub1>
+
+
+38. Calculate then choose the correct answer for
+<blockquote>(t<sup1>2</sup1> - 2t + 2) / (t - 2)</blockquote>
+Correct. b
+Rationale. empty
+
+a.	t + 2
+b.	t + <sup1>2</sup1> / <sub1>(t - 2)</sub1>
+c.	2t + <sup1>2</sup1> / <sub1>(t - 2)</sub1>
+d.  t + <sup1>3</sup1> / <sub1>(t - 2)</sub1>
+
+
+39. Calculate then choose the correct answer for
+<blockquote>(-28 - 3d + d<sup1>2</sup1>) / (d - 7)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	d + 2
+b.	d + 3
+c.	d + 4
+d.  d - 4
+
+
+40. Calculate then choose the correct answer for
+<blockquote>(-24 - 5r + r<sup1>2</sup1>) / (r + 3)</blockquote>
+Correct. c
+Rationale. empty
+
+a.	r + 8
+b.	r - 4
+c.	r - 8
+d.  r<sup1>2</sup1> - 8
+
