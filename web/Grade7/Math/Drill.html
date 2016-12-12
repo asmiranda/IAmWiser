@@ -13,42 +13,48 @@
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/snap.svg.js"></script>
 
-	<script type="text/javascript" src="js/icheck.js"></script>
-
 	<script type="text/javascript" src="js/topic/myappjs.js"></script>
 	<script type="text/javascript" src="js/topic/myjs.js"></script>
 	<script type="text/javascript" src="js/topic/mydrill.js"></script>
 </head>
 <body>
 <div id="question">(-5) + (-11)</div>
-<div id="rationale">(-5) + (-11)</div>
+<div id="rationale" style="color:magenta;">(-5) + (-11)</div>
 <table style="width: 100%; font-size: 14px;" class="table table-condensed bottom">
 	<tr>
+		<td style="width: 20px;">
+			<input type="radio" id="answera" name="answer" value="a" style="width: 20px;">
+		</td>
 		<td>
-			<input type="radio" id="answera" name="answer" value="a">
 			<label for="answera"><b>A.</b><span id="answerlbla">This is answer a</span></label>
 		</td>
 	</tr>
 	<tr>
+		<td style="width: 20px;">
+			<input type="radio" id="answerb" name="answer" value="b" style="width: 20px;">
+		</td>
 		<td>
-			<input type="radio" id="answerb" name="answer" value="b">
 			<label for="answerb"><b>B.</b><span id="answerlblb">This is answer b</span></label>
 		</td>
 	</tr>
 	<tr>
+		<td style="width: 20px;">
+			<input type="radio" id="answerc" name="answer" value="c" style="width: 20px;">
+		</td>
 		<td>
-			<input type="radio" id="answerc" name="answer" value="c">
 			<label for="answerc"><b>C.</b><span id="answerlblc">This is answer c</span></label>
 		</td>
 	</tr>
 	<tr>
+		<td style="width: 20px;">
+			<input type="radio" id="answerd" name="answer" value="d" style="width: 20px;">
+		</td>
 		<td>
-			<input type="radio" id="answerd" name="answer" value="d">
 			<label for="answerd"><b>D.</b><span id="answerlbld">This is answer d</span></label>
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 			<button id="prev" class="button button1">Prev</button>&nbsp;
 			<button id="next" class="button button2">Next</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<div style="float:right;">
@@ -58,7 +64,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 			<div style="float:right;">
 				<span id="status">Status</span>
 			</div>
@@ -88,19 +94,21 @@
 			writeSphere(paper, this);
 		});
 	}
-
+	
 	$(document).ready(function(){
-		$('input').iCheck({
-			checkboxClass: 'icheckbox_square-green',
-            radioClass: 'iradio_square-green',
-            increaseArea: '20%'
+		$('#answera').change(function(){
+			sendSelected(true, "a");
 		});
-		$('input').on('ifChecked', function(evt){
-			sendSelected($('#answera').is(':checked'), "a");
-			sendSelected($('#answerb').is(':checked'), "b");
-			sendSelected($('#answerc').is(':checked'), "c");
-			sendSelected($('#answerd').is(':checked'), "d");
+		$('#answerb').change(function(){
+			sendSelected(true, "b");
 		});
+		$('#answerc').change(function(){
+			sendSelected(true, "c");
+		});
+		$('#answerd').change(function(){
+			sendSelected(true, "d");
+		});
+		
 		$('#next').click(function() {
 			nextQuestion();
 		});

@@ -26,7 +26,7 @@
 	</head>
     <body>
 		<div class="jumbotron">
-			<h1>IAmWiser</h1>
+			<h1><img src="images/logo.png"></img></h1>
 			<p>IAmWiser is an educational simulator network for students and teachers.</p>
 		</div>
 		<p>Who belong to IAmWiser. Everybody belongs to IAmWiser, if you wanted to learn, you belong here.</p>
@@ -41,9 +41,9 @@
 			<!--<div class="w3-col s4 w3-cyan w3-center rcorners5">Grade 6</div>-->
 		<!--</div>-->
 		<div class="w3-row">
-			<div class="w3-col s4 w3-lime w3-center rcorners5">Grade 7</div>
-			<div class="w3-col s4 w3-orange w3-center rcorners5">Midwifery</div>
-			<!--<div class="w3-col s4 w3-gray w3-center rcorners5">Grade 8</div>-->
+			<div class="w3-col s4 w3-lime w3-center rcorners5" data="Grade7">Grade 7</div>
+			<div class="w3-col s4 w3-orange w3-center rcorners5" data="Midwifery">Midwifery</div>
+			<div class="w3-col s4 w3-gray w3-center rcorners5" data="Nurse">Nurse</div>
 			<!--<div class="w3-col s4 w3-gray w3-center rcorners5">Grade 9</div>-->
 		</div>
 		<!--<div class="w3-row">-->
@@ -60,7 +60,9 @@
 			The site is now working on Grade 7 Math others will follow. Stay tuned.</i>
 		<script>
 			$('.rcorners5').click(function() {
-				gotoLevel(this.innerText);
+				var data = $(this).attr("data");
+				//gotoLevel(this.innerText);
+				gotoLevel(data);
 			});
 		</script>
 	</body>

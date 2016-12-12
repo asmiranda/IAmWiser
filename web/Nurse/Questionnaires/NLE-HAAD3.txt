@@ -1,0 +1,382 @@
+CATEGORY: NURSE
+TOPIC: NURSE-HAAD
+TOPIC_CODE: NURSE-HAAD
+
+1. A client is brought to the recovery room after a supratentorial craniotomy to remove a large tumor in the left side of the brain. Which of the following is a safe position for the client? Select all that apply.
+		<br>a. Lying on the left side
+		<br>b. Semi-fowler’s position
+		<br>c. With the neck flexed
+		<br>d. Supine on the left side
+		<br>e. With extreme hip flexion
+		<br>f. Lying with the head in a midline position
+Correct. a
+Rationale.  Post supratentorial craniotomy clients must be positioned in semi-fowlers to promote venous drainage from the head. These clients should also be lying with the head in a midline position to prevent extreme hip or neck flexion. Positioning these clients in the operative side must never be done as well since it can cause displacement of cranial contents.
+ 
+a. b and f
+b. a, b and c
+c. a, b, c, d and e
+d. a, c, and d
+
+2. The nurse is caring for a client who has Autonomic Dysreflexia.  Which order for extreme hypertension would the nurse question?
+Correct. b
+Rationale. Dobutamine<br>
+Dobutamine is not included in the treatment because this is an inotropic agent which increases heart rate and raises the blood pressure.
+
+a. Nifedipine
+b. Dobutamine
+c. Terazosin
+d. Nitroglycerine paste
+
+3. The client with acute ischemic stroke had undergone carotid endarterectomy to remove fatty plaque from the carotid artery. The client returned to the medical floor without problems. Which of the following should the nurse expect after a carotid endarterectomy?
+Correct. b
+Rationale.  The client will receive fluid and nutrients through a small thin tube.
+The thin tube which is an intravenous (IV) catheter will provide the client with the necessary nutrients postoperatively.
+
+a. Client is given pain medication as pain is initially common after surgery.
+b. The client will receive fluid and nutrients through a small thin tube.
+c. The client may resume physical activities immediately after surgery.
+d. The client may return home on the same day of the operation.
+
+4. In evaluating the client’s postoperative condition after carotid endarterectomy, the nurse should be alert for possible nerve injury as evidenced by:
+Correct. c
+Rationale.  Numbness in the face or tongue.<br>
+This is brought about by nerve damage to the neck.
+
+a. Permanent change in voice.
+b. Sleep apnea or nose breathing.
+c. Numbness in the face or tongue.
+d. Bleeding.
+
+5. The client is to receive discharge instruction after being admitted to the unit for seizures. Which of the following items should be included in the teaching plan? Select all that apply.
+		<br>a. Avoid stressful situations.
+		<br>b. Take a bath instead of showers.
+		<br>c. Wear a medical alert or ID bracelet.
+		<br>d. Keep seizure medicines in your dressing table or within reach.
+		<br>e. Keep your bathroom and bedroom doors unlocked.
+		<br>f. Going to the gym is generally okay.
+Correct. a
+Rationale. a. Avoid stressful situations.
+	<br>The client should try to avoid too much stress as this can trigger a seizure.
+	<br>c. Wear a medical alert or ID bracelet.
+	<br>Wearing identification card is important in case of emergency because it will help bystanders know what to do.
+	<br>e. Keep your bathroom and bedroom doors unlocked.
+	<br>This enables the family members to access the room immediately in case the client has seizure attacks.
+	<br>f. Going to the gym is generally okay.
+	<br>Activities like going to the gym, jogging, hiking, aerobics and bowling are safe activities for clients with seizure.
+
+a. a, c, e, f
+b. a, b, e, f
+c. a, c, d, f
+d. a, b, c, f
+
+6. A client is admitted and diagnosed with possible chronic bronchitis. Which of the following signs and symptoms should the nurse expect the client to present? Select all that apply.
+		<br>a. Scarce mucus production
+		<br>b. Premature onset of cough
+		<br>c. Distinctive weight loss
+		<br>d. Purulent mucus production
+		<br>e. Mild attacks of dyspnea
+		<br>f. Barrel chest
+Correct. a
+Rationale.  Chronic bronchitis is a respiratory condition characterized by premature onset of cough, copious purulent mucus production, mild weight loss and mild attacks of dyspnea whereas, scarce mucus production and distinctive amount of weight loss are mainly associated with pulmonary emphysema, along with other symptoms such as marked dyspnea attacks and late onset of cough. Barrel chest can occur over time.
+
+a. b, d, e and f
+b. a, b, d, e and f
+c. b, c, e and f
+d. b, e and f
+
+7. The nurse in the intensive care nursery unit is evaluating the condition of the newborn. The nurse knows that the symptoms of respiratory distress syndrome (RDS) are a result of:
+Correct. c
+Rationale.  Decrease amount of surfactant in the infant’s lungs<br>
+RDS refers to a condition of surfactant deficiency and physiologic immaturity of the thorax.
+
+a. Increased amount of vasodilation in the lungs
+b. Small surface area of the premature lungs
+c. Decrease amount of surfactant in the infant’s lungs
+d. Increase in the amount of surfactant in the infant’s lungs
+
+8. The geriatric client with a history of heart attack and hypertension presented with complaints of unusual weakness and fatigue. Upon examination, the nurse noted diminished breath sounds throughout the lung fields and crackles on both the lower lobes. Which of the following should be the next action of the nurse?
+Correct.  a
+Rationale.  Notify the physician and document initial findings.<br>
+The nurse must notify the attending physician and relay the findings. Documentation is one of the essential responsibilities of a nurse that should not be missed. Baseline data helps in making clinical decisions.
+
+a. Notify the physician and document initial findings.
+b. Facilitate chest x-ray.
+c. Start a thorough physical examination and history.
+d. Recheck the client after five minutes and see if there are changes.
+
+9. The client presented with complaints of rapid and shallow breathing. Upon lung auscultation, breath sound is diminished on both lung bases and there’s audible course crackles on the upper lobes. If the condition worsens, which of the following tests can be used to determine if intubation is necessary?
+Correct. c
+Rationale.  Oxygen Saturation in Pulse Oximeter<br>
+Getting the oxygen saturation through a pulse oximeter is quick and easy. This is a non-invasive test and is the ideal tool to determine episodes of failing respiratory function requiring immediate intubation.
+
+a. Peak flow meter
+b. Partial Oxygen Saturation in Arterial Blood Gas
+c. Oxygen Saturation in Pulse Oximeter
+d. Lung Function test
+
+10. The client is being treated for bronchial asthma in the emergency department. Upon thorough history taking, the nurse notes that the attacks are affecting the client’s activities of daily living and that the client has been experiencing these symptoms everyday and presents at night more than once a week. The nurse understands that this class of asthma is under:
+Correct. c
+Rationale.  Moderate Persistent<br>
+Symptoms occur daily, episodes affect activity and sleep, and symptoms are present at night more than one per week.
+
+a. Mild Intermittent
+b. Mild Persistent
+c. Moderate Persistent
+d. Severe Persistent
+
+11. The client with a genetic enzyme deficiency had an abnormal and different response to the drug administered for the first time. This reaction is called as:
+Correct. c
+Rationale.  Idiosyncratic effect<br>
+Idiosyncratic effect is defined as the peculiar or abnormal response of the body to the drug. There could be a heightened or decreased reaction. Other people will manifest with a different response from the expected outcome.
+
+a. Allergic reaction
+b. Cumulative effect
+c. Idiosyncratic effect
+d. Synergistic effect
+
+12. The physician ordered an Aminophylline drip for the client who is suffering from bronchial asthma. The order read as, “Start dextrose 5 % in water 250 ml incorporated with 500 mg Aminophylline at 0.5 mg/kg/hr. The client body weight is 170 lbs. How many ampules does the nurse needed to prepare?
+Correct.  b
+Rationale.  Aminophylline preparation is 250mg/10 ml. Since the physician ordered 500 mg, divide it with 250 mg to get 2 ampules: 500mg / 250 mg = 2 ampules.
+
+a. 1 ampule
+b. 2 ampules
+c. 3 ampules
+d. 4 ampules
+
+13. The pediatric client weighing 10 kg presented with complaints of high fever, nausea and vomiting. The physician ordered to give Cetriaxone in ml once daily. How many ml should be administered if the required dose is 100 mg/kg/day given through IV and the drug comes prediluted in a concentration of 40 mg/ml?
+Correct.  c
+Rationale.  Given : Weight = 10 kg
+<br>Required dose = 100 mg/kg/day
+<br>Concentration = 40 mg/ml
+<br>Step 1 – Calculate the drug in mg. —— 10 kg x 100 mg/kg/day = 1000 mg/day
+<br>Step 2 – Divide the dose by the frequency. —- 1000 mg/day ÷ 1 (day) = 1000 mg/dose
+<br>Step 3 – Compute mg/dose to ml. —— 1000 mg/dose ÷ 40 mg/ml = 25ml
+
+a. 15 ml
+b. 20 ml
+c. 25 ml
+d. 30 ml
+
+14. The nurse and the client are now on the working phase of the helping relationship. The following are client goals during this phase EXCEPT one:
+Correct.  a
+Rationale.  Client will develop a trusting relationship with the nurse<br>
+Agreement and the formation of trust in the helping relationship are made during the orientation phase and not on the working phase.
+
+a. Client will develop a trusting relationship with the nurse
+b. Client will actively participate in the helping relationship
+c. Client will participate in activities geared towards attaining the goal
+d. Client will express feelings and concerns to the nurse
+
+15. The nurse in the intensive care unit should be aware of the hemodynamic terminologies which are a part of client monitoring. The force opposing ventricular ejection is termed as:
+Correct. c
+Rationale.  Afterload<br>
+Afterload is medically defined as the force opposing ventricular ejection.
+
+a. Cardiac output
+b. Preload
+c. Afterload
+d. Vascular resistance
+
+16. The ICU nurse is preparing the instruments needed for endotracheal intubation. The nurse is knowledgeable that clients in the ICU often need mechanical assistance to maintain a patent airway. Which of the following is NOT an indication for endotracheal intubation?
+Correct. b
+Rationale.  Prolonged mechanical ventilation<br>
+Clients who are expected to have longer mechanical ventilation need a tracheostomy not an endotracheal tube.
+
+a. Respiratory distress
+b. Prolonged mechanical ventilation
+c. High risk of aspiration
+d. Ineffective clearance of secretions
+
+17. The client with severe sensory alteration is transferred to the intensive care unit. Moments later, the client became restless and agitated with complaints of hallucinations. The nurse noted the change in the level of consciousness as:
+Correct.  a
+Rationale.  Delirium<br>
+Delirium is an altered state of awareness manifesting symptoms of disorientation, confusion, restlessness, hallucination, and agitation.
+
+a. Delirium
+b. Dementia
+c. Stupor
+d. Confusion
+
+18. The client complained of abdominal discomfort on the first postoperative day. Upon percussion of the lower abdomen, the nurse expects to hear:
+Correct. c
+Rationale.  Tympanic<br>
+Tympanic is the characteristic tone of the abdomen on percussion. Tympany is an expected finding since the client is on the first operative day and the client’s gastrointestinal tract is filled with air postoperatively.
+
+a. Dull
+b. Flat
+c. Tympanic
+d. Resonant
+
+19. The nurse is doing an assessment to one of the clients in the clinic. The following are normal assessments EXCEPT:
+Correct.  d
+Rationale.  There is negative knee jerk<br>
+There should be a positive knee jerk.
+
+a. 20/20 vision
+b. Eye usually blinks 20 per minute
+c. There are 5-35 bowel sounds
+d. There is negative knee jerk
+
+20. The nurse is assessing the breathing sounds of the client. Which of the following characterized rales?
+Correct. c
+Rationale.  Intermittent on inspiration<br>
+Rales may happen during inspiration and is characterized by crackles which may be due to fluid in the lungs.
+
+a. High pitch sound
+b. Unpredictable
+c. Intermittent on inspiration
+d. Constriction
+
+21. The nurse is conducting an abdominal assessment and plans to locate the Ileocecal valve. At which quadrant is this located?
+Correct. b
+Rationale.  Right lower quadrant<br>
+The appendix and Ileocecal valve can be found here.
+
+a. Right upper quadrant
+b. Right lower quadrant
+c. Left upper quadrant
+d. Left lower quadrant
+
+22. The nurse is performing a physical examination to the client with hearing difficulty. The nurse activated the tuning fork and placed it on top of the client’s head. What test did the nurse perform?
+Correct.  d
+Rationale.  Weber test<br>
+Weber test is performed by activating the tuning fork and placing it on top of the client’s head.
+
+a. Whisper test
+b. Rinne test
+c. Audiometer
+d. Weber test
+
+23. The nurse is in charge of the client with cardiac complaints. As a part of the cardiac assessment, the nurse auscultates the mitral area which is located at:
+Correct.  d
+Rationale.  5th ICS, Medial to the midclavicular line<br>
+The mitral area is located at the 5th ICS which is medial to the midclavicular line.
+
+a. 2nd ICS, Right sternal border
+b. 2nd ICS, Left sternal border
+c. 5th ICS, Left sternal border
+d. 5th ICS, Medial to the midclavicular line
+
+24. The nurse needs to communicate the task to be delegated. Which of the following statements is an example of a task that is properly communicated?
+Correct. c
+Rationale.  “Turn the client every 2 hours following this schedule for tonight and report any skin changes.”<br>
+The nurse should communicate the task in a clear, correct, complete, and concise manner. The nurse should also communicate the parameters expected. After communicating the task, the nurse should clarify and ask for the delegate’s input.
+
+a. “Check client’s temperature.”
+b. “Attend to the client who buzzed the emergency button.”
+c. “Turn the client every 2 hours following this schedule for tonight and report any skin changes.”
+d. “Provide mouth care to intubated clients in the ward for the morning shift.”
+
+25. The client with a calcium level of 5.0 mg/dL is admitted to the hospital. The nurse knows that the following symptoms can occur in the client EXCEPT?
+Correct.  a
+Rationale.  Hypoactive bowel sounds<br>
+Normal serum calcium level ranges from 8.5 – 10 mg/dL. The condition of the client is called hypocalcemia. Hyperactive bowel sounds are expected not hypoactive.
+
+a. Hypoactive bowel sounds
+b. Muscle cramping
+c. Numbness in hands and feet
+d. Positive Chvostek’s sign
+
+26. The nurse is caring for the client who had undergone lens removal due to cataract. Which nursing intervention is most appropriate for this client?
+Correct. b
+Rationale.  Suggest client to sleep on the non-operative side.<br>
+This decreases the pain and swelling that the client may experience.
+
+a. Elevate the head of the bed 90 degrees.
+b. Suggest client to sleep on the non-operative side.
+c. Assist the client in a sitting position to promote blood circulation every 15 minutes.
+d. Educate the client about the importance of aerobic and weight lifting exercises for a more rapid recovery.
+
+27. The client with Benign Prostatic Hypertrophy is unresponsive with home treatment and medications. The urologist suggests transurethral resection of the prostate. Which of the following shows how the procedure is performed?
+Correct.  a
+Rationale.  Option A: This describes how TURP is performed.
+<br>Option B: This refers to how Cystocopy is performed.
+<br>Option C: This refers to how Prostatectomy is performed.
+<br>Option D: This refers to how Cryosurgery for prostate cancer is performed.
+
+a. A lubricated scope with a electrocautery loop and irrigation system will be inserted in the penis passing through the prostate. A piece of prostate tissue will be cut away and then irrigate the bladder. A urinary catheter will be left in place after the surgery.
+b. A scope is passed through the urethra to the bladder and then examines prostate, bladder neck and area containing the ejaculatory duct.
+c. An incision will be made on the lower belly to reach the prostate gland and remove it as well as the adjacent lymph node.
+d. Several hollow probes are inserted through skin between the anus and scrotum and into the prostate. Very cold gases are filled through the probes and create ice balls that destroy the prostate.
+
+28. The client scheduled for total hip replacement received education on how the surgery will be performed. Which of the following statements by the client shows complete understanding of what to expect after the procedure?
+Correct.  a
+Rationale.  Option A: In THR, general anesthesia is used to sedate the client. The client will be unable to bear weight on the operated hip right away hence a Foley catheter will be in place for urination and a tube for drainage. To prevent rotation of the hip or crossing of legs, a firm pillow will be placed in between the legs.
+<br>Option B: The implant will remain in the hip joint for a lifetime and will only be replaced when it gets infected and causes complication.
+<br>Option C: Laparoscopic surgery for THR has a minimally invasive approach to reduce bleeding and trauma on soft tissues and muscles. Hence, blood transfusion is not expected unless medically necessary.
+<br>Option D: Full recovery for THR may take years. Most individuals can return to usual ambulation for 12 weeks.
+
+a. “I will be asleep during the entire procedure, and upon awakening, I will get to see myself with IV fluids, Foley catheter, a small drainage tube and a firm pillow between my legs.”
+b. “The orthotic device that will replace my hip joint is only good for 5 years and I need to undergo the same procedure to have a replacement.”
+c. “If I will have the laparoscopic type of procedure, I will lose a lot of blood. So, I expect to have blood transfusion thereafter.”
+d. “I can expect full recovery 1 month after the procedure.”
+
+29. The nurse is caring for a client with a balanced suspension traction with a Thomas splint. The nurse observes that the left leg of the client is externally rotated. Which of the following is the priority of the nurse?
+Correct.  a
+Rationale.  Place a trochanter roll outside the thigh.<br>
+This stabilizes hip in a neutral position.
+
+a. Place a trochanter roll outside the thigh.
+b. Perform resistive range of motion of the affected leg.
+c. Adduct and internally rotate the left leg.
+d. Maintain the left leg in a neutral position.
+
+30. The client with Hodgkin’s disease is undergoing radiation therapy. Which of the following care plans will reduce skin damage?
+Correct. b
+Rationale.  Instruct client to avoid powder and creams to the area.<br>
+Creams and powders may further irritate the skin which is already sensitive due to radiation therapy.
+
+a. Instruct client to avoid washing with water.
+b. Instruct client to avoid powder and creams to the area.
+c. Instruct client to apply heating pad to the site.
+d. Instruct client to cover the area with an air-tight dressing.
+
+31. The client is on radiation therapy. The nurse provided specific information to the client regarding the possible side effects of the procedure. Which of the following activities require immediate attention?
+Correct. c
+Rationale.  Taking children to crowded places.<br>
+People undergoing radiation therapy should avoid crowds because of the increased risk for infection.
+
+a. Using an electronic razor.
+b. Eating a high-protein diet.
+c. Taking children to crowded places.
+d. Eating dry crackers
+
+32. The client became anorexic after receiving chemotherapy and radiation therapy. Which of the following nursing interventions can address the client’s anorexia?
+Correct. b
+Rationale.  Present the food in a more pleasing manner.<br>
+Clients develop anorexia as a side effect of the treatment; this may be accompanied by mucositis and taste alterations which limits the client’s food choices. Food presented in a more pleasing manner or environment will increase client’s desire with eating and drinking.
+
+a. Encourage intake of three meals in a day.
+b. Present the food in a more pleasing manner.
+c. Encourage low-protein diet.
+d. Allow liquid diet if tolerated.
+
+33. The client is admitted and is on the fourth cycle of chemotherapy. During the night shift, the nurse noted signs of extravasation. Which of the following is NOT a sign of extravasation?
+Correct.  a
+Rationale.  Local infection and irritation<br>
+Infection is a concern regarding antineoplastic medications administered through the IV route. However, infection and irritation are not classic signs of IV extravasation.
+
+a. Local infection
+b. Tissue breakdown
+c. Redness and heat on the site
+d. Pain on the IV site
+
+34. The nurse is instructing the client about early detection of cancer. The nurse should instruct the client to perform breast self-examination during:
+Correct.  d
+Rationale.  After menstruation<br>
+There are less breast changes occurring after menstruation and is the best time to perform BSE.
+
+a. The first day of every month
+b. The first day of menstruation
+c. Before menstruation
+d. After menstruation
+
+35. The geriatric client presented with complaints of difficulty in swallowing, fatigue, alternating constipation and diarrhea, abdominal pain, and blood in the stools. Which of the following symptoms is NOT included in the warning signs of cancer?
+Correct.  d
+Rationale.  Frequent vomiting<br>
+This is a generalized symptom and is not a warning sign of cancer.
+
+a. Irregular pattern of constipation and diarrhea
+b. Blood in the stools
+c. Difficulty in swallowing
+d. Frequent vomiting

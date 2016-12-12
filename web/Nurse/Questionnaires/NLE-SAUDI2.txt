@@ -1,0 +1,418 @@
+CATEGORY: NURSE
+TOPIC: NURSE-SAUDI
+TOPIC_CODE: NURSE-SAUDI
+
+1. The client presented with complaints of body weakness, dizziness and chest pain. Upon careful assessment, the nurse suspects Angina Pectoris. 
+Which of the following statements made by the client can confirm this?
+Correct.  a  
+Rationale.   Angina pectoris is a substernal pain that radiates to the neck, jaw, back and arms and is relieved by rest. 
+Lower abdominal pain may indicate other gastrointestinal problems.
+
+a. “I suddenly felt a pain on my chest which radiates to my back and arms”.
+b. “I suddenly felt a sharp pain on my lower abdomen”.
+c. “The pain does not subside even if I rest”.
+d. “The pain goes all the way down to my stomach”.
+
+2. The client from the OR is transferred to the post-anesthesia care unit after surgical repair of abdominal aortic aneurysm. 
+Which of the following assessment findings would indicate that the repair was successful?
+Correct. a  
+Rationale.  50 mL/hr is the normal urine output. A normal urine output indicates that there is a good renal perfusion, 
+and also connotes that the client is hemodynamically stable, therefore, the repair is successful.
+
+a. Urine output of 50 mL/hr.
+b. Presence of non-pitting, peripheral edema.
+c. Clear sclera.
+d. Presence of carotid bruit.
+ 
+3. The client is scheduled for cardiac catheterization because the physician wants to view the right side of the heart. 
+Which of the following would the nurse expect to see in this procedure?
+Correct. a  
+Rationale.  In cardiac catheterization or coronary angiogram, a catheter is inserted into the heart via a vein to measure the ventricular function. 
+A dye is used to provide further assessment of the structure and motion of the heart. 
+Thallium is a radioactive isotope injected parenterally so that the scintillation camera can count the radioactive uptake. 
+This is observed when a physician requests for a Nuclear Cardiology test. 
+When performing a Transesophageal Echocardiogram (TEE), a probe with a transducer tip is swallowed by the client to visualize for valvular abnormalities, 
+possible thrombus, bacterial endocarditis and any congenital heart defects. When performing an Intracoronary Ultrasound, 
+a tiny ultrasound probe is inserted into the coronary artery to evaluate for plaque size and consistency, arterial walls and effectiveness of the treatment.
+
+a. A dye is injected to facilitate the viewing of the heart
+b. Thallium is injected to facilitate the scintillation camera
+c. A probe with a transducer tip is swallowed by the client.
+d. A tiny ultrasound probe is inserted into the coronary artery
+
+4. The client is being treated for hypovolemia. To assess the effectiveness of the treatment, the Central Venous Pressure (CVP) of the client is being monitored. 
+Which of the following is TRUE about CVP?
+Correct. d  
+Rationale.  The central venous pressure is within the superior vena cava. The Normal CVP is 2-6 mmHg. 
+A decrease in the CVP indicates a decrease in the circulating blood volume, which may be a result of hemorrhage or fluid imbalances. 
+The right atrium is located at the midaxillary line at the fourth intercostal space, and the zero point on the 
+transducer needs to be at the level of the right atrium. 
+The client needs to be supine, with the head of the bed elevated at 45 degrees to correctly assess the CVP.
+
+a. The CVP is measured with a central venous line in the inferior vena cava.
+b. The normal CVP is 7 to 9 mmHg.
+c. The zero point on the transducer needs to be at the level of the left atrium.
+d. The client needs to be supine, with the head of the bed elevated at 45 degrees.
+
+5. The client’s ECG tracing shows ventricular tachycardia secondary to low magnesium level. 
+Which of the following electrocardiogram tracing results is consistent with this finding?
+Correct. d  
+Rationale.  In hypokalemia, the electrocardiogram may show flattening and inversion of the T wave, the appearance of a U wave, and ST depression. 
+Hypercalcemia can cause a shortened ST and widened T wave. The electrocardiogram of a hyperkalemic client shows tall peak T waves, widened QRS complexes, 
+prolonged PR intervals or flat P waves.
+
+a. The appearance of a U wave
+b. Shortened ST segment and a widened T wave.
+c. Tall, peaked T waves
+d. Tall T waves and depressed ST segment
+
+6. The nurse is teaching the client how to use a dry powder inhaler (DPI). 
+Which of the following are correct instructions given by the nurse? Select All That Apply.
+		<br>a. Load the drug first by turning to the next dose of drug, or inserting the capsule into the device, or inserting the disk 
+		or compartment into the device.
+		<br>b. Never wash or place the inhaler in water.
+		<br>c. Shake your inhaler prior to use.
+		<br>d. The drug is a dry powder that is why you will taste the drug as you inhale.
+		<br>e. Never exhale into the inhaler.
+		<br>f. Do not remove the inhaler from your mouth as soon as you have breathe in.
+
+Correct.  a
+Rationale.  Loading of drug depends on the type of dry powder inhaler. Take note that some dry powder inhalers do not require loading. 
+Dry powder inhalers are kept dry always and are place at room temperature. Never shake a dry powder inhaler. 
+It is not a pressurized container. There is no propellant, only the client’s breath can pull the drug in. 
+Because the drug is a dry powder and there is no propellant, the client will not feel, smell, or taste the drug during inhalation. 
+The client’s breath will moisten the powder causing it to clump and not be delivered accurately. 
+Immediately after inhalation of drug, the inhaler must be removed from the client’s mouth to prevent moisture.
+
+a. a, b, e
+b. d, b, e
+c. f, b, e
+d. a, b, f
+
+7. The nurse is assigned to render care for a client who has a chest tube drainage system. 
+Which of the following are appropriate nursing actions? Select All That Apply.
+		<br>a. Strip the chest tube.
+		<br>b. Empty collection chamber when the drainage makes contact to the bottom of the tube.
+		<br>c. Keep chest tube as straight as possible.
+		<br>d. Notify the physician of drainage is greater than 70mL/hr.
+		<br>e. Assess bubbling in the water seal chamber.
+		<br>f. Keep drainage system at the level of the client’s chest
+
+Correct. a
+Rationale.  Stripping is not allowed. Also when changing the drainage system or when checking air leaks, clamp the chest tube for short periods only. 
+Emptying of collection chamber or changing the drainage system should be done before the drainage comes in contact with the bottom of the tube. 
+Avoid kinks and dependent loops to allow effective drainage and prevent disrupting the system. Report excessive drainage that is cloudy or red. 
+Drainage will often increase with position changes or coughing.
+Bubbling is expected and indicates air drainage from the client. 
+Absence of bubbling may mean that the chest tube is obstructed, the lungs have fully reexpanded and no more air is leaking into the pleural space. 
+Keep drainage system lower than the level of the chest to allow effective drainage.
+
+a. c, d, e
+b. d, c, e
+c. a, d, e
+d. b, d, e
+
+8. The client with DKA is receiving bicarbonate IV infusion for treatment of severe metabolic acidosis. 
+The nurse notes that the latest ABG shows a pH of 7.0. What should the nurse keep in mind in giving the drug?
+Correct. d  
+Rationale.  Sodium Bicarbonate should be slowly administered because fast infusion may result to abrupt reduction of serum potassium level 
+which can eventually lead to arrhythmias. Diluting or mixing the drug with hypotonic solution (i.e. D5W) or isotonic solution (0.9% NaCl) 
+can be ordered but not with hypertonic solution (I.e D10W).
+
+a. Check vital signs before giving the drug and monitor serum sodium level.
+b. Perform a sensitivity test prior to drug administration.
+c. Mix the drug with D10W 500 ml IV fluid and infuse for over 4 to 8 hours.
+d. Administer the drug slowly and monitor the potassium leve
+
+9. The client with a gunshot wound on the abdomen starts to get lethargic, is breathing heavily, and the wound dressing is fully soaked with blood. 
+The nurse is expected to immediately perform which of the following actions?
+Correct. d  
+Rationale.  Loosening tight clothing, applying warm blanket to prevent heat loss, and administering oxygen supply might help but is not the priority this time. 
+Direct pressure over the bleeding site is a priority to prevent shock but placing a tourniquet on the artery is done by a surgeon. 
+Because the client is showing signs of altered mental status, there is likely less perfusion in the brain, which calls for fluid resuscitation. 
+At least two IV access allows administration of fluids – crystalloid, blood or clotting factors as necessary which is vital in correcting acidosis, 
+hypothermia and coagulopathy, and to restore perfusion rapidly.
+
+a. Loosen tight clothing and administer oxygen supply.
+b. Apply warm blanket to prevent heat loss.
+c. Apply large gauze on the bleeding site to put direct pressure or place a tourniquet on the artery near the bleeding site.
+d. Initiate IV access.
+
+10. The nurse is providing home instructions to a client with increased adrenocorticotrophic hormone. 
+The nurse is aware that the client with excessive corticosteroids is suffering from what condition?
+Correct. a  
+Rationale.  Cushing’s syndrome is clinically defined as the presence of excessive corticosteroids. 
+Addison’s disease is clinically defined as adrenocortical insufficiency. 
+Hypothyroidism is a condition wherein there is insufficient thyroid hormone produced by the thyroid glands while SIADH is characterized 
+by excessive release of anti-diuretic hormone.
+
+a. Cushing’s syndrome
+b. Addison’s disease
+c. Hypothyroidism
+d. SIADH
+
+11. The nurse is assigned to a post-thyroidectomy client and is monitoring for signs of hypocalcemia. 
+The nurse gently tapped the area below the zygomatic bone just in front of the ear. This action will elicit:
+Correct. c  
+Rationale.  Facial tremors will occur even without performing a specific maneuver. 
+Exaggerated reflexes such as hyperreflexia can be assessed by performing a different maneuver. 
+Gentle tapping of the area below the zygomatic bone just in front of the ear is used to elicit Chvostek sign to assess the presence of hypocalcemia. 
+Trousseau sign is characterized by spasm of the muscles of the hand and forearm upon inflation of a BP cuff on it.
+
+a. Facial tremor
+b. Hyperreflexia
+c. Chvostek sign
+d. Trousseau sign
+
+12. The nurse is caring for a client with an antineoplastic IV hooked on the right hand. 
+The nurse notices that IV site is swelling and feels cool when touched. The nurse recognizes this as extravasation. 
+This predisposes the client to develop which among the following complications? Select all that apply.
+		<br>a. Infection
+		<br>b. Tissue necrosis
+		<br>c. Disfigurement
+		<br>d. Loss of function
+		<br>e. Amputation
+		<br>f. Delayed healing
+
+Correct. a
+Rationale.  The leaking of vesicant drugs into surrounding tissue causes local tissue damage like delayed healing, tissue necrosis, disfigurement, 
+loss of function and even amputation.
+
+a. a, b, c, d, e and f
+b. a, b, c, d
+c. a, b, c, d, e
+d. a, b, c, d and f
+
+13. Nursing interventions commonly performed when the client is experiencing Autonomic Dysreflexia will include the following. Select all that apply.
+		<br>a. Use digital stimulation to empty the bowel.
+		<br>b. Have the client sit up straight and raise his head so that he is looking ahead.
+		<br>c. Remove client’s stockings or socks.
+		<br>d. Manually compress or tap the bladder to allow urine to flow down the catheter.
+		<br>e. Administer prescribed vasodilators.
+Correct. a
+Rationale.  Manual stimulation is recommended to evacuate impacted stool. 
+Having the client sit up straight and raise his head so that he is looking ahead helps reduce the blood pressure as it allows gravitational 
+pooling of blood in the lower extremities. 
+Constrictive clothing may trigger an autonomic reaction that would cause the blood pressure to go up so this must be removed. 
+Manual compression or tapping the bladder to allow urine to flow down the catheter should be avoided because this would trigger an increase in blood pressure. 
+Administration of prescribed vasodilators is done to reduce high blood pressure.
+
+a. b, c, e
+b. c, e
+c. a, b, c, e
+d. b, c
+
+14. Neurologic conditions can be manifested by changes in breathing patterns. The client presents with symptom of Cheyne-Stokes respirations. 
+The nurse knows that this kind of breathing pattern shows:
+Correct. d  
+Rationale.  Option A is ataxic breathing. Option B is apneustic breathing. Option C is central neurogenic hyperventilation. 
+Cheyne-stokes breathing respirations are a pattern of breathing in which phases of hyperpnea regularly alternate with apnea in a crescendo-decrescendo pattern.
+
+a. Completely irregular breathing pattern with random deep and shallow respirations
+b. Prolonged inspirations with inspiratory and /or expiratory pauses
+c. Sustained regular rapid respirations of increased depth
+d. Rhythmic waxing and waning of both rate and depth of respiration with brief periods of interspersed apnea
+
+15. The physician is assessing the client’s sensorium by using the Glasgow Coma Scale. Which of the following is true about the Glasgow Coma Scale?
+Correct. d  
+Rationale.  The lowest possible score for any response is 1. If a client is unresponsive to painful stimuli, the score is 1. 
+A score lower than 8 indicates that the client is in a comatose state. The highest score for the GCS is 15. 
+A score of 15 indicates an alert and oriented person. A score of 3-8 indicates severe head injury.
+
+a. If the client does not respond to painful stimuli, the score is 0.
+b. A score lower than 10 indicates that the client is in a coma.
+c. A score of 8 indicates that the client is alert and oriented.
+d. A score of 4 indicates that the client sustained severe head trauma.
+
+16. The nurse on duty is caring for a client with Amyotrophic Lateral Sclerosis and is concerned with the client’s impaired physical mobility. 
+The following nursing interventions are geared towards maintaining optimal physical mobility EXCEPT:
+Correct. d  
+Rationale.  Helping the client maintain an exercise program is a therapeutic intervention to maintain joint mobility and good body alignment. 
+This will also prevent venous stasis due to impaired mobility. 
+Client encouragement will not only address the physical aspect of the disease but the client’s emotions and self-esteem as well. 
+The safety of the client with impaired physical mobility should always be considered. Continuous physical activity is not recommended. 
+There should be an alternate period of activity and rest to prevent excessive fatigue.
+
+a. Maintain an exercise program.
+b. Encourage participation in activities.
+c. Instruct client related safety measures.
+d. Schedule activities in the morning.
+
+17. An elderly client had a cerebrovascular accident or stroke. The left brain is affected and is at risk for impaired verbal communication. 
+The nurse asked a question and noted that the client has difficulty talking and communicating his thoughts. 
+Which of the following terms should the nurse use to document the finding?
+Correct. b  
+Rationale.  Receptive Aphasia refers to the inability to understand spoken words but can freely express and verbalize. 
+Expressive Aphasia refers to the inability to speak and communicate formulated thoughts and sentiments. 
+Global aphasia affects both expressive ability and auditory comprehension. 
+Apraxia is characterized by loss of the ability to perform activities that a person is physically able and willing to do.
+
+a. Receptive Aphasia
+b. Expressive Aphasia
+c. Global aphasia
+d. Apraxia
+
+18. The client diagnosed with Alzheimer’s disease is starting to show signs and symptoms. The nurse wants to assess for graphesthesia. This is performed by:
+Correct. b  
+Rationale.  Graphesthesia is the ability to identify the writing on the skin even with the eyes closed. The client provides a verbal response, 
+identifying the figure that was drawn. Option A is a test for stereognosis. 
+Option C is a test used to assess the Romberg’s sign while option D is a test for Kernig’s sign.
+
+a. Testing for the client’s ability to identify an object that is placed on the hand with eyes closed.
+b. Testing for the client’s ability to recognize the written letter or number in the client’s skin while the eyes are closed.
+c. Making the client stand, with the arms at the side, feet together, with the eyes open and then closed. The client is then observed for any swaying.
+d. Testing for the presence of pain once the leg is flexed at the hip, and then extended.
+
+19. The pediatric client presents with the following signs and symptoms: high fever, drooling, difficulty of breathing and leaning forward in a tripod position. 
+Immunization history shows that the client never received any Hib vaccine. Which of the following is the priority of the healthcare provider?
+Correct. d  
+Rationale.  Any deterioration of oxygen saturation may necessitate intubation. However, the priority this time is to maintain a patent airway. 
+Infusion of IV fluids and administration of antibiotics are expected nursing actions but not the top priority this time. 
+Completing vaccination at this time will not suffice or treat the underlying respiratory problem. 
+The situation calls for a curative management and not preventive measures. Airway closure is the top priority. 
+Throat examination is avoided as this increases the risk of laryngeal obstruction. 
+Aggression or agitation can also compromise airway and breathing.
+
+a. Continuous oxygen therapy and constant monitoring of oxygen saturation rate.
+b. A well regulated IV infusion and timely administration of antibiotics.
+c. Vaccination of Hib and other remaining vaccines to complete required immunizations.
+d. Avoiding any throat examination or agitation of the child.
+
+20. The physician prescribed Clarithromycin (Biaxin) 250mg BID x 7 days for the client’s infection. 
+Incorrect drug frequency and duration would cause inaccurate transfer time of the drug to specific tissues in the body. 
+The nurse explains to the client that accumulation of the drug in specific tissues is the concept of:
+Correct. b  
+Rationale.  Absorption is the process when the drug is transferred from the site of origin into the bloodstream. 
+Distribution occurs when the drug in the blood is distributed to different parts of the body and accumulates in specific tissues. 
+Metabolism or biotransformation is the process wherein the drug is broken down into its inactive form. 
+Excretion is the body’s response to eliminate all the inactive form of the drug.
+
+a. Absorption
+b. Distribution
+c. Metabolism
+d. Excretion
+
+21. The nurse is to administer Meperidine (Demerol) 35 mg through the intramuscular route. 
+Available meperedine is 50mg/mL. Which of the following is the least favorable injection site for intramuscular medication?
+Correct. d  
+Rationale.  The Ventrogluteal site is safe for most intramuscular injections because it only involves the gluteus medius and gluteus minimus muscles. 
+The Vastus lateralis muscle is also a safe injection site for intramuscular medications because there are no adjacent large blood vessels and nerves. 
+The deltoid muscle is a smaller muscle and is safe for administration of intramuscular medications less than 1 mL. 
+The Dorsogluteal muscle is not recommended for intramuscular medications because of the potential damage to the sciatic nerve. 
+Large blood vessels are also located near the dorsogluteal muscle and should be avoided.
+
+a. Ventrogluteal
+b. Vastus lateralis
+c. Deltoid muscle
+d. Dorsogluteal
+
+22. The client presented with complaint of leg cramps. Upon checking the client’s chart, 
+the nurse noted that the client is hypertensive and is prescribed with a Thiazide diuretic. The appropriate nursing intervention for this client is:
+Correct. b  
+Rationale.  Prescribing or stopping medications is the responsibility of the physician, thus the nurse must refer this first. 
+Thiazide diuretics cause loss of blood potassium while conserving blood calcium, thus, the electrolyte level must be evaluated first.
+
+a. Stop the Thiazide diuretic
+b. Refer to the physician for evaluation of electrolyte level of the client
+c. Switch the client to a loop diuretic
+d. Give the client a non-steroidal anti-inflammatory drug (NSAID)
+
+23. The client is wheeled into the delivery room and is ready for childbirth. While crowning occurs, 
+the labor nurse applies gentle pressure over the perineum and fetal head. The maneuver performed is called:
+Correct. d  
+Rationale.  The brandt-andrew maneuver is the proper extraction of the umbilical cord and placenta. 
+McRobert’s maneuver is performed in case of shoulder dystocia during childbirth. 
+The Schultz mechanism is used to describe placental delivery. 
+The Ritgen’s maneuver is performed by applying pressure over the perineum and counter-pressure on the fetal head. 
+The Ritgen’s maneuver controls the exit of the fetal head and prevents severe damage to maternal tissues.
+
+a. Brandt-Andrew’s maneuver
+b. McRobert’s maneuver
+c. Schultz mechanism
+d. Ritgen’s maneuver
+
+24. The nurse is monitoring the condition of the postpartum client. As a part of the postpartum adaptations, 
+the nurse monitors for descent of the uterus and expects the fundus to be:
+Correct. b  
+Rationale.  The uterine fundus should start to descend after 24 hours of delivery. The normal rate of uterine descent is 1 cm/day.
+
+a. On the same level after delivery
+b. Decreased by 1 cm/day
+c. Decreased by 1.5 cm/day
+d. Decreased by 2 cm/day
+
+25. The granddaughter of the client asked the nurse if it is normal for elderly people to feel sleepy despite sleeping for long hours. 
+Which of the following conditions would the nurse suspect?
+Correct. b  
+Rationale.  In Somatoform Disorder, there is no real organ damage, but the client verbalizes symptoms of a disease in an unconscious manner. 
+In Malingering, verbalization of symptoms of a disease is conscious and is used by the client to achieve a secondary gain or benefit. 
+Anxiety comes in many forms panic attacks, phobia, and social anxiety and the distinction between a disorder and “normal” anxiety isn’t always clear. 
+Amnesia refers to the loss of memories, such as facts, information and experiences.
+
+a. Somatoform Disorder
+b. Malingering
+c. Anxiety
+d. Amnesia
+
+26. Chemotherapy is one of the treatments for uterine cancer. The client asked the nurse how chemotherapeutic drugs work. 
+Which of the following statements will be the best explanation?
+Correct. d  
+Rationale.  Not all chemotherapeutic agents alter the molecular structure of DNA. Chemotherapy should slow down cell division not hasten it. 
+All cells are sensitive to drug toxins. 
+Chemotherapeutic agents act on all rapidly dividing cells – most action of chemotherapeutic agents is that it affects all rapidly dividing 
+cells including the normal and cancer cells.
+
+a. Chemotherapeutic agents alter molecular structure of DNA.
+b. Chemotherapeutic agents hasten cell division.
+c. Cancer cells are sensitive only to chemotherapeutic agents.
+d. Chemotherapeutic agents act on all rapidly dividing cells.
+
+27. Vomiting is one of the most common side effects of chemotherapy. The nurse should be aware of which acid-base imbalance?
+Correct. c  
+Rationale.  Ketoacidosis is associated with high levels of ketone bodies in the body brought by breakdown of fatty acids and is not related to vomiting. 
+Metabolic acidosis happens when the body produces excessive quantity of acid. Severe vomiting will result to loss of HCL and acids coming from extracellular 
+fluids which in turn lead to metabolic alkalosis. Respiratory alkalosis occurs when there is an increased respiration which elevates the
+blood pH beyond the normal range of 7.35-7.45.
+
+a. Ketoacidosis
+b. Metabolic acidosis
+c. Metabolic alkalosis
+d. Respiratory alkalosis
+
+28. The client develops a 2nd degree skin reaction from radiation therapy. The nurse should expect the following symptoms EXCEPT:
+Correct. d  
+Rationale.  2nd degree skin reactions are evident by scaly skin, an itchy feeling and dry desquamation. 
+Reddening of the skin is not seen in 2nd degree skin reaction.
+
+a. The skin is scaly.
+b. There is an itchy feeling.
+c. There is dry desquamation present.
+d. The skin is reddened.
+
+29. The nurse is assessing the muscle coordination and mobility of the client with musculoskeletal disorder. 
+The nurse noted impulsive and brief muscle twitching of the face and the limbs. This finding is called:
+Correct. b  
+Rationale.  Tremor is clinically defined as the rhythmic and repetitive muscle movement. 
+Chorea is clinically defined as brief and involuntary muscle twitching of the face or limbs which hinders the client’s mobility. 
+Athetosis is clinically defined as the presence of irregular and slow twisting motions. 
+Dystonia is similar to the definition of Athetosis but involves larger muscle areas.
+
+a. Tremor
+b. Chorea
+c. Athetosis
+d. Dystonia
+
+30. The nurse is assigned to render care to a client with altered mobility. 
+Which of the following statements is true regarding body mechanics when moving clients?
+Correct. c  
+Rationale.  Standing close to the working area is a proper body mechanic to prevent muscle fatigue. 
+The nurse should adjust the bed to waist level in order to prevent stretching and muscle strain. 
+Proper body mechanic includes turning the body as a whole unit when moving the client to avoid twisting the back. 
+The knees are bent to support the body’s center of gravity and maintain body balance. 
+Bending the knees will provide a wider base of support for effective leverage and use of energy.
+
+a. Stand at arm’s length from the working area.
+b. Elevate adjustable beds to hip level.
+c. Swivel the body when moving the client.
+d. Move the client with wide base and straight knees.
+

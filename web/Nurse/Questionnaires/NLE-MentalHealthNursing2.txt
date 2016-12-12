@@ -1,0 +1,319 @@
+CATEGORY: NURSE
+TOPIC: NURSE-MHN
+TOPIC_CODE: NURSE-MHN
+
+1. Mental health involves a lot of interdependent determinants including behavior, social and emotional wellness and the like. Which of the following factors is not included in categorizing the mental health of an individual?
+Correct. a 
+Rationale. a is correct because a sexual factor is not included in categorizing the mental health of an individual. Individual factor (B) is defined as the biologic makeup of a person including his self-esteem, capacity of growth, vitality, etc. Interpersonal factor (C) includes helping others and effective communication. Social/Cultural factors (D) includes access to resources, intolerance of violence and support from family and friends.
+ 
+a. Sexual factor
+b. Individual factor
+c. Interpersonal factor
+d. Social/cultural factor
+
+2. Diagnostic and Statistical Manual of Mental Disorders (DSM-IV-TR) explains all mental disorders that outline specific diagnostic criteria. Which of the following patient’s condition belongs to Axis II (multiaxial classification system)?
+Correct. b 
+Rationale. b is correct because Axis II is for reporting personality disorders and mental retardation. A and D are wrong because they both refer to Axis I which is for identifying all major psychiatric disorders except mental retardation and personality disorders. C is wrong because it is Axis IV use for reporting psychosocial and environmental problems.
+
+a. Depression, anxiety, schizophrenia
+b. Maladaptive personality features and defense mechanisms
+c. Problems with the primary support group, social environment, and education
+d. Substance related disorders
+
+3. The pineal body is an endocrine gland that influences the activities of the following except?
+Correct. c 
+Rationale. c is correct because it is not influence by the pineal gland. A, B, and D are all influenced along with adrenals and gonads.
+
+a. Parathyroid gland
+b. Islets of Langerhans
+c. Cerebellum
+d. Pituitary gland
+
+4. Which of the following lobes of the cerebrum controls the moral reasoning of a person?
+Correct. d 
+Rationale. d is correct because the frontal lobe controls moral reasoning; others include organization of though, body movement, and memories. A is wrong because it is the center for the senses of smell and hearing. B is wrong because it assist in coordinating language generation. C is wrong because it interpret sensations of taste and touch.
+
+a. Temporal lobe
+b. Occipital lobe
+c. Parietal lobe
+d. Frontal lobe
+
+5. Dopamine is a neurotransmitter that is located in the brain stem. Which of the following amino acids it is synthesized from?
+Correct. a 
+Rationale. a is correct because dopamine is synthesized from tyrosine. B is wrong because tryptophan produce niacin and serotonin. C is wrong because phenylalanine is converted into tyrosine by the body. D is wrong because it is the precursor of acetylcholine.
+
+a. Tyrosine
+b. Tryptophan
+c. Phenylalanine
+d. Choline
+
+6. A neurotransmitter is a chemical substance that aids in the transmission of information throughout the body. Which of the major neurotransmitters that has a neuromodulator effect?
+Correct. b 
+Rationale. b is correct because histamine is a neuromodulator along with neuropeptides. A and C are wrong because they are both excitatory. D is wrong because serotonin is inhibitory.
+
+a. Dopamine
+b. Histamine
+c. Glutamate
+d. Serotonin
+
+7. Brain imaging techniques are used to detect any mental disorders. Which of the following techniques has the fastest duration of obtaining the result?
+Correct. c 
+Rationale. c is correct because the duration is only 20-40 minutes. A is wrong because MRI takes 45 minutes. B is wrong because it takes 2-3 hours. D is wrong because it takes 1-2 hours.
+
+a. Magnetic resonance imaging (MRI)
+b. Positron emission tomography (PET)
+c. Computed tomography (CT)
+d. Single photon emission computed tomography (SPECT)
+
+8. Studies have shown that there are certain types of mental illness that is brought by genetic links. To determine this, three types of studies are used to investigate the genetic basis of mental illness. Which of the following is not included in the types of studies?
+Correct. d 
+Rationale. d is the answer because ELSI is not one of the types of the said study; rather, it is a program which focuses on the privacy and fairness in the use of genetic information towards human genetics research. A (twin studies) is used to compare the rates of certain mental illnesses or traits in monozygotic twins, who have an identical genetic makeup, and dizygotic twins who have a different genetic makeup. B (adoption studies) is used to determine a trait among biologic versus adoptive family members. C (family studies) is used to compare whether a trait is more common among first degree relatives than among other distant relatives or the general population.
+
+a. Twin studies
+b. Adoption studies
+c. Family studies
+d. ELSI studies
+
+9. Nurse Anne understands that in caring for a patient with a mental disorder, the outcome is greatly influence by the medical management. She should know the side effects, contraindications, interactions, and nursing intervention. Which of the following principles can she use as a guide in providing pharmacologic treatment?
+Correct. a 
+Rationale. a is correct because the dosage of medication often is adjusted to the lowest effective dosage for the client. B is wrong because older clients require lower doses of medication; they don’t need higher doses because it may take longer for a drug to achieve its full therapeutic effects to them. C is wrong because psychotropic drugs should be lowered from tapering (gradual) to abruptly; it is done to prevent rebound and/or withdrawal effects. D is wrong because a follow up care is important to ensure that the patient complies with the medical regimen.
+
+a. Sometimes a client may need higher dosage to stabilize his or her target symptoms, whereas lower dosages can be used to sustain those effects over time.
+b. As a rule, older adults require higher doses of medication than younger patients to experience therapeutic effects.
+c. Psychotropic drugs should be lowered abruptly rather than tapering.
+d. Follow up care is not essential if the planned outcomes are already obtained.
+
+10. Extrapyramidal symptoms are serious neurological symptoms which indicate the major side effects of antipsychotic drugs. Which of the following drugs used in the treatment of EPS that is not categorized as anticholinergic drug?
+Correct. b 
+Rationale. b is the answer because Amantadine is categorized as dopaminergic agonist. A, C, and D are all anticholinergic drugs.
+
+a. Benztropine
+b. Amantadine
+c. Trihexyphenidyl
+d. Procyclidine
+
+11. While Nurse Anne checks on her patient, she noticed that he is having an orthostatic hypotension, dry mouth, and photophobia. She knows that her patient is experiencing anticholinergic effects. She should not worry because she knows that these symptoms usually decrease during?
+Correct. c 
+Rationale. c is correct because anticholinergic side effects usually decrease during 3-4 weeks but do not entirely remit. The other options (A, B, D) are all wrong; they are just made for distractions.
+
+a. 1-2 weeks
+b. 2-3 weeks
+c. 3-4 weeks
+d. 4-5 weeks
+
+12. Tardive dyskinesia is a syndrome of permanent involuntary movement. It is commonly caused by long-term use of conventional antipsychotic drugs. Which of the following interventions is not applicable in preventing TD?
+Correct. d 
+Rationale. d is the answer because the maintenance dosage should be as low as possible. A, B, C are all interventions in preventing TD.
+
+a. Clients who already developed signs of TD but still need to take antipsychotic drugs should be given atypical antipsychotic drugs that have not been found to cause signs of TD.
+b. Changing medications.
+c. Monitor client periodically for initial signs of TD using Abnormal Involuntary Movement Scale.
+d. Keeping maintenance dosage as high as possible to monitor clients who have already developed signs of TD
+
+13. Clozapine compared to other antipsychotic drugs produces fewer side effects. Which of the following is considered as the fatal side effect of clozapine?
+Correct. a 
+Rationale. a is correct which is why it is very important to obtain first a baseline WBC count and differential before the initiation of this drug. In addition, there should be WBC count every week throughout treatment and 4 weeks after discontinuation of this drug. B, C, D are all wrong; they are just distractors.
+
+a. Agranulocytosis
+b. Thrombocytopenia
+c. Pancytopenia
+d. Leukocytosis
+
+14. Nurse Anne was been assigned to classify the antipsychotic drugs. Which of the following should she isolate if her patient is at high risk of cardiac arrest?
+Correct. b
+Rationale. b is correct because Thioridazine, along with Droperidol and Mesoridazine can lengthen the QT interval, leading to potentially life-threatening cardiac dysrhythmias or cardiac arrest. A is wrong because it can cause potentially life-threatening liver damage that may lead to liver failure. C is wrong because it is use with caution in emotionally unstable clients (e.g. alcohol or drug dependence). D is wrong because it can cause agranulocytosis which is a potentially life-threatening event.
+
+a. Nefazodone
+b. Thioridazine
+c. Methylphenidate
+d. Clozapine
+
+15. Antidepressant drugs are used for the treatment of anxiety disorders, psychotic depression, major depressive illness, etc. Which of the following drugs is labeled under cyclic compounds?
+Correct. c 
+Rationale. c is correct because amitriptyline is one of the cyclic compounds; others include: imipramine, desipramine, and amoxapine. A is wrong because it is a monoamine oxidase inhibitor. B is wrong because it is labeled as “other compounds”; other example includes bupropion and trazodone. D is wrong because it is a type of selective serotonin reuptake inhibitors.
+
+a. Isocarboxacid
+b. Venlafaxine
+c. Amitriptyline
+d. Fluoxetine
+
+16. Client teaching is one of the most important factors in caring for patients who have mental illness. The nurse is incorrect if she will tell the client which of the following teachings?
+Correct. d 
+Rationale. d is the answer because patients can use stool softeners but not laxatives. A is recommended especially for patients who have photosensitivity. B is recommended because these can prevent dental caries and weight gain. C is recommended as well.
+
+a. “It is recommended for you to use sunscreen.”
+b. “You should avoid calorie-laden beverages and candy.”
+c. “You should drink sugar-free fluids or eat sugar-free hard candy to easy dry mouth.”
+d. “It is okay for you to use laxatives and stool softeners to relieve constipation.”
+
+17. Monoamine oxidase inhibitor drugs were discovered to have a positive effect on people with depression. But since they have little effect on sedation and anticholinergic effects, they must be used with extreme caution. Which of the following reasons explains this extreme caution?
+Correct. a 
+Rationale. a is correct because it can explain why using MAOIs should be in extreme caution; other reasons include risk of potentially fatal drug interactions with tricyclic antidepressants, meperidine, etc. B is wrong because it is a warning for bupropion. C is wrong because it is warning for carbamazepine. D is wrong because it is a warning for lamotrigine.
+
+a. A life-threatening side effect, hypertensive crisis may occur if the client ingests food containing tyramine while taking MAOIs.
+b. It can cause seizures at a rate four times that of other antidepressants.
+c. Can cause aplastic anemia at a rate five to eight times greater than the general population.
+d. Can cause serious rashes requiring hospitalization, including Stevens-Johnson syndrome.
+
+18. Lithium is considered as the best mood stabilizing drug. In using this drug, which of the following statements should not be included in the client teaching?
+Correct. b 
+Rationale. b is the answer because the plasma levels should be checked 12 hours after the last dose. A, C, and D are all correct for patients who are taking lithium and anticonvulsants.
+
+a. Monitor blood levels periodically.
+b. The time of the last dose should be accurate so that plasma levels can be checked 24 hours after the last dose has been taken.
+c. Take these medications with meals to minimize nausea.
+d. The client should not attempt to drive until dizziness, lethargy, and fatigue has subsided.
+
+19. Freud believed that in order to protect self, one uses ego defense mechanisms to cope up with basic drives. Which of the following ego defense mechanisms correctly describes intellectualization?
+Correct. c 
+Rationale. c is the answer because it correctly defines intellectualization; the person acknowledges the facts but not the emotions. A is wrong because it talks about identification. B is wrong because it talks about rationalization. D is wrong because it talks about dissociation.
+
+a. Modeling actions and opinions of influential orders while searching for identity or aspiring to reach a goal.
+b. Excusing own behavior to avoid guilt, responsibility or conflict.
+c. Separation of the emotions of a painful event or situation from the facts involved.
+d. Dealing with emotional conflict by a temporary alteration in consciousness or reality.
+
+20. Freud developed the five stages of psychosexual development while Erikson extended his work and come up with eight stages of psychosocial development. Which of the following tasks should be attained during ego integrity versus despair stage?
+Correct. d 
+Rationale. d is the correct answer. B is wrong because this is the task during autonomy versus shame and doubt. A is wrong because this is the task during initiative versus guilt. C is wrong because this is the task during industry versus inferiority.
+
+a. Learning to manage conflict and anxiety
+b. Achieving a sense of control and free will.
+c. Emerging confidence in own abilities; taking pleasure in accomplishments.
+d. Accepting responsibility for one’s self and life.
+
+21. According to Sullivan, emotional problems are brought by inadequate or non-satisfying relationships. He established five life stages of development. Which of the following stages where the focus is “shift to the syntaxic mode begins”?
+Correct. a 
+Rationale. a is correct because during the juvenile stage where the shift to the syntaxic mode begins. B is wrong because it is the shift to the parataxic mode. C is wrong because it is the major shift to syntaxic mode. D is wrong because it is just a distractor.
+
+a. Juvenile stage
+b. Childhood stage
+c. Preadolescence stage
+d. Adolescence stage
+
+22. Existential theorist believed that when a person is out of touch with himself or the environment it will result to behavioral deviations. Which of the following is been introduced by William Glasser?
+Correct. b 
+Rationale. b is correct because William Glasser is the proponent of reality therapy. A is wrong because the proponent is Albert Ellis. C is wrong because the proponent is Viktor Frankl. D is wrong because the proponent is Frederick Perls.
+
+a. Rational emotive therapy
+b. Reality therapy
+c. Logotherapy
+d. Gestalt therapy
+
+23. Proxemics is the study of distance zones between people during conversation. Which of the following zones should be the distance that is acceptable for communication in social, work or business settings?
+Correct. c 
+Rationale. c is correct because 4-12 feet is indicated for social zones. A is wrong because it is indicated for public zone. B is wrong because it is indicated for personal zone. D is wrong because it is indicated for intimate zone.
+
+a. 12-25 feet
+b. 18-36 inches
+c. 4-12 feet
+d. 0-18 inches
+
+24. Touching a client can be comforting and supportive especially if it is being permitted. Which of the following types of touch is used in greeting such as handshake?
+Correct. d 
+Rationale. d is correct; it also include “air kisses” that women use to greet acquaintances or when a gentle hand guides someone in a direction. A is wrong because it involves tight hugs and kisses between lovers or close relatives. B is wrong because it involves a hug in greeting, an arm thrown around the shoulder of a good friend, etc. C is wrong because it is used in examinations or procedures such as when the nurse touches a client to assess skin turgor.
+
+a. Love-intimacy touch
+b. Friendship-warmth touch
+c. Functional-professional touch
+d. Social-polite touch
+
+25. It is very important for a nurse to use active listening and observation when establishing a therapeutic interaction. Which of the following does not support this statement?
+Correct. a 
+Rationale. a is the answer because the nurse should interpret and respond to the client objectively. B, C, and D are all correct because they support the given statement above.
+
+a. Interpret and respond to the message subjectively.
+b. Recognize the issue that is most important to the client.
+c. Know what further questions to ask the client.
+d. Use additional therapeutic communication techniques to guide the client in describing his perceptions fully.
+
+26. When Nurse Anne tells to her patient, “Does this contribute to your stress?” what type of therapeutic communication she used?
+Correct. b 
+Rationale. b is correct because it is use in asking the patient to appraise the quality of his/her experiences. A is wrong because it is used to delve further into a subject or idea. C is wrong because it is used in concentrating on a single point. D is wrong because it gives the patient the encouragement to continue.
+
+a. Exploring
+b. Encouraging expression
+c. Focusing
+d. General leads
+
+27. What therapeutic communication technique will a nurse use if she wants to bring out important points of the discussion and increase the awareness of both parties?
+Correct. c 
+Rationale. c is correct because it is used to organize and summing up that which has gone before. A is wrong because it is used when a nurse offers the patient to share, strive and work for his benefit. B is wrong because it is used when a nurse wants the patient to verbalize his feelings. D is wrong because it is used by a nurse if she wants to express uncertainty about the reality of the client’s perceptions.
+
+a. Suggesting collaboration
+b. Translating into feelings
+c. Summarization
+d. Verbalizing the implied
+
+28. When Nurse Anne uses various types of therapeutic communication techniques, which of the following is her goal?
+Correct. d 
+Rationale. d is correct. C is wrong because nurses should establish rapport to clients by being empathetic. B and A are wrong; this explains why we need to stop using nontherapeutic techniques
+
+a. It impedes the communication process.
+b. To stop the conversation thus makes it difficult to continue to interaction.
+c. Establish rapport with the client by being sympathetic.
+d. Gain an in-depth understanding of the client’s perception of the issue, and foster empathy in the nurse-client relationship.
+
+29. Problem solving is used during crisis intervention. It helps the patient to find ways in order to solve a certain situation. Which of the following is not included in finding a solution?
+Correct. a 
+Rationale. a is the answer because if dissatisfied with the results, they should select another alternative and continue the process. B, C, and D are all correct.
+
+a. If dissatisfied with the results, discontinue the process.
+b. Identify the problem.
+c. Brainstorm all possible solutions.
+d. Evaluate the situation.
+
+30. Hardiness is the ability to resist illness when under stress. Which of the following is not a component of hardiness as described by Kobasa?
+Correct. b 
+Rationale. b is the answer because stress is not included in hardiness. A (commitment) is defined as the active involvement in life activities. C (control) is defined as the ability to make appropriate decisions in life activities. D (challenge) is defined as the ability to perceive change as beneficial rather than just stressful.
+
+a. Commitment
+b. Stress
+c. Control
+d. Challenge
+
+31. If Chinese believed that mental illness is caused by lack of harmony of emotions and evil spirits what do the Filipinos believed?
+Correct. c 
+Rationale. c is correct because it is the illness belief of Filipinos. D is wrong because it is the belief of Cubans. B is wrong because it is the belief of African American. A is wrong because it is the belief of Japanese Americans.
+
+a. Loss of mental self-control caused by evil spirits, punishment for behavior or not living good life.
+b. Lack of spiritual balance.
+c. Disruptions of harmonious function of individual and spirit world.
+d. Heredity, extreme stress.
+
+32.Which of the following is not considered in working with individual responses to illness?
+Correct. d 
+Rationale. d is the answer because the nurse should recognize any negative feelings rather than positive. A, B, and C are all correct.
+
+a. Remember that a wide variety of factors influence the client’s complex response to illness.
+b. Ask the client at the beginning of the interview how he prefers to be addressed.
+c. Approach the client with a genuine caring attitude.
+d. Recognize any positive feelings or stereotypes and discuss them with a colleague to dispel myths and misconceptions.
+
+33. Thought process refers to how the client thinks. Which of the following describes “tangential thinking”?
+Correct. a 
+Rationale. a is the answer because it is the correct definition of tangential thinking. B is wrong because it describes circumstantial thinking. C is wrong because flight of ideas. D is wrong because it describes loose associations.
+
+a. Wandering off the topic and never providing the information requested.
+b. A client eventually answers a question but only after giving excessive unnecessary details.
+c. Excessive amount and rate of speech composed of fragmented or unrelated ideas.
+d. Disorganized thinking that jumps from one idea to another with little or no evident relation between the thoughts
+
+34. Affect is defined as the outward expression of a client’s emotional state. Which of the following correctly defines “blunted affect”?
+Correct. b 
+Rationale. b correctly defines blunted affect. A is wrong because it defines broad affect. C is wrong because it defines flat affect. D is wrong because it defines restricted affect.
+
+a. Displaying a full range of emotional expression.
+b. Showing little or a slow-to-respond facial expression.
+c. Showing no facial expressions.
+d. Displaying one type of expression, usually serious or somber.
+
+35. When a nurse assesses his patient, he noticed an overall slowed movement. He is correct if he identified it with which of the following terms?
+Correct. c 
+Rationale. c is the correct term. A is wrong because it is defined as maintenance of posture or position. B is wrong because it is defined as repeated purposeless behaviors which are often indicate anxiety. D is wrong because it is the inventing of words that only the client can understand.
+
+a. Waxy flexibility
+b. Automatisms
+c. Psychomotor retardation
+d. Neologisms
+
