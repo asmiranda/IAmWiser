@@ -2,7 +2,7 @@ CATEGORY: NURSE
 TOPIC: NURSE-PREBOARD
 TOPIC_CODE: NURSE-PREBOARD
 
-1. A 72 year-old client is scheduled to have a cardioversion. A nurse reviews the client’s medication administration record. The nurse should notify the health care provider if the client received which medication during the preceding 24 hours?
+1. A 72 year-old client is scheduled to have a cardioversion. A nurse reviews the client's medication administration record. The nurse should notify the health care provider if the client received which medication during the preceding 24 hours?
 Correct.  a  
 Rationale.  digoxin (Lanoxin) Digoxin increases ventricular irritability and increases the risk of ventricular fibrillation following cardioversion. The other medications do not increase ventricular irritability
 
@@ -35,7 +35,7 @@ d.  Autonomy
 Correct.  b  
 Rationale.  Improvement of the processes in a proactive, preventive mode is paramount. Total quality management and continuous quality improvement have a major goal of identifying ways to do the right thing at the right time in the right way by proactive problem-solving.
 
-a.  “It is to observe reactive service and product problem solving."
+a.  "It is to observe reactive service and product problem solving."
 b.  Improvement of the processes in a proactive, preventive mode is paramount.
 c.  A chart audits to finds common errors in practice and outcomes associated with goals.
 d.  A flow chart to organize daily tasks is critical to the initial stages.
@@ -85,7 +85,7 @@ b.  Sliced bananas
 c.  Whole grapes
 d.  Popcorn
 
-10. client is ordered warfarin sodium (Coumadin) to be continued at home. Which focus is critical to be included in the nurse’s discharge instruction?
+10. client is ordered warfarin sodium (Coumadin) to be continued at home. Which focus is critical to be included in the nurse's discharge instruction?
 Correct.  b  
 Rationale.  Report any nose or gum bleeds The client should notify the health care provider if blood is noted in their stools or urine, or any other signs of bleeding occ
 
@@ -140,7 +140,7 @@ b.  Learn about the cultures of clients who are most often encountered
 c.  Have a list of persons for referral when interaction with these clients occur
 d.  Recognize personal attitudes about cultural differences and real or expected biases
 
-16. A 35-year-old client of Puerto Rican-American descent is diagnosed with ovarian cancer. The client states “I refuse both radiation and chemotherapy because they are 'hot.'” The next action for the nurse to take is to
+16. A 35-year-old client of Puerto Rican-American descent is diagnosed with ovarian cancer. The client states "I refuse both radiation and chemotherapy because they are 'hot.'" The next action for the nurse to take is to
 Correct.  d  
 Rationale.  Ask the client to talk about the concerns about the "hot" treatments The "hot-cold" system is found among Mexican-Americans, Puerto Ricans, and other Hispanic-Latinos. Most foods, beverages, herbs, and medicines are categorized as hot or cold, which are symbolic designations and do not necessarily indicate temperature or spiciness. Care and treatment regimens can be negotiated with clients within this framework.
 

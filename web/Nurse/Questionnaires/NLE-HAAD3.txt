@@ -4,7 +4,7 @@ TOPIC_CODE: NURSE-HAAD
 
 1. A client is brought to the recovery room after a supratentorial craniotomy to remove a large tumor in the left side of the brain. Which of the following is a safe position for the client? Select all that apply.
 		<br>a. Lying on the left side
-		<br>b. Semi-fowler’s position
+		<br>b. Semi-fowler's position
 		<br>c. With the neck flexed
 		<br>d. Supine on the left side
 		<br>e. With extreme hip flexion
@@ -37,7 +37,7 @@ b. The client will receive fluid and nutrients through a small thin tube.
 c. The client may resume physical activities immediately after surgery.
 d. The client may return home on the same day of the operation.
 
-4. In evaluating the client’s postoperative condition after carotid endarterectomy, the nurse should be alert for possible nerve injury as evidenced by:
+4. In evaluating the client's postoperative condition after carotid endarterectomy, the nurse should be alert for possible nerve injury as evidenced by:
 Correct. c
 Rationale.  Numbness in the face or tongue.<br>
 This is brought about by nerve damage to the neck.
@@ -86,13 +86,13 @@ d. b, e and f
 
 7. The nurse in the intensive care nursery unit is evaluating the condition of the newborn. The nurse knows that the symptoms of respiratory distress syndrome (RDS) are a result of:
 Correct. c
-Rationale.  Decrease amount of surfactant in the infant’s lungs<br>
+Rationale.  Decrease amount of surfactant in the infant's lungs<br>
 RDS refers to a condition of surfactant deficiency and physiologic immaturity of the thorax.
 
 a. Increased amount of vasodilation in the lungs
 b. Small surface area of the premature lungs
-c. Decrease amount of surfactant in the infant’s lungs
-d. Increase in the amount of surfactant in the infant’s lungs
+c. Decrease amount of surfactant in the infant's lungs
+d. Increase in the amount of surfactant in the infant's lungs
 
 8. The geriatric client with a history of heart attack and hypertension presented with complaints of unusual weakness and fatigue. Upon examination, the nurse noted diminished breath sounds throughout the lung fields and crackles on both the lower lobes. Which of the following should be the next action of the nurse?
 Correct.  a
@@ -104,7 +104,7 @@ b. Facilitate chest x-ray.
 c. Start a thorough physical examination and history.
 d. Recheck the client after five minutes and see if there are changes.
 
-9. The client presented with complaints of rapid and shallow breathing. Upon lung auscultation, breath sound is diminished on both lung bases and there’s audible course crackles on the upper lobes. If the condition worsens, which of the following tests can be used to determine if intubation is necessary?
+9. The client presented with complaints of rapid and shallow breathing. Upon lung auscultation, breath sound is diminished on both lung bases and there's audible course crackles on the upper lobes. If the condition worsens, which of the following tests can be used to determine if intubation is necessary?
 Correct. c
 Rationale.  Oxygen Saturation in Pulse Oximeter<br>
 Getting the oxygen saturation through a pulse oximeter is quick and easy. This is a non-invasive test and is the ideal tool to determine episodes of failing respiratory function requiring immediate intubation.
@@ -114,7 +114,7 @@ b. Partial Oxygen Saturation in Arterial Blood Gas
 c. Oxygen Saturation in Pulse Oximeter
 d. Lung Function test
 
-10. The client is being treated for bronchial asthma in the emergency department. Upon thorough history taking, the nurse notes that the attacks are affecting the client’s activities of daily living and that the client has been experiencing these symptoms everyday and presents at night more than once a week. The nurse understands that this class of asthma is under:
+10. The client is being treated for bronchial asthma in the emergency department. Upon thorough history taking, the nurse notes that the attacks are affecting the client's activities of daily living and that the client has been experiencing these symptoms everyday and presents at night more than once a week. The nurse understands that this class of asthma is under:
 Correct. c
 Rationale.  Moderate Persistent<br>
 Symptoms occur daily, episodes affect activity and sleep, and symptoms are present at night more than one per week.
@@ -134,7 +134,7 @@ b. Cumulative effect
 c. Idiosyncratic effect
 d. Synergistic effect
 
-12. The physician ordered an Aminophylline drip for the client who is suffering from bronchial asthma. The order read as, “Start dextrose 5 % in water 250 ml incorporated with 500 mg Aminophylline at 0.5 mg/kg/hr. The client body weight is 170 lbs. How many ampules does the nurse needed to prepare?
+12. The physician ordered an Aminophylline drip for the client who is suffering from bronchial asthma. The order read as, "Start dextrose 5 % in water 250 ml incorporated with 500 mg Aminophylline at 0.5 mg/kg/hr. The client body weight is 170 lbs. How many ampules does the nurse needed to prepare?
 Correct.  b
 Rationale.  Aminophylline preparation is 250mg/10 ml. Since the physician ordered 500 mg, divide it with 250 mg to get 2 ampules: 500mg / 250 mg = 2 ampules.
 
@@ -200,7 +200,7 @@ d. Confusion
 18. The client complained of abdominal discomfort on the first postoperative day. Upon percussion of the lower abdomen, the nurse expects to hear:
 Correct. c
 Rationale.  Tympanic<br>
-Tympanic is the characteristic tone of the abdomen on percussion. Tympany is an expected finding since the client is on the first operative day and the client’s gastrointestinal tract is filled with air postoperatively.
+Tympanic is the characteristic tone of the abdomen on percussion. Tympany is an expected finding since the client is on the first operative day and the client's gastrointestinal tract is filled with air postoperatively.
 
 a. Dull
 b. Flat
@@ -237,10 +237,10 @@ b. Right lower quadrant
 c. Left upper quadrant
 d. Left lower quadrant
 
-22. The nurse is performing a physical examination to the client with hearing difficulty. The nurse activated the tuning fork and placed it on top of the client’s head. What test did the nurse perform?
+22. The nurse is performing a physical examination to the client with hearing difficulty. The nurse activated the tuning fork and placed it on top of the client's head. What test did the nurse perform?
 Correct.  d
 Rationale.  Weber test<br>
-Weber test is performed by activating the tuning fork and placing it on top of the client’s head.
+Weber test is performed by activating the tuning fork and placing it on top of the client's head.
 
 a. Whisper test
 b. Rinne test
@@ -259,13 +259,13 @@ d. 5th ICS, Medial to the midclavicular line
 
 24. The nurse needs to communicate the task to be delegated. Which of the following statements is an example of a task that is properly communicated?
 Correct. c
-Rationale.  “Turn the client every 2 hours following this schedule for tonight and report any skin changes.”<br>
-The nurse should communicate the task in a clear, correct, complete, and concise manner. The nurse should also communicate the parameters expected. After communicating the task, the nurse should clarify and ask for the delegate’s input.
+Rationale.  "Turn the client every 2 hours following this schedule for tonight and report any skin changes."<br>
+The nurse should communicate the task in a clear, correct, complete, and concise manner. The nurse should also communicate the parameters expected. After communicating the task, the nurse should clarify and ask for the delegate's input.
 
-a. “Check client’s temperature.”
-b. “Attend to the client who buzzed the emergency button.”
-c. “Turn the client every 2 hours following this schedule for tonight and report any skin changes.”
-d. “Provide mouth care to intubated clients in the ward for the morning shift.”
+a. "Check client's temperature."
+b. "Attend to the client who buzzed the emergency button."
+c. "Turn the client every 2 hours following this schedule for tonight and report any skin changes."
+d. "Provide mouth care to intubated clients in the ward for the morning shift."
 
 25. The client with a calcium level of 5.0 mg/dL is admitted to the hospital. The nurse knows that the following symptoms can occur in the client EXCEPT?
 Correct.  a
@@ -275,7 +275,7 @@ Normal serum calcium level ranges from 8.5 – 10 mg/dL. The condition of the cl
 a. Hypoactive bowel sounds
 b. Muscle cramping
 c. Numbness in hands and feet
-d. Positive Chvostek’s sign
+d. Positive Chvostek's sign
 
 26. The nurse is caring for the client who had undergone lens removal due to cataract. Which nursing intervention is most appropriate for this client?
 Correct. b
@@ -306,10 +306,10 @@ Rationale.  Option A: In THR, general anesthesia is used to sedate the client. T
 <br>Option C: Laparoscopic surgery for THR has a minimally invasive approach to reduce bleeding and trauma on soft tissues and muscles. Hence, blood transfusion is not expected unless medically necessary.
 <br>Option D: Full recovery for THR may take years. Most individuals can return to usual ambulation for 12 weeks.
 
-a. “I will be asleep during the entire procedure, and upon awakening, I will get to see myself with IV fluids, Foley catheter, a small drainage tube and a firm pillow between my legs.”
-b. “The orthotic device that will replace my hip joint is only good for 5 years and I need to undergo the same procedure to have a replacement.”
-c. “If I will have the laparoscopic type of procedure, I will lose a lot of blood. So, I expect to have blood transfusion thereafter.”
-d. “I can expect full recovery 1 month after the procedure.”
+a. "I will be asleep during the entire procedure, and upon awakening, I will get to see myself with IV fluids, Foley catheter, a small drainage tube and a firm pillow between my legs."
+b. "The orthotic device that will replace my hip joint is only good for 5 years and I need to undergo the same procedure to have a replacement."
+c. "If I will have the laparoscopic type of procedure, I will lose a lot of blood. So, I expect to have blood transfusion thereafter."
+d. "I can expect full recovery 1 month after the procedure."
 
 29. The nurse is caring for a client with a balanced suspension traction with a Thomas splint. The nurse observes that the left leg of the client is externally rotated. Which of the following is the priority of the nurse?
 Correct.  a
@@ -321,7 +321,7 @@ b. Perform resistive range of motion of the affected leg.
 c. Adduct and internally rotate the left leg.
 d. Maintain the left leg in a neutral position.
 
-30. The client with Hodgkin’s disease is undergoing radiation therapy. Which of the following care plans will reduce skin damage?
+30. The client with Hodgkin's disease is undergoing radiation therapy. Which of the following care plans will reduce skin damage?
 Correct. b
 Rationale.  Instruct client to avoid powder and creams to the area.<br>
 Creams and powders may further irritate the skin which is already sensitive due to radiation therapy.
@@ -341,10 +341,10 @@ b. Eating a high-protein diet.
 c. Taking children to crowded places.
 d. Eating dry crackers
 
-32. The client became anorexic after receiving chemotherapy and radiation therapy. Which of the following nursing interventions can address the client’s anorexia?
+32. The client became anorexic after receiving chemotherapy and radiation therapy. Which of the following nursing interventions can address the client's anorexia?
 Correct. b
 Rationale.  Present the food in a more pleasing manner.<br>
-Clients develop anorexia as a side effect of the treatment; this may be accompanied by mucositis and taste alterations which limits the client’s food choices. Food presented in a more pleasing manner or environment will increase client’s desire with eating and drinking.
+Clients develop anorexia as a side effect of the treatment; this may be accompanied by mucositis and taste alterations which limits the client's food choices. Food presented in a more pleasing manner or environment will increase client's desire with eating and drinking.
 
 a. Encourage intake of three meals in a day.
 b. Present the food in a more pleasing manner.

@@ -25,7 +25,7 @@ Correct.  c
 Rationale.  Although providing some pain relief has a high priority, and giving the drug by the IV route instead of IM, SC, or orally does increase the rate of effect, the most important reason is to prevent an overdose from accumulation of drug in the interstitial space during the fluid shift of the emergent phase. When edema is present, cumulative doses are rapidly absorbed when the fluid shift is resolving. This delayed absorption can result in lethal blood levels of analgesics.
 
 a.  The medication will be effective more quickly than if given intramuscularly.
-b.  It is less likely to interfere with the client’s breathing and oxygenation.
+b.  It is less likely to interfere with the client's breathing and oxygenation.
 c.  The danger of an overdose during fluid remobilization is reduced.
 d.  The client delayed gastric emptying.
 
@@ -45,16 +45,16 @@ Rationale.  Burns of the perineum increase the risk for sepsis. Burns of the han
 a.  The client is a 26-year-old male.
 b.  The client has had a burn injury in the past.
 c.  The burned areas include the hands and perineum.
-d.  The burn took place in an open field and ignited the client’s clothing.
+d.  The burn took place in an open field and ignited the client's clothing.
 
-6. The burned client is ordered to receive intravenous cimetidine, an H2 histamine blocking agent, during the emergent phase. When the client’s family asks why this drug is being given, what is the nurse’s best response?
+6. The burned client is ordered to receive intravenous cimetidine, an H2 histamine blocking agent, during the emergent phase. When the client's family asks why this drug is being given, what is the nurse's best response?
 Correct.  c  
 Rationale.  Ulcerative gastrointestinal disease may develop within 24 hours after a severe burn as a result of increased hydrochloric acid production and decreased mucosal barrier. Cimetidine inhibits the production and release of hydrochloric acid.
 
-a.  “To increase the urine output and prevent kidney damage.”
-b.  “To stimulate intestinal movement and prevent abdominal bloating.”
-c.  “To decrease hydrochloric acid production in the stomach and prevent ulcers.”
-d.  “To inhibit loss of fluid from the circulatory system and prevent hypovolemic shock.”
+a.  "To increase the urine output and prevent kidney damage."
+b.  "To stimulate intestinal movement and prevent abdominal bloating."
+c.  "To decrease hydrochloric acid production in the stomach and prevent ulcers."
+d.  "To inhibit loss of fluid from the circulatory system and prevent hypovolemic shock."
 
 7. At what point after a burn injury should the nurse be most alert for the complication of hypokalemia?
 Correct.  c  
@@ -67,7 +67,7 @@ d.  During the late acute phase
 
 8. What clinical manifestation should alert the nurse to possible carbon monoxide poisoning in a client who experienced a burn injury during a house fire?
 Correct.  c  
-Rationale.  The saturation of hemoglobin molecules with carbon monoxide and the subsequent vasodilation induces a “cherry red” color of the mucous membranes in these clients. The other manifestations are associated with inhalation injury, but not specifically carbon monoxide poisoning.
+Rationale.  The saturation of hemoglobin molecules with carbon monoxide and the subsequent vasodilation induces a "cherry red" color of the mucous membranes in these clients. The other manifestations are associated with inhalation injury, but not specifically carbon monoxide poisoning.
 
 a.  Pulse oximetry reading of 80%
 b.  Expiratory stridor and nasal flaring
@@ -85,7 +85,7 @@ d.  The client cannot distinguish the sensation of sharp versus dull in the extr
 
 10. What additional laboratory test should be performed on any African American client who sustains a serious burn injury?
 Correct.  d  
-Rationale.  Sickle cell disease and sickle cell trait are more common among African Americans. Although clients with sickle cell disease usually know their status, the client with sickle cell trait may not. The fluid, circulatory, and respiratory alterations that occur in the emergent phase of a burn injury could result in decreased tissue perfusion that is sufficient to cause sickling of cells, even in a person who only has the trait. Determining the client’s sickle cell status by checking the percentage of hemoglobin S is essential for any African American client who has a burn injury.
+Rationale.  Sickle cell disease and sickle cell trait are more common among African Americans. Although clients with sickle cell disease usually know their status, the client with sickle cell trait may not. The fluid, circulatory, and respiratory alterations that occur in the emergent phase of a burn injury could result in decreased tissue perfusion that is sufficient to cause sickling of cells, even in a person who only has the trait. Determining the client's sickle cell status by checking the percentage of hemoglobin S is essential for any African American client who has a burn injury.
 
 a.  Total protein
 b.  Tissue type antigens
@@ -94,23 +94,23 @@ d.  Hemoglobin S electrophoresis
 
 11. Which type of fluid should the nurse expect to prepare and administer as fluid resuscitation during the emergent phase of burn recovery?
 Correct.  b  
-Rationale.  Although not universally true, most fluid resuscitation for burn injuries starts with crystalloid solutions, such as normal saline and Ringer’s lactate. The burn client rarely requires blood during the emergent phase unless the burn is complicated by another injury that involved hemorrhage. Colloids and plasma are not generally used during the fluid shift phase because these large particles pass through the leaky capillaries into the interstitial fluid, where they increase the osmotic pressure. Increased osmotic pressure in the interstitial fluid can worsen the capillary leak syndrome and make maintaining the circulating fluid volume even more difficult.
+Rationale.  Although not universally true, most fluid resuscitation for burn injuries starts with crystalloid solutions, such as normal saline and Ringer's lactate. The burn client rarely requires blood during the emergent phase unless the burn is complicated by another injury that involved hemorrhage. Colloids and plasma are not generally used during the fluid shift phase because these large particles pass through the leaky capillaries into the interstitial fluid, where they increase the osmotic pressure. Increased osmotic pressure in the interstitial fluid can worsen the capillary leak syndrome and make maintaining the circulating fluid volume even more difficult.
 
 a.  Colloids
 b.  Crystalloids
 c.  Fresh-frozen plasma
 d.  Packed red blood cells
 
-12. The client with a dressing covering the neck is experiencing some respiratory difficulty. What is the nurse’s best first action?
+12. The client with a dressing covering the neck is experiencing some respiratory difficulty. What is the nurse's best first action?
 Correct.  b  
-Rationale.  Respiratory difficulty can arise from external pressure. The first action in this situation would be to loosen the dressing and then reassess the client’s respiratory status.
+Rationale.  Respiratory difficulty can arise from external pressure. The first action in this situation would be to loosen the dressing and then reassess the client's respiratory status.
 
 a.  Administer oxygen.
 b.  Loosen the dressing.
 c.  Notify the emergency team.
 d.  Document the observation as the only action.
 
-13. The client who experienced an inhalation injury 6 hours ago has been wheezing. When the client is assessed, wheezes are no longer heard.  What is the nurse’s best action?
+13. The client who experienced an inhalation injury 6 hours ago has been wheezing. When the client is assessed, wheezes are no longer heard.  What is the nurse's best action?
 Correct.  b  
 Rationale.  Clients with severe inhalation injuries may sustain such progressive obstruction that they may lose effective movement of air. When this occurs, wheezing is no longer heard and neither are breath sounds. The client requires the establishment of an emergency airway and the swelling usually precludes intubation.
 
@@ -119,16 +119,16 @@ b.  Notify the emergency team.
 c.  Loosen the dressings on the chest.
 d.  Document the findings as the only action.
 
-14. Ten hours after the client with 50% burns is admitted, her blood glucose level is 90 mg/dL. What is the nurse’s best action?
+14. Ten hours after the client with 50% burns is admitted, her blood glucose level is 90 mg/dL. What is the nurse's best action?
 Correct.  b  
 Rationale.  Neural and hormonal compensation to the stress of the burn injury in the emergent phase increases liver glucose production and release. An acute rise in the blood glucose level is an expected client response and is helpful in the generation of energy needed for the increased metabolism that accompanies this trauma.
 
 a.  Notify the emergency team.
 b.  Document the finding as the only action.
 c.  Ask the client if anyone in her family has diabetes mellitus.
-d.  Slow the intravenous infusion of dextrose 5% in Ringer’s lactate.
+d.  Slow the intravenous infusion of dextrose 5% in Ringer's lactate.
 
-15. On admission to the emergency department the burned client’s blood pressure is 90/60, with an apical pulse rate of 122. These findings are an expected result of what thermal injury–related response?
+15. On admission to the emergency department the burned client's blood pressure is 90/60, with an apical pulse rate of 122. These findings are an expected result of what thermal injury–related response?
 Correct.  a  
 Rationale.  Intense pain and carbon monoxide poisoning increase blood pressure. Hemorrhage is unusual in a burn injury. The physiologic effect of histamine release in injured tissues is a loss of vascular volume to the interstitial space, with a resulting decrease in blood pressure.
 
@@ -137,7 +137,7 @@ b.  Intense pain
 c.  Hemorrhage
 d.  Carbon monoxide poisoning
 
-16. Twelve hours after the client was initially burned, bowel sounds are absent in all four abdominal quadrants. What is the nurse’s best action?
+16. Twelve hours after the client was initially burned, bowel sounds are absent in all four abdominal quadrants. What is the nurse's best action?
 Correct.  b  
 Rationale.  Decreased or absent peristalsis is an expected response during the emergent phase of burn injury as a result of neural and hormonal compensation to the stress of injury. No currently accepted intervention changes this response, and it is not the highest priority of care at this time.
 
@@ -148,7 +148,7 @@ d.  Increase the IV flow rate.
 
 17. Which clinical manifestation indicates that the burned client is moving into the fluid remobilization phase of recovery?
 Correct.  a  
-Rationale.  The “fluid remobilization” phase improves renal blood flow, increasing diuresis and restoring fluid and electrolyte levels. The increased water content of the urine reduces its specific gravity.
+Rationale.  The "fluid remobilization" phase improves renal blood flow, increasing diuresis and restoring fluid and electrolyte levels. The increased water content of the urine reduces its specific gravity.
 
 a.  Increased urine output, decreased urine specific gravity
 b.  Increased peripheral edema, decreased blood pressure
@@ -164,7 +164,7 @@ b.  Decreased Tissue Perfusion
 c.  Risk for Disuse Syndrome
 d.  Disturbed Body Image
 
-19. All of the following laboratory test results on a burned client’s blood are present during the emergent phase. Which result should the nurse report to the physician immediately?
+19. All of the following laboratory test results on a burned client's blood are present during the emergent phase. Which result should the nurse report to the physician immediately?
 Correct.  b  
 Rationale.  All these findings are abnormal; however, only the serum potassium level is changed to the degree that serious, life-threatening responses could result. With such a rapid rise in the potassium level, the client is at high risk for experiencing severe cardiac dysrhythmias and death.
 
@@ -182,41 +182,41 @@ b.  Heart rate and rhythm
 c.  Orientation to time, place, and person
 d.  Current range of motion in all extremities
 
-21. In assessing the client’s potential for an inhalation injury as a result of a flame burn, what is the most important question to ask the client on admission?
+21. In assessing the client's potential for an inhalation injury as a result of a flame burn, what is the most important question to ask the client on admission?
 Correct.  d  
 Rationale.  The risk for inhalation injury is greatest when flame burns occur indoors in small, poorly ventilated rooms. although smoking increases the risk for some problems, it does not predispose the client for an inhalation injury.
 
-a.  “Are you a smoker?”
-b.  “When was your last chest x-ray?”
-c.  “Have you ever had asthma or any other lung problem?”
-d.  “In what exact place or space were you when you were burned?”
+a.  "Are you a smoker?"
+b.  "When was your last chest x-ray?"
+c.  "Have you ever had asthma or any other lung problem?"
+d.  "In what exact place or space were you when you were burned?"
 
-22. Which information obtained by assessment ensures that the client’s respiratory efforts are currently adequate?
+22. Which information obtained by assessment ensures that the client's respiratory efforts are currently adequate?
 Correct.  c  
 Rationale.  Clients may have ineffective respiratory efforts and gas exchange even though they are able to talk, have good respiratory movement, and are alert. The best indicator for respiratory effectiveness is the maintenance of oxygen saturation within the normal range.
 
 a.  The client is able to talk.
 b.  The client is alert and oriented.
-c.  The client’s oxygen saturation is 97%.
-d.  The client’s chest movements are uninhibited
+c.  The client's oxygen saturation is 97%.
+d.  The client's chest movements are uninhibited
 
-23. Which information obtained by assessment ensures that the client’s respiratory efforts are currently adequate?
+23. Which information obtained by assessment ensures that the client's respiratory efforts are currently adequate?
 Correct.  c  
 Rationale.  Clients may have ineffective respiratory efforts and gas exchange even though they are able to talk, have good respiratory movement, and are alert. The best indicator for respiratory effectiveness is the maintenance of oxygen saturation within the normal range.
 
 a.  The client is able to talk.
 b.  The client is alert and oriented.
-c.  The client’s oxygen saturation is 97%.
-d.  The client’s chest movements are uninhibited
+c.  The client's oxygen saturation is 97%.
+d.  The client's chest movements are uninhibited
 
-24. The burned client’s family ask at what point the client will no longer be at increased risk for infection. What is the nurse’s best response?
+24. The burned client's family ask at what point the client will no longer be at increased risk for infection. What is the nurse's best response?
 Correct.  b  
 Rationale.  Intact skin is a major barrier to infection and other disruptions in homeostasis. No matter how much time has passed since the burn injury, the client remains at great risk for infection as long as any area of skin is open.
 
-a.  “When fluid remobilization has started.”
-b.  “When the burn wounds are closed.”
-c.  “When IV fluids are discontinued.”
-d.  “When body weight is normal.”
+a.  "When fluid remobilization has started."
+b.  "When the burn wounds are closed."
+c.  "When IV fluids are discontinued."
+d.  "When body weight is normal."
 
 25. The burned client relates the following history of previous health problems. Which one should alert the nurse to the need for alteration of the fluid resuscitation plan?
 Correct.  c  
@@ -227,9 +227,9 @@ b.  Hepatitis B 10 years ago
 c.  Myocardial infarction 1 year ago
 d.  Kidney stones within the last 6 month
 
-26. The burned client on admission is drooling and having difficulty swallowing. What is the nurse’s best first action?
+26. The burned client on admission is drooling and having difficulty swallowing. What is the nurse's best first action?
 Correct.  c  
-Rationale.  Difficulty swallowing and drooling are indications of oropharyngeal edema and can precede pulmonary failure. The client’s airway is in severe jeopardy and intubation is highly likely to be needed shortly.
+Rationale.  Difficulty swallowing and drooling are indications of oropharyngeal edema and can precede pulmonary failure. The client's airway is in severe jeopardy and intubation is highly likely to be needed shortly.
 
 a.  Assess level of consciousness and pupillary reactions.
 b.  Ask the client at what time food or liquid was last consumed.
@@ -240,28 +240,28 @@ d.  Measure abdominal girth and auscultate bowel sounds in all four quadrants.
 Correct.  a  
 Rationale.  Cross-contamination occurs when microorganisms from another person or the environment are transferred to the client. Although all the interventions listed above can help reduce the risk for infection, only handwashing can prevent crosscontamination.
 
-a.  Handwashing on entering the client’s room
+a.  Handwashing on entering the client's room
 b.  Encouraging the client to cough and deep breathe
 c.  Administering the prescribed tetanus toxoid vaccine
 d.  Changing gloves between cleansing different burn areas
 
-28. In reviewing the burned client’s laboratory report of white blood cell count with differential, all the following results are listed.  Which laboratory finding indicates the possibility of sepsis?
+28. In reviewing the burned client's laboratory report of white blood cell count with differential, all the following results are listed.  Which laboratory finding indicates the possibility of sepsis?
 Correct.  c  
-Rationale.  Normally, the mature segmented neutrophils (“segs”) are the major population of circulating leukocytes, constituting 55% to 70% of the total white blood count. Fewer than 3% to 5% of the circulating white blood cells should be the less mature “band” neutrophils. A left shift occurs when the bone marrow releases more immature neutrophils than mature neutrophils. Such a shift indicates severe infection or sepsis, in which the client’s immune system cannot keep pace with the infectious process.
+Rationale.  Normally, the mature segmented neutrophils ("segs") are the major population of circulating leukocytes, constituting 55% to 70% of the total white blood count. Fewer than 3% to 5% of the circulating white blood cells should be the less mature "band" neutrophils. A left shift occurs when the bone marrow releases more immature neutrophils than mature neutrophils. Such a shift indicates severe infection or sepsis, in which the client's immune system cannot keep pace with the infectious process.
 
 a.  The total white blood cell count is 9000/mm3.
 b.  The lymphocytes outnumber the basophils.
-c.  The “bands” outnumber the “segs.”
+c.  The "bands" outnumber the "segs."
 d.  The monocyte count is 1,800/mm3.
 
 29. The client has a deep partial-thickness injury to the posterior neck. Which intervention is most important to use during the acute phase to prevent contractures associated with this injury?
 Correct.  c  
 Rationale.  The function that would be disrupted by a contracture to the posterior neck is flexion. Moving the head from side to side prevents such a loss of flexion.
 
-a.  Place a towel roll under the client’s neck or shoulder.
+a.  Place a towel roll under the client's neck or shoulder.
 b.  Keep the client in a supine position without the use of pillows.
 c.  Have the client turn the head from side to side 90 degrees every hour while awake.
-d.  Keep the client in a semi-Fowler’s position and actively raise the arms above the head every hour while awake.
+d.  Keep the client in a semi-Fowler's position and actively raise the arms above the head every hour while awake.
 
 30. The client has severe burns around the right hip. Which position is most important to be emphasized by the nurse that the client maintain to retain maximum function of this joint?
 Correct.  d  
@@ -281,20 +281,20 @@ b.  Presence of small, pale pink bumps in the wound beds
 c.  Decreased white blood cell count
 d.  Increased serum creatinine level
 
-32. The client, who is 2 weeks postburn with a 40% deep partial-thickness injury, still has open wounds. On taking the morning vital signs, the client is found to have a below-normal temperature, is hypotensive, and has diarrhea.  What is the nurse’s best action?
+32. The client, who is 2 weeks postburn with a 40% deep partial-thickness injury, still has open wounds. On taking the morning vital signs, the client is found to have a below-normal temperature, is hypotensive, and has diarrhea.  What is the nurse's best action?
 Correct.  d  
 Rationale.  These findings are associated with systemic gram-negative infection and sepsis. This is a medical emergency and requires prompt attention.
 
 a.  Nothing, because the findings are normal for clients during the acute phase of recovery.
 b.  Increase the temperature in the room and increase the IV infusion rate.
-c.  Assess the client’s airway and oxygen saturation.
+c.  Assess the client's airway and oxygen saturation.
 d.  Notify the burn emergency team.
 
 33. Which intervention is most important to use to prevent infection by autocontamination in the burned client during the acute phase of recovery?
 Correct.  a  
-Rationale.  Autocontamination is the transfer of microorganisms from one area to another area of the same client’s body, causing infection of a previously uninfected area.  Although all techniques listed can help reduce the risk for infection, only changing gloves between carrying out wound care on difference parts of the client’s body can prevent autocontamination.
+Rationale.  Autocontamination is the transfer of microorganisms from one area to another area of the same client's body, causing infection of a previously uninfected area.  Although all techniques listed can help reduce the risk for infection, only changing gloves between carrying out wound care on difference parts of the client's body can prevent autocontamination.
 
-a.  Changing gloves between wound care on different parts of the client’s body.
+a.  Changing gloves between wound care on different parts of the client's body.
 b.  Avoiding sharing equipment such as blood pressure cuffs between clients.
 c.  Using the closed method of burn wound management.
 d.  Using proper and consistent handwashing.
@@ -304,36 +304,36 @@ Correct.  d
 Rationale.  Regular, progressive ambulation is initiated for all burn clients who do not have contraindicating concomitant injuries as soon as the fluid shift resolves. Clients can be ambulated with extensive dressings, open wounds, and nearly any type of attached lines, tubing, and other equipment.
 
 a.  When all full-thickness areas have been closed with skin grafts
-b.  When the client’s temperature has remained normal for 24 hours
+b.  When the client's temperature has remained normal for 24 hours
 c.  As soon as possible after wound debridement is complete
 d.  As soon as possible after resolution of the fluid shift
 
 35. What statement by the client indicates the need for further discussion regarding the outcome of skin grafting (allografting) procedures?
 Correct.  b  
-Rationale.  Factors other than tissue type, such as circulation and infection, influence whether and how well a graft “takes.” The client should be prepared for the possibility that not all grafting procedures will be successful.
+Rationale.  Factors other than tissue type, such as circulation and infection, influence whether and how well a graft "takes." The client should be prepared for the possibility that not all grafting procedures will be successful.
 
-a.  “For the first few days after surgery, the donor sites will be painful.”
-b.  “Because the graft is my own skin, there is no chance it won’t ‘take’.”
-c.  “I will have some scarring in the area when the skin is removed for grafting.”
-d.  “Once all grafting is completed, my risk for infection is the same as it was before I was burned.”
+a.  "For the first few days after surgery, the donor sites will be painful."
+b.  "Because the graft is my own skin, there is no chance it won't ‘take'."
+c.  "I will have some scarring in the area when the skin is removed for grafting."
+d.  "Once all grafting is completed, my risk for infection is the same as it was before I was burned."
 
 36. Which statement by the client indicates correct understanding of rehabilitation after burn injury?
 Correct.  d  
 Rationale.  Although a return to preburn functional levels is rarely possible, burned clients are considered fully recovered or rehabilitated when they have achieved their highest possible level of physical, social, and emotional functioning.
 
-a.  “I will never be fully recovered from the burn.”
-b.  “I am considered fully recovered when all the wounds are closed.”
-c.  “I will be fully recovered when I am able to perform all the activities I did before my injury.”
-d.  “I will be fully recovered when I achieve the highest possible level of functioning that I can.”
+a.  "I will never be fully recovered from the burn."
+b.  "I am considered fully recovered when all the wounds are closed."
+c.  "I will be fully recovered when I am able to perform all the activities I did before my injury."
+d.  "I will be fully recovered when I achieve the highest possible level of functioning that I can."
 
 37. Which statement made by the client with facial burns who has been prescribed to wear a facial mask pressure garment indicates correct understanding of the purpose of this treatment?
 Correct.  d  
 Rationale.  The purpose of wearing the pressure garment over burn injuries for up to 1 year is to prevent hypertrophic scarring and contractures from forming. Scars will still be present. Although the mask does provide protection of sensitive newly healed skin and grafts from sun exposure, this is not the purpose of wearing the mask. The pressure garment will not change the angle of ear attachment to the head.
 
-a.  “After this treatment, my ears will not stick out.”
-b.  “The mask will help protect my skin from sun damage.”
-c.  “Using this mask will prevent scars from being permanent.”
-d.  “My facial scars should be less severe with the use of this mask.”
+a.  "After this treatment, my ears will not stick out."
+b.  "The mask will help protect my skin from sun damage."
+c.  "Using this mask will prevent scars from being permanent."
+d.  "My facial scars should be less severe with the use of this mask."
 
 38. What is the priority nursing diagnosis for a client in the rehabilitative phase of recovery from a burn injury?
 Correct.  b  
@@ -353,7 +353,7 @@ b.  Total volume of intravascular plasma
 c.  Permeability of capillary walls
 d.  Permeability of kidney tubules
 
-40. Louie, with burns over 35% of the body, complains of chilling. In promoting the client’s comfort, the nurse should:
+40. Louie, with burns over 35% of the body, complains of chilling. In promoting the client's comfort, the nurse should:
 Correct.  c  
 Rationale.  A Client with burns is very sensitive to temperature changes because heat is loss in the burn areas.
 

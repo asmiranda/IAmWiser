@@ -3,37 +3,37 @@ TOPIC: NURSE-COCPPA
 TOPIC_CODE: NURSE-COCPPA
 Nursing Practice 3. Care of Clients with Physiological and Psychosocial Alterations
 
-25. In a nurse-patient relationship there are two types of communication: verbal and non-verbal. Which of the following does not belong to the group?
+1. In a nurse-patient relationship there are two types of communication: verbal and non-verbal. Which of the following does not belong to the group?
 Correct.  d  
 Rationale.    Signs<br>
 This is an example of nonverbal communication wherein the examiner can see or observe the changes on the body. Symptoms are complaints made by the patient. The other options are types of verbal communication.
 
 a.  Health Teaching
-b.  Using patient’s folks as an interpreter
+b.  Using patient's folks as an interpreter
 c.  Verbal order of the physician
 d.  Signs
 
-26. As a novice nurse, you are under the responsibility of your senior. Any mistake in the area you have made must be reported to the senior staff then to the head nurse or manager. This action is according to the principle of?
+2. As a novice nurse, you are under the responsibility of your senior. Any mistake in the area you have made must be reported to the senior staff then to the head nurse or manager. This action is according to the principle of?
 Correct.  b  
 Rationale.    Respondeat superior<br>
-This action is a premise to this principle. A senior staff must be knowledgeable of the novice nurse’s action so that he or she will be able to defend his or her unit together with his or her subordinates.
+This action is a premise to this principle. A senior staff must be knowledgeable of the novice nurse's action so that he or she will be able to defend his or her unit together with his or her subordinates.
 
 a.  Line of command
 b.  Respondeat superior
 c.  Res ipsa loquitur
 d.  None of the above
 
-27. Res ipsa loquitor is apparent on the following cases, except:
+3. Res ipsa loquitor is apparent on the following cases, except:
 Correct.  d  
 Rationale.    Verbal Assault<br>
 This does not have a physical evidence unless the victim will speak for himself or herself. The other options provide an evidence of the injury after the act has been done.
 
-a.  Scalding the patient’s skin with hot water during a meal
-b.  Bed sores present on the patient’s back
+a.  Scalding the patient's skin with hot water during a meal
+b.  Bed sores present on the patient's back
 c.  Infiltrated IV site
 d.  Verbal Assault
 
-28. You were assigned in a medical ward.  Upon opening a chart, you have seen that patient A has insensible fluid loss of approximately 900 cc daily. This type of fluid loss can be due to:
+4. You were assigned in a medical ward.  Upon opening a chart, you have seen that patient A has insensible fluid loss of approximately 900 cc daily. This type of fluid loss can be due to:
 Correct.  d  
 Rationale.    Perspiration<br>
 When the patient perspires, you cannot account the total amount of fluid being lost from the body. The skin is so vast for insensible fluid loss.
@@ -43,7 +43,7 @@ b.  Gravity Drain
 c.  Urine output
 d.  Perspiration
 
-29. Which of the following does not belong to the group of 4 A’s in Alzheimer’s Disease?
+5. Which of the following does not belong to the group of 4 A's in Alzheimer's Disease?
 Correct.  b  
 Rationale.    Apathy<br>
 This does not belong to the group. Apathy means being not concerned or emotionally attached to things or events. Amnesia is loss of memory, apraxia is inability to determine function or purpose of object. Agnosia is inability to recognize familiar objects.
@@ -53,7 +53,7 @@ b.  Apathy
 c.  Apraxia
 d.  Agnosia
 
-30. Teresa, is a 54-year-old female with intratrochanteric fracture. After her surgical procedure, you have noticed that she is having some confusion. Which of the following would you suspect?
+6. Teresa, is a 54-year-old female with intratrochanteric fracture. After her surgical procedure, you have noticed that she is having some confusion. Which of the following would you suspect?
 Correct.  d  
 Rationale.    Fat embolism<br>
 Fat embolism is caused by trauma on the long bones or burns. The most common cause of fat embolism would be fractures. This syndrome would manifest in a form of shortness of breath until delirium and even coma.
@@ -63,7 +63,7 @@ b.  Effect of anesthesia
 c.  Lack of air
 d.  Fat embolism
 
-31. Which of the following conditions would allow a foreign nurse to practice in the Philippines?
+7. Which of the following conditions would allow a foreign nurse to practice in the Philippines?
 Correct.  d  
 Rationale.    Medical or Surgical missions<br>
 Foreign nurses can practice the nursing profession during medical and surgical mission only. They could not be allowed to practice as nurse educator in a state college since it is a government owned school.
@@ -73,7 +73,7 @@ b.  Visitation in a state college
 c.  Employed only in private hospitals
 d.  Medical or Surgical missions
 
-32. Observing the principle of sterile technique, which of the following would not belong to the group?
+8. Observing the principle of sterile technique, which of the following would not belong to the group?
 Correct.  c 
 Rationale.  Operating room technician<br>
 An operating room technician is in charge of the linens, the materials being needed as well as even the transport of patients. He is considered as not sterile.
@@ -83,7 +83,7 @@ b.  Surgeon
 c.  Operating room technician
 d.  Anaesthetist
 
-33. A compartment syndrome can be detected when the patient complains:
+9. A compartment syndrome can be detected when the patient complains:
 Correct.  b  
 Rationale.    Deep pain<br>
 Deep pain in a fracture, particularly in tibia or forearm fracture is a characteristic feature of compartment syndrome.
@@ -93,7 +93,7 @@ b.  Deep pain
 c.  Phantom pain
 d.  Radiating pain
 
-34. In a head fracture, increase of intracranial pressure can be possible. Which of the following would be other reasons of increased intracranial pressure?
+10. In a head fracture, increase of intracranial pressure can be possible. Which of the following would be other reasons of increased intracranial pressure?
 Correct.  a  
 Rationale.    Localized abscess<br>
 Localized abscess can be a predisposing factor of increase intracranial pressure. The other options does not belong on the known predisposing factor of increased intracranial pressure.
@@ -103,17 +103,17 @@ b.  Diabetes
 c.  Headache
 d.  Tonsillitis
 
-35. A patient came in to a hospital with a history of suicidal attempts. At this time, he ingested 20 sleeping pills. Which of the following would be the priority nursing action?
+11. A patient came in to a hospital with a history of suicidal attempts. At this time, he ingested 20 sleeping pills. Which of the following would be the priority nursing action?
 Correct.  a  
 Rationale.    Assess for consciousness<br>
-the initial nursing action would be focused on the establishment of the patient’s current state of consciousness. When the patient appears to be drowsy, this means that the incident may happen in a few minutes or hours only. The conscious state would be useful for further assessments and procedures.
+the initial nursing action would be focused on the establishment of the patient's current state of consciousness. When the patient appears to be drowsy, this means that the incident may happen in a few minutes or hours only. The conscious state would be useful for further assessments and procedures.
 
 a.  Assess for consciousness
 b.  Assess for vital signs
 c.  Insert NGT
 d.  Insert IV line
 
-36. After a craniotomy, which of the following would be the nursing priority?
+12. After a craniotomy, which of the following would be the nursing priority?
 Correct.  b  
 Rationale.    Preventing increase intracranial pressure<br>
 In craniotomy, increased intracranial pressure is a common problem after the surgery. Nurses must be able to detect it through the blood pressure, as well as on the status of the patient.
@@ -123,11 +123,7 @@ b.  Preventing increase intracranial pressure
 c.  Preventing instability of posture
 d.  Preventing delirium
 
-Nursing Practice 4. Care for Patients with Physiologic and Psychosocial Alterations (PartB)
-
-Situation. 37- 42. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. She is a known diabetic for 20 years with a strong familial history of diabetes mellitus. Upon assessment, her vital signs are: T= 37 C, PR- 90 RR- 24 BP- 140/80; CBG 570 mg/dl.
-
-37. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
+13. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
 She is a known diabetic for 20 years with a strong familial history of diabetes mellitus. 
 Upon assessment, her vital signs are: T= 37 C, PR- 90 RR- 24 BP- 140/80; CBG 570 mg/dl.
 As a nurse, you know that the above initial assessment would reveal that the patient is:
@@ -140,7 +136,7 @@ b.  Decrease sensorium
 c.  Anxious
 d.  None of these
 
-38. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
+14. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
 She is a known diabetic for 20 years with a strong familial history of diabetes mellitus. 
 Upon assessment, her vital signs are: T= 37 C, PR- 90 RR- 24 BP- 140/80; CBG 570 mg/dl.
 A venoclysis has been started with PNSS I litre x 150 cc/hr. Using a microset, how many drops per minute should the line be?
@@ -153,7 +149,7 @@ b.  30 drops per minute
 c.  150 drops per minute
 d.  75 drops per minute
 
-39. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
+15. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
 She is a known diabetic for 20 years with a strong familial history of diabetes mellitus. 
 Upon assessment, her vital signs are: T= 37 C, PR- 90 RR- 24 BP- 140/80; CBG 570 mg/dl.
 Aside from hydration, which of the following would be taken in order to check for Ketoacidosis?
@@ -166,7 +162,7 @@ b.  Capillary Blood Glucose monitoring
 c.  Arterial Blood Gas
 d.  Pulse Oximeter
 
-40. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
+16. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
 She is a known diabetic for 20 years with a strong familial history of diabetes mellitus. 
 Upon assessment, her vital signs are: T= 37 C, PR- 90 RR- 24 BP- 140/80; CBG 570 mg/dl.
 A urine ketone has been ordered.  You know as a nurse that this test is taken in order to:
@@ -179,7 +175,7 @@ b.  To check for presence of ketones in the urine
 c.  To check the quantity of urine being excreted
 d.  To check for the sugar levels in the urine
 
-41. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
+17. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
 She is a known diabetic for 20 years with a strong familial history of diabetes mellitus. 
 Upon assessment, her vital signs are: T= 37 C, PR- 90 RR- 24 BP- 140/80; CBG 570 mg/dl.
 Which of the following will be your nursing action in terms of monitoring the hydration status of the patient?
@@ -192,7 +188,7 @@ b.  Restrict fluids
 c.  Increase oral fluid intake
 d.  Start an IV line with D5NSS
 
-42. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
+18. You are assigned in the emergency room. A 70-year-old female came in complaining of dryness of throat and mouth. 
 She is a known diabetic for 20 years with a strong familial history of diabetes mellitus. 
 Upon assessment, her vital signs are: T= 37 C, PR- 90 RR- 24 BP- 140/80; CBG 570 mg/dl.
 As a nurse, you are needed to formulate nursing diagnoses with Diabetic Ketoacidosis. These are the following correct statements except:
@@ -205,7 +201,7 @@ b.  Altered Level of Consciousness related to acid-base balance
 c.  Altered Level of Consciousness related to ineffective breathing pattern
 d.  Altered Nutrition: Less than body requirements related to diabetes mellitus
 
-43. As a nurse, you can insert in your documentation the following abbreviations which are widely understood by the nursing community except:
+19. As a nurse, you can insert in your documentation the following abbreviations which are widely understood by the nursing community except:
 Correct.  c  
 Rationale.    NOC<br>
 This medical jargon is not allowed in charting. The following three statements are well used throughout the documentation.
@@ -215,7 +211,7 @@ b.  STAT
 c.  NOC
 d.  NPO
 
-44. These are the following assessments needed for fluid status reporting in an adult patient, except:
+20. These are the following assessments needed for fluid status reporting in an adult patient, except:
 Correct.  d  
 Rationale.    Sunken eyeballs<br>
 In an adult patient, the first three options would reveal the fluid status of the patient. Sunken eyeballs are used for pediatric patients only to assess the fluid status.
@@ -225,7 +221,7 @@ b.  Peripheral perfusion
 c.  Mucous membrane
 d.  Sunken eyeballs
 
-45. Upon opening the chart, you came across the ABG result of Patient Joe. These are following parameters: pH= 7.25; PaCO2=50; Bicarbonate= 26. This result reveal:
+21. Upon opening the chart, you came across the ABG result of Patient Joe. These are following parameters: pH= 7.25; PaCO2=50; Bicarbonate= 26. This result reveal:
 Correct.  a  
 Rationale.    Respiratory Acidosis<br>
 This is an example of an acute respiratory acidosis. The pH level is less than 7.35; PaCO2 is more than 45 and the Bicarbonate level is normal (26).
@@ -235,7 +231,7 @@ b.  Respiratory Alkalosis
 c.  Metabolic Acidosis
 d.  Metabolic Alkalosis
 
-46. A plain cranial CT scan has been indicated STAT. When it comes to consent, since the patient is unconscious. Who will be the most liable for the consent?
+22. A plain cranial CT scan has been indicated STAT. When it comes to consent, since the patient is unconscious. Who will be the most liable for the consent?
 Correct.  b  
 Rationale.    His mother<br>
 His mother is the most liable person to perform the consent since she is of legal age and next to his kin. His wife is considered to be minor.
@@ -245,7 +241,7 @@ b.  His mother
 c.  His 18-year-old wife
 d.  His attending physician
 
-47. In the cranial CT scan, a 30 cc bleed has been noted on the temporal lobe. As a nurse, you know that this part of the brain is responsible for except:
+23. In the cranial CT scan, a 30 cc bleed has been noted on the temporal lobe. As a nurse, you know that this part of the brain is responsible for except:
 Correct.  c  
 Rationale.    Smell<br>
 The part of the brain that is responsible for emotions is the hypothalamus . The temporal lobe is responsible for the interpretation of semantics in speech and vision. It is also the area wherein auditory functions are located.
@@ -255,7 +251,7 @@ b.  Speech
 c.  Emotions
 d.  Vision
 
-48. Your hourly monitoring of vital signs show an elevating blood pressure. As a nurse you anticipate to give:
+24. Your hourly monitoring of vital signs show an elevating blood pressure. As a nurse you anticipate to give:
 Correct.  c  
 Rationale.    Mannitol 20%<br>
 Mannitol 20% is ordered in order to reduce the intracranial pressure as evidenced by elevated blood pressure of the patient. Magnesium sulphate and other options are also indicated in order to decrease the blood pressure but with different predisposing factors.
@@ -265,22 +261,22 @@ b.  Apresoline
 c.  Mannitol 20%
 d.  Magnesium Sulfate
 
-49. You are assigned in a psychiatric ward for this rotation. 
+25. You are assigned in a psychiatric ward for this rotation. 
 Your first patient is a 26-year-old, female named Kathleen. 
 She has a history of violent behaviour towards male patients and male nurses. 
 She oftentimes had seen to sing love songs and bursts into laughter alternating with cry spells. 
 She has 5 episodes of suicidal attempts after failing activities.
 On the first day, which of the following statements would encourage Kathleen to respond elaborately?
 Correct.  c  
-Rationale.    “Hello Ms. Kathleen, I am Nora, your new nurse. How are you?”<br>
+Rationale.    "Hello Ms. Kathleen, I am Nora, your new nurse. How are you?"<br>
 This statement is the most appropriate opening line for the orientation phase. Introducing yourself as a nurse may convey authority in a none threatening way. Asking open ended questions can also encourage the patient to elaborate his or her feelings.
 
-a.  “Hello Ms. Kathleen, what a fine day isn’t it?”
-b.  “Hello Ms. Kathleen, time for your new nurse to be talking to you.”
-c.  “Hello Ms. Kathleen, I am Nora, your new nurse. How are you?”
-d.  “Hello Ms. Kathleen, what beautiful voice you have.”
+a.  "Hello Ms. Kathleen, what a fine day isn't it?"
+b.  "Hello Ms. Kathleen, time for your new nurse to be talking to you."
+c.  "Hello Ms. Kathleen, I am Nora, your new nurse. How are you?"
+d.  "Hello Ms. Kathleen, what beautiful voice you have."
 
-50. You are assigned in a psychiatric ward for this rotation. 
+26. You are assigned in a psychiatric ward for this rotation. 
 Your first patient is a 26-year-old, female named Kathleen. 
 She has a history of violent behaviour towards male patients and male nurses. 
 She oftentimes had seen to sing love songs and bursts into laughter alternating with cry spells. 
@@ -295,12 +291,12 @@ b.  Invite other patients
 c.  Plan for a game that would make her satisfied with the result
 d.  Avoid challenging comments to her while at play
 
-51. You are assigned in a psychiatric ward for this rotation. 
+27. You are assigned in a psychiatric ward for this rotation. 
 Your first patient is a 26-year-old, female named Kathleen. 
 She has a history of violent behaviour towards male patients and male nurses. 
 She oftentimes had seen to sing love songs and bursts into laughter alternating with cry spells. 
 She has 5 episodes of suicidal attempts after failing activities.
-After the play, Ms. Kathleen must be taken into the Mess Hall for her dinner. Upon receiving her meal, she whispered to you “The cook is a witch. She is putting some ingredients in our meal to kill us slowly. That is the reason why I wash the fried chicken with water.” As a nurse, you know that this is an example of:
+After the play, Ms. Kathleen must be taken into the Mess Hall for her dinner. Upon receiving her meal, she whispered to you "The cook is a witch. She is putting some ingredients in our meal to kill us slowly. That is the reason why I wash the fried chicken with water." As a nurse, you know that this is an example of:
 Correct.  c  
 Rationale.    delusion of persecution<br>
 This type of delusion describes that a person is like being attacked, harassed, or cheated.
@@ -310,12 +306,12 @@ b.  delusion of negation
 c.  delusion of persecution
 d.  delusion of reference
 
-52. You are assigned in a psychiatric ward for this rotation. 
+28. You are assigned in a psychiatric ward for this rotation. 
 Your first patient is a 26-year-old, female named Kathleen. 
 She has a history of violent behaviour towards male patients and male nurses. 
 She oftentimes had seen to sing love songs and bursts into laughter alternating with cry spells. 
 She has 5 episodes of suicidal attempts after failing activities.
-Ms. Kathleen starts to sing love songs. She then stressed out that “This song is really written for me.” This statement is:
+Ms. Kathleen starts to sing love songs. She then stressed out that "This song is really written for me." This statement is:
 Correct.  b  
 Rationale.    Ideas of reference<br>
 Ideas of reference has a content of holding a feeling that other people not related to him or her is talking or rendering something for him or her personally.
@@ -325,7 +321,7 @@ b.  Ideas of reference
 c.  Ideas of hallucination
 d.  Ideas of illusion
 
-53.As a nurse, these are different therapy groups in which the nurse needs not to be a member. This is:
+29.As a nurse, these are different therapy groups in which the nurse needs not to be a member. This is:
 Correct.  b  
 Rationale.    Alcoholics anonymous<br>
 This type of group includes only people who want to change their behaviour towards alcohol. The nurse need not to be an alcoholic in order to enter this group. He or she is only there in order to make sure that everything is well facilitated and organized.
@@ -335,7 +331,7 @@ b.  Alcoholics anonymous
 c.  Music therapy group
 d.  Horticulture group
 
-54. Henry is a member of the group who controls the worthless talk of his co-worker Pearl. His role in the group is:
+30. Henry is a member of the group who controls the worthless talk of his co-worker Pearl. His role in the group is:
 Correct.  c  
 Rationale.    Blocker<br>
 As a blocker, you are the one who controls the situation when the talking of the topic is leading towards worthless topics.
@@ -345,7 +341,7 @@ b.  Dictator
 c.  Blocker
 d.  Monopolizer
 
-55. Which of these situations appropriately would describe culinary therapy?
+31. Which of these situations appropriately would describe culinary therapy?
 Correct.  c  
 Rationale.    Pia is reading a cookbook and preparing the needed materials for the baking session that is about the begin in 30 minutes.<br>
 Culinary therapy involves the utilization of cooking and baking as a form a therapy to its members.
@@ -355,7 +351,7 @@ b.  Jane is practicing a musical piece for a week now.
 c.  Pia is reading a cookbook and preparing the needed materials for the baking session that is about the begin in 30 minutes.
 d.  Paul finds sketching relaxing and rewarding
 
-56. Mental retardation can be defined as:
+32. Mental retardation can be defined as:
 Correct.  d  
 Rationale.    Sub average intellectual functioning<br>
 Mental retardation is defined as a condition with impairment of sub average intellectual functioning that originates during the developmental period.
@@ -365,7 +361,7 @@ b.  Lack of sensory abilities
 c.  Timidity on mental abilities
 d.  Sub average intellectual functioning
 
-57. As a nurse, you are interested in things that can help you cope with stress and change. Which of the following is a bio-behaviour intervention?
+33. As a nurse, you are interested in things that can help you cope with stress and change. Which of the following is a bio-behaviour intervention?
 Correct.  c  
 Rationale.    Meditation<br>
 Bio-behaviour treatment means that the intervention is focused on the wellness of the body using behavioural techniques.
@@ -375,7 +371,7 @@ b.  Sclerotherapy
 c.  Meditation
 d.  None of the choices
 
-58. Alyssa is prescribed to take Zyprexa.  As a nurse you know that this is indicated for?
+34. Alyssa is prescribed to take Zyprexa.  As a nurse you know that this is indicated for?
 Correct.  a  
 Rationale.    symptoms of self-destruction or impulses<br>
 Antipsychotic drugs ease the dissociative symptoms such as self-destructing behaviours.
@@ -385,7 +381,7 @@ b.  Sleeping problems
 c.  Mood stabilizer
 d.  Eskalith
 
-59. You have noticed Alyssa to be using alcohol whenever she moves. She rubs her palms with alcohol and wants to wash her wound with water for several times. The wound has been packed and no bleeding has been noted.  This behaviour is:
+35. You have noticed Alyssa to be using alcohol whenever she moves. She rubs her palms with alcohol and wants to wash her wound with water for several times. The wound has been packed and no bleeding has been noted.  This behaviour is:
 Correct.  b  
 Rationale.    Neurotic<br>
 This type of behaviour is influenced by phobia and compulsions. The excessing rubbing of hands with alcohol is an example of compulsive behaviour.
@@ -395,7 +391,7 @@ b.  Neurotic
 c.  Psychotic
 d.  Normal
 
-60. As a nurse, you know that Alyssa is in a crisis. Which of following would describe a duration of crisis?
+36. As a nurse, you know that Alyssa is in a crisis. Which of following would describe a duration of crisis?
 Correct.  c  
 Rationale.    4-6 weeks<br>
 A crisis can be described as a stressing event that would occur between several days up to 4 to 6 weeks.

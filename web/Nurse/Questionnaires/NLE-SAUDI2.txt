@@ -8,10 +8,10 @@ Correct.  a
 Rationale.   Angina pectoris is a substernal pain that radiates to the neck, jaw, back and arms and is relieved by rest. 
 Lower abdominal pain may indicate other gastrointestinal problems.
 
-a. “I suddenly felt a pain on my chest which radiates to my back and arms”.
-b. “I suddenly felt a sharp pain on my lower abdomen”.
-c. “The pain does not subside even if I rest”.
-d. “The pain goes all the way down to my stomach”.
+a. "I suddenly felt a pain on my chest which radiates to my back and arms".
+b. "I suddenly felt a sharp pain on my lower abdomen".
+c. "The pain does not subside even if I rest".
+d. "The pain goes all the way down to my stomach".
 
 2. The client from the OR is transferred to the post-anesthesia care unit after surgical repair of abdominal aortic aneurysm. 
 Which of the following assessment findings would indicate that the repair was successful?
@@ -54,7 +54,7 @@ b. The normal CVP is 7 to 9 mmHg.
 c. The zero point on the transducer needs to be at the level of the left atrium.
 d. The client needs to be supine, with the head of the bed elevated at 45 degrees.
 
-5. The client’s ECG tracing shows ventricular tachycardia secondary to low magnesium level. 
+5. The client's ECG tracing shows ventricular tachycardia secondary to low magnesium level. 
 Which of the following electrocardiogram tracing results is consistent with this finding?
 Correct. d  
 Rationale.  In hypokalemia, the electrocardiogram may show flattening and inversion of the T wave, the appearance of a U wave, and ST depression. 
@@ -79,10 +79,10 @@ Which of the following are correct instructions given by the nurse? Select All T
 Correct.  a
 Rationale.  Loading of drug depends on the type of dry powder inhaler. Take note that some dry powder inhalers do not require loading. 
 Dry powder inhalers are kept dry always and are place at room temperature. Never shake a dry powder inhaler. 
-It is not a pressurized container. There is no propellant, only the client’s breath can pull the drug in. 
+It is not a pressurized container. There is no propellant, only the client's breath can pull the drug in. 
 Because the drug is a dry powder and there is no propellant, the client will not feel, smell, or taste the drug during inhalation. 
-The client’s breath will moisten the powder causing it to clump and not be delivered accurately. 
-Immediately after inhalation of drug, the inhaler must be removed from the client’s mouth to prevent moisture.
+The client's breath will moisten the powder causing it to clump and not be delivered accurately. 
+Immediately after inhalation of drug, the inhaler must be removed from the client's mouth to prevent moisture.
 
 a. a, b, e
 b. d, b, e
@@ -96,7 +96,7 @@ Which of the following are appropriate nursing actions? Select All That Apply.
 		<br>c. Keep chest tube as straight as possible.
 		<br>d. Notify the physician of drainage is greater than 70mL/hr.
 		<br>e. Assess bubbling in the water seal chamber.
-		<br>f. Keep drainage system at the level of the client’s chest
+		<br>f. Keep drainage system at the level of the client's chest
 
 Correct. a
 Rationale.  Stripping is not allowed. Also when changing the drainage system or when checking air leaks, clamp the chest tube for short periods only. 
@@ -141,13 +141,13 @@ d. Initiate IV access.
 10. The nurse is providing home instructions to a client with increased adrenocorticotrophic hormone. 
 The nurse is aware that the client with excessive corticosteroids is suffering from what condition?
 Correct. a  
-Rationale.  Cushing’s syndrome is clinically defined as the presence of excessive corticosteroids. 
-Addison’s disease is clinically defined as adrenocortical insufficiency. 
+Rationale.  Cushing's syndrome is clinically defined as the presence of excessive corticosteroids. 
+Addison's disease is clinically defined as adrenocortical insufficiency. 
 Hypothyroidism is a condition wherein there is insufficient thyroid hormone produced by the thyroid glands while SIADH is characterized 
 by excessive release of anti-diuretic hormone.
 
-a. Cushing’s syndrome
-b. Addison’s disease
+a. Cushing's syndrome
+b. Addison's disease
 c. Hypothyroidism
 d. SIADH
 
@@ -186,7 +186,7 @@ d. a, b, c, d and f
 13. Nursing interventions commonly performed when the client is experiencing Autonomic Dysreflexia will include the following. Select all that apply.
 		<br>a. Use digital stimulation to empty the bowel.
 		<br>b. Have the client sit up straight and raise his head so that he is looking ahead.
-		<br>c. Remove client’s stockings or socks.
+		<br>c. Remove client's stockings or socks.
 		<br>d. Manually compress or tap the bladder to allow urine to flow down the catheter.
 		<br>e. Administer prescribed vasodilators.
 Correct. a
@@ -213,7 +213,7 @@ b. Prolonged inspirations with inspiratory and /or expiratory pauses
 c. Sustained regular rapid respirations of increased depth
 d. Rhythmic waxing and waning of both rate and depth of respiration with brief periods of interspersed apnea
 
-15. The physician is assessing the client’s sensorium by using the Glasgow Coma Scale. Which of the following is true about the Glasgow Coma Scale?
+15. The physician is assessing the client's sensorium by using the Glasgow Coma Scale. Which of the following is true about the Glasgow Coma Scale?
 Correct. d  
 Rationale.  The lowest possible score for any response is 1. If a client is unresponsive to painful stimuli, the score is 1. 
 A score lower than 8 indicates that the client is in a comatose state. The highest score for the GCS is 15. 
@@ -224,12 +224,12 @@ b. A score lower than 10 indicates that the client is in a coma.
 c. A score of 8 indicates that the client is alert and oriented.
 d. A score of 4 indicates that the client sustained severe head trauma.
 
-16. The nurse on duty is caring for a client with Amyotrophic Lateral Sclerosis and is concerned with the client’s impaired physical mobility. 
+16. The nurse on duty is caring for a client with Amyotrophic Lateral Sclerosis and is concerned with the client's impaired physical mobility. 
 The following nursing interventions are geared towards maintaining optimal physical mobility EXCEPT:
 Correct. d  
 Rationale.  Helping the client maintain an exercise program is a therapeutic intervention to maintain joint mobility and good body alignment. 
 This will also prevent venous stasis due to impaired mobility. 
-Client encouragement will not only address the physical aspect of the disease but the client’s emotions and self-esteem as well. 
+Client encouragement will not only address the physical aspect of the disease but the client's emotions and self-esteem as well. 
 The safety of the client with impaired physical mobility should always be considered. Continuous physical activity is not recommended. 
 There should be an alternate period of activity and rest to prevent excessive fatigue.
 
@@ -252,14 +252,14 @@ b. Expressive Aphasia
 c. Global aphasia
 d. Apraxia
 
-18. The client diagnosed with Alzheimer’s disease is starting to show signs and symptoms. The nurse wants to assess for graphesthesia. This is performed by:
+18. The client diagnosed with Alzheimer's disease is starting to show signs and symptoms. The nurse wants to assess for graphesthesia. This is performed by:
 Correct. b  
 Rationale.  Graphesthesia is the ability to identify the writing on the skin even with the eyes closed. The client provides a verbal response, 
 identifying the figure that was drawn. Option A is a test for stereognosis. 
-Option C is a test used to assess the Romberg’s sign while option D is a test for Kernig’s sign.
+Option C is a test used to assess the Romberg's sign while option D is a test for Kernig's sign.
 
-a. Testing for the client’s ability to identify an object that is placed on the hand with eyes closed.
-b. Testing for the client’s ability to recognize the written letter or number in the client’s skin while the eyes are closed.
+a. Testing for the client's ability to identify an object that is placed on the hand with eyes closed.
+b. Testing for the client's ability to recognize the written letter or number in the client's skin while the eyes are closed.
 c. Making the client stand, with the arms at the side, feet together, with the eyes open and then closed. The client is then observed for any swaying.
 d. Testing for the presence of pain once the leg is flexed at the hip, and then extended.
 
@@ -278,14 +278,14 @@ b. A well regulated IV infusion and timely administration of antibiotics.
 c. Vaccination of Hib and other remaining vaccines to complete required immunizations.
 d. Avoiding any throat examination or agitation of the child.
 
-20. The physician prescribed Clarithromycin (Biaxin) 250mg BID x 7 days for the client’s infection. 
+20. The physician prescribed Clarithromycin (Biaxin) 250mg BID x 7 days for the client's infection. 
 Incorrect drug frequency and duration would cause inaccurate transfer time of the drug to specific tissues in the body. 
 The nurse explains to the client that accumulation of the drug in specific tissues is the concept of:
 Correct. b  
 Rationale.  Absorption is the process when the drug is transferred from the site of origin into the bloodstream. 
 Distribution occurs when the drug in the blood is distributed to different parts of the body and accumulates in specific tissues. 
 Metabolism or biotransformation is the process wherein the drug is broken down into its inactive form. 
-Excretion is the body’s response to eliminate all the inactive form of the drug.
+Excretion is the body's response to eliminate all the inactive form of the drug.
 
 a. Absorption
 b. Distribution
@@ -306,7 +306,7 @@ b. Vastus lateralis
 c. Deltoid muscle
 d. Dorsogluteal
 
-22. The client presented with complaint of leg cramps. Upon checking the client’s chart, 
+22. The client presented with complaint of leg cramps. Upon checking the client's chart, 
 the nurse noted that the client is hypertensive and is prescribed with a Thiazide diuretic. The appropriate nursing intervention for this client is:
 Correct. b  
 Rationale.  Prescribing or stopping medications is the responsibility of the physician, thus the nurse must refer this first. 
@@ -321,15 +321,15 @@ d. Give the client a non-steroidal anti-inflammatory drug (NSAID)
 the labor nurse applies gentle pressure over the perineum and fetal head. The maneuver performed is called:
 Correct. d  
 Rationale.  The brandt-andrew maneuver is the proper extraction of the umbilical cord and placenta. 
-McRobert’s maneuver is performed in case of shoulder dystocia during childbirth. 
+McRobert's maneuver is performed in case of shoulder dystocia during childbirth. 
 The Schultz mechanism is used to describe placental delivery. 
-The Ritgen’s maneuver is performed by applying pressure over the perineum and counter-pressure on the fetal head. 
-The Ritgen’s maneuver controls the exit of the fetal head and prevents severe damage to maternal tissues.
+The Ritgen's maneuver is performed by applying pressure over the perineum and counter-pressure on the fetal head. 
+The Ritgen's maneuver controls the exit of the fetal head and prevents severe damage to maternal tissues.
 
-a. Brandt-Andrew’s maneuver
-b. McRobert’s maneuver
+a. Brandt-Andrew's maneuver
+b. McRobert's maneuver
 c. Schultz mechanism
-d. Ritgen’s maneuver
+d. Ritgen's maneuver
 
 24. The nurse is monitoring the condition of the postpartum client. As a part of the postpartum adaptations, 
 the nurse monitors for descent of the uterus and expects the fundus to be:
@@ -346,7 +346,7 @@ Which of the following conditions would the nurse suspect?
 Correct. b  
 Rationale.  In Somatoform Disorder, there is no real organ damage, but the client verbalizes symptoms of a disease in an unconscious manner. 
 In Malingering, verbalization of symptoms of a disease is conscious and is used by the client to achieve a secondary gain or benefit. 
-Anxiety comes in many forms panic attacks, phobia, and social anxiety and the distinction between a disorder and “normal” anxiety isn’t always clear. 
+Anxiety comes in many forms panic attacks, phobia, and social anxiety and the distinction between a disorder and "normal" anxiety isn't always clear. 
 Amnesia refers to the loss of memories, such as facts, information and experiences.
 
 a. Somatoform Disorder
@@ -393,7 +393,7 @@ d. The skin is reddened.
 The nurse noted impulsive and brief muscle twitching of the face and the limbs. This finding is called:
 Correct. b  
 Rationale.  Tremor is clinically defined as the rhythmic and repetitive muscle movement. 
-Chorea is clinically defined as brief and involuntary muscle twitching of the face or limbs which hinders the client’s mobility. 
+Chorea is clinically defined as brief and involuntary muscle twitching of the face or limbs which hinders the client's mobility. 
 Athetosis is clinically defined as the presence of irregular and slow twisting motions. 
 Dystonia is similar to the definition of Athetosis but involves larger muscle areas.
 
@@ -408,10 +408,10 @@ Correct. c
 Rationale.  Standing close to the working area is a proper body mechanic to prevent muscle fatigue. 
 The nurse should adjust the bed to waist level in order to prevent stretching and muscle strain. 
 Proper body mechanic includes turning the body as a whole unit when moving the client to avoid twisting the back. 
-The knees are bent to support the body’s center of gravity and maintain body balance. 
+The knees are bent to support the body's center of gravity and maintain body balance. 
 Bending the knees will provide a wider base of support for effective leverage and use of energy.
 
-a. Stand at arm’s length from the working area.
+a. Stand at arm's length from the working area.
 b. Elevate adjustable beds to hip level.
 c. Swivel the body when moving the client.
 d. Move the client with wide base and straight knees.

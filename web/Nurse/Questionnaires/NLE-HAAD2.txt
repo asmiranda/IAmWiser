@@ -2,7 +2,7 @@ CATEGORY: NURSE
 TOPIC: NURSE-HAAD
 TOPIC_CODE: NURSE-HAAD
 
-1. The client is brought to the emergency department due to drug poisoning. Which of the following nursing interventions is most effective in the management of the client’s condition?
+1. The client is brought to the emergency department due to drug poisoning. Which of the following nursing interventions is most effective in the management of the client's condition?
 Correct.  b  
 Rationale.  Activated charcoal<br>
 The administration of activated charcoal is the most effective in the management of poisoning because it absorbs chemicals in the gastrointestinal tract, thus reducing its toxicity.
@@ -24,12 +24,12 @@ d. Tularemia
 
 3. A client is given Morphine 6 mg IV push after the surgery. Moments later, the client is sleeping quietly and the vital signs are as follows: Pulse: 69 bpm, Respiration rate: 7 cpm, BP: 100/60 mmHg. Which of the following nursing actions is the priority this time?
 Correct.  c  
-Rationale.  Administer naloxone (Narcan) per physician’s order.
+Rationale.  Administer naloxone (Narcan) per physician's order.
 This is given to reverse respiratory depression.
 
 a. Let the client rest.
 b. Administer oxygen.
-c. Administer naloxone (Narcan) per physician’s order.
+c. Administer naloxone (Narcan) per physician's order.
 d. Place epinephrine at the bedside.
 
 4. The nurse is assessing the fluid status of a client receiving IV fluids after surgery. Which of the following symptoms indicate fluid volume overload?
@@ -76,7 +76,7 @@ b. Client with diminished kidney function.
 c. Client diagnosed with congestive heart failure.
 d. Client attached to a colostomy bag.
 
-8. A pediatric client is for discharge after a plaster cast is applied on the left forearm. Which of the following should the nurse include in the home care instructions to be provided to the client’s parent? Select all that apply.
+8. A pediatric client is for discharge after a plaster cast is applied on the left forearm. Which of the following should the nurse include in the home care instructions to be provided to the client's parent? Select all that apply.
 		<br>a. To lift the cast while it is drying, use the fingertips.
 		<br>b. Keep sharp objects and small toys far from the cast.
 		<br>c. Use padded objects to scratch itchy parts under the cast.
@@ -93,27 +93,27 @@ d. a, b and f
 
 9. The school nurse is conducting a health teaching to a group of parents about poison prevention at home. A mother asks the nurse about the initial step in case of poison ingestion. Which of the following responses if made by the nurse is incorrect?
 Correct.  b  
-Rationale.  “Induce vomiting if your child swallows lighter fluid.”
-Vomiting is contraindicated if hydrocarbons such as lighter fluid is ingested. This increases the client’s risk for aspiration.
+Rationale.  "Induce vomiting if your child swallows lighter fluid."
+Vomiting is contraindicated if hydrocarbons such as lighter fluid is ingested. This increases the client's risk for aspiration.
 
-a. “Give a bottle if Ipecac to your child to induce vomiting.”
-b. “Induce vomiting if your child swallows lighter fluid.”
-c. “Give your child water or milk to dilute the poison.”
-d. “Store harmful chemicals in hard to reach areas.”
+a. "Give a bottle if Ipecac to your child to induce vomiting."
+b. "Induce vomiting if your child swallows lighter fluid."
+c. "Give your child water or milk to dilute the poison."
+d. "Store harmful chemicals in hard to reach areas."
 
 10. A patient underwent surgery where skin grafting was done and a drain was placed temporarily. The nurse in charge after the operation should know how to assess the skin graft. Which of the following assessments would suggest an abnormal skin graft?
 Correct.  d  
-Rationale.  Graft has a different color from patient’s skin<br>
-The skin graft should have the same color with the patient’s skin. Discoloration indicates poor perfusion to the skin graft.
+Rationale.  Graft has a different color from patient's skin<br>
+The skin graft should have the same color with the patient's skin. Discoloration indicates poor perfusion to the skin graft.
 
 a. The graft is warm to touch
 b. Brisk capillary refill is noted
 c. Sanguinous fluid at the surgical drain
-d. Graft has a different color from patient’s skin
+d. Graft has a different color from patient's skin
 
 11. The client is admitted to a psychiatric unit with a diagnosis of undifferentiated schizophrenia. To cope up with anxiety, the nurse knows that the client will probably use which of the following defense mechanism?
 Correct.  c  
-Rationale.  Regression is characterized by a return to earlier behavior (such as in childhood. to reduce anxiety is the basic defense mechanism in undifferentiated schizophrenia. Projection involves blaming others and is related to paranoid schizophrenia. Rationalization involves justification of one’s actions. Repression is the basic defense mechanism in neuroses.
+Rationale.  Regression is characterized by a return to earlier behavior (such as in childhood. to reduce anxiety is the basic defense mechanism in undifferentiated schizophrenia. Projection involves blaming others and is related to paranoid schizophrenia. Rationalization involves justification of one's actions. Repression is the basic defense mechanism in neuroses.
 
 a. Projection
 b. Rationalization
@@ -122,7 +122,7 @@ d. Repression
 
 12. The client in the psychiatric unit is copying and imitating the movements of the nurse. During recovery, the client verbalized thoughts that the nurse is like a mirror and felt connected with the nurse. This behavior is known by which of the following terms?
 Correct.  a  
-Rationale.  Echopraxia is the copying and imitating of another’s behaviours and is related to the lost of ego boundaries. Ego-syntonicity are behaviours that correspond with the person’s sense of self. Modeling is the conscious copying or imitating of someone’s behaviors. Ritualism refers to repetitive and compulsive behaviors.
+Rationale.  Echopraxia is the copying and imitating of another's behaviours and is related to the lost of ego boundaries. Ego-syntonicity are behaviours that correspond with the person's sense of self. Modeling is the conscious copying or imitating of someone's behaviors. Ritualism refers to repetitive and compulsive behaviors.
 
 a. Echopraxia
 b. Ego-syntonicity
@@ -169,15 +169,15 @@ b. Exaggerated deep tendon reflexes
 c. Urinary output of 180 ml for 8 hours
 d. Respiratory rate or 16/min
 
-17. A G2P2 patient gave birth to a preterm baby boy. Twelve hours after delivery, she noted yellowish discoloration on her baby’s skin and eyes. She is worried and asked the nurse about the cause of her baby’s condition. What is the most appropriate response for the nurse to give?
+17. A G2P2 patient gave birth to a preterm baby boy. Twelve hours after delivery, she noted yellowish discoloration on her baby's skin and eyes. She is worried and asked the nurse about the cause of her baby's condition. What is the most appropriate response for the nurse to give?
 Correct.  d  
-Rationale.  Breastfeed your baby frequently while we further assess your baby’s condition.<br>
+Rationale.  Breastfeed your baby frequently while we further assess your baby's condition.<br>
 The jaundice occurred twelve hours after birth, which needs further investigation and management. Frequent breastfeeding will provide nutrient needs and enhances bilirubin excretion.
 
 a. Early onset breast milk jaundice is common in breastfed infants.
-b. Don’t worry, jaundice is normal after birth.
+b. Don't worry, jaundice is normal after birth.
 c. Your baby was delivered preterm that is why he has jaundice.
-d. Breastfeed your baby frequently while we further assess your baby’s condition.
+d. Breastfeed your baby frequently while we further assess your baby's condition.
 
 18. Prior to vaginal examination, the nurse reviews the care of intrapartum clients. Which one of the following statements is true about cervical changes in a primipara client?
 Correct.  a  
@@ -214,7 +214,7 @@ Correct.  b
 Rationale.  Decrease in atmospheric oxygen stimulates erythropoiesis.<br>
 Clients residing at a higher altitude have less atmospheric oxygen available that is why RBC production is stimulated and enhanced to cope up with the environment.
 
-a. Higher altitude changes the body’s absorption of essential nutrients.
+a. Higher altitude changes the body's absorption of essential nutrients.
 b. Decrease in atmospheric oxygen stimulates erythropoiesis.
 c. RBC sequestration of the spleen is impaired in higher altitudes.
 d. Limited production of leukocytes and platelets in higher altitudes makes the ratio of RBC higher.
@@ -222,7 +222,7 @@ d. Limited production of leukocytes and platelets in higher altitudes makes the 
 22. The nurse is assessing muscle coordination and mobility of the client with musculoskeletal disorder. The nurse noted impulsive and brief muscle twitching of the face and the limbs. The finding would be noted as:
 Correct.  b  
 Rationale.  Chorea<br>
-Chorea is clinically defined as brief and involuntary muscle twitching of the face or limbs which hinders the client’s mobility.
+Chorea is clinically defined as brief and involuntary muscle twitching of the face or limbs which hinders the client's mobility.
 
 a. Tremor
 b. Chorea
@@ -234,7 +234,7 @@ Correct.  c
 Rationale.  Swivel the body when moving the client.<br>
 Proper body mechanic includes turning the body as a whole unit when moving the client to avoid twisting the back.
 
-a. Stand at arm’s length from the working area.
+a. Stand at arm's length from the working area.
 b. Elevate adjustable beds to hip level.
 c. Swivel the body when moving the client.
 d. Move the client with wide base and straight knees.
@@ -267,7 +267,7 @@ This is a nursing intervention for Myasthenia Gravis due to difficulty swallowin
 a. Monitor duration of stiffness and not the intensity to determine when to perform ROM.
 b. When swallowing is difficult, give semi-solid foods instead of liquids to lessen the risk of choking.
 c. Have the client sleep with a pillow between the trunk and arm to decrease tension on the supraspinatus tendon and to prevent blood flow compromise in its watershed region.
-d. Position the client in a semi-fowler’s position to relieve dyspnea.
+d. Position the client in a semi-fowler's position to relieve dyspnea.
 
 27. The client arrived in the clinic for a follow up visit regarding Tendonitis. The client informed the physician that the pain was not relieved with rest, ice, compression and elevation. Which of the following interventions might be the next order of the physician for the client?
 Correct.  b  
@@ -299,9 +299,9 @@ b. Schedule the client for emergency surgery.
 c. Recheck pedal pulses with a Doppler.
 d. Assess the apical and radial pulses for any irregularity.
 
-30. The client asks the nurse about Raynaud’s disease. Which of the following would be a suitable definition of Raynaud’s disease?
+30. The client asks the nurse about Raynaud's disease. Which of the following would be a suitable definition of Raynaud's disease?
 Correct.  a  
-Rationale.  It is the constriction of the cutaneous vessels due to the vasospasm of the arterioles and the arteries of the upper and lower extremities. Raynaud’s disease affects primarily the fingers, toes, ears and cheeks due to the vasospasm of the arterioles and the arteries of the upper and lower extremities. It therefore causes numbness, tingling, sweating and coldness of the affected body part.
+Rationale.  It is the constriction of the cutaneous vessels due to the vasospasm of the arterioles and the arteries of the upper and lower extremities. Raynaud's disease affects primarily the fingers, toes, ears and cheeks due to the vasospasm of the arterioles and the arteries of the upper and lower extremities. It therefore causes numbness, tingling, sweating and coldness of the affected body part.
 
 a. It is the constriction of the cutaneous vessels due to the vasospasm of the arterioles and the arteries of the upper and lower extremities.
 b. It is an occlusive disease of the median and small arteries and veins.
@@ -320,13 +320,13 @@ d. Fourth degree AV block
 
 32. The client presented with complaints of headache accompanied with mild chest pain that is recurring every 5 hours for the last 2 weeks. Which of the following nursing action should take priority?
 Correct.  d  
-Rationale.  Take client’s vital signs.<br>
+Rationale.  Take client's vital signs.<br>
 This action provides a baseline wherein further interventions can be based.
 
 a. A complete health history with emphasis on preceding events.
 b. Chest exam with auscultation
 c. An electrocardiogram
-d. Take client’s vital signs.
+d. Take client's vital signs.
 
 33. The pediatric client is diagnosed with a congenital heart disorder. Most infants having this condition experience difficulty with feeding, failure to thrive and bluish discoloration of the skin. This congenital condition is called:
 Correct.  c  
@@ -336,7 +336,7 @@ Tetralogy of Fallot is one of the most common congenital heart disorders. Infant
 a. Ventricular septal defect (VSd.
 b. Atrioventricular septal defect (AVSd.
 c. Tetralogy of Fallot (Tof.
-d. Ebstein’s Anomaly
+d. Ebstein's Anomaly
 
 34. The client who recently suffered from a myocardial infarction is brought to the emergency department for further assessment. The client will most likely have elevated serum levels of:
 Correct.  a  

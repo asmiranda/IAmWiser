@@ -58,7 +58,7 @@ b.  Person, health, nursing, support systems
 c.  Person, health, psychology, nursing 
 d.  Person, environment, health, nursing 
 
-7. In Maslow’s hierarchy of physiologic needs, the human need of greatest priority is: 
+7. In Maslow's hierarchy of physiologic needs, the human need of greatest priority is: 
 Correct. d 
 Rationale.  Maslow, who defined a need as a satisfaction whose absence causes illness, considered oxygen to be the most important physiologic need; without it, human life could not exist. According to this theory, other physiologic needs (including food, water, elimination, shelter, rest and sleep, activity and temperature regulation) must be met before proceeding to the next hierarchical levels on psychosocial needs. 
 
@@ -69,7 +69,7 @@ d.  Oxygen
 
 8. The family of an accident victim who has been declared brain-dead seems amenable to organ donation. What should the nurse do? 
 Correct. b 
-Rationale.  The brain-dead patient’s family needs support and reassurance in making a decision about organ donation. Because transplants are done within hours of death, decisions about organ donation must be made as soon as possible. However, the family’s concerns must be addressed before members are asked to sign a consent form. The body of an organ donor is available for burial. 
+Rationale.  The brain-dead patient's family needs support and reassurance in making a decision about organ donation. Because transplants are done within hours of death, decisions about organ donation must be made as soon as possible. However, the family's concerns must be addressed before members are asked to sign a consent form. The body of an organ donor is available for burial. 
 
 a.  Discourage them from making a decision until their grief has eased 
 b.  Listen to their concerns and answer their questions honestly 
@@ -105,7 +105,7 @@ d.  None of the above
 
 12.  If patient asks the nurse her opinion about a particular physicians and the nurse replies that the physician is incompetent, the nurse could be held liable for: 
 Correct. a 
-Rationale.  Oral communication that injures an individual’s reputation is considered slander. Written communication that does the same is considered libel. 
+Rationale.  Oral communication that injures an individual's reputation is considered slander. Written communication that does the same is considered libel. 
 
 a.  Slander 
 b.  Libel 
@@ -123,7 +123,7 @@ d.  Malpractice
 
 14.  Which of the following is an example of nursing malpractice? 
 Correct. a 
-Rationale.  The three elements necessary to establish a nursing malpractice are nursing error (administering penicillin to a patient with a documented allergy to the drug), injury (cerebral damage), and proximal cause (administering the penicillin caused the cerebral damage). Applying a hot water bottle or heating pad to a patient without a physician’s order does not include the three required components. Assisting a patient out of bed with the bed locked in position is the correct nursing practice; therefore, the fracture was not the result of malpractice. Administering an incorrect medication is a nursing error; however, if such action resulted in a serious illness or chronic problem, the nurse could be sued for malpractice. 
+Rationale.  The three elements necessary to establish a nursing malpractice are nursing error (administering penicillin to a patient with a documented allergy to the drug), injury (cerebral damage), and proximal cause (administering the penicillin caused the cerebral damage). Applying a hot water bottle or heating pad to a patient without a physician's order does not include the three required components. Assisting a patient out of bed with the bed locked in position is the correct nursing practice; therefore, the fracture was not the result of malpractice. Administering an incorrect medication is a nursing error; however, if such action resulted in a serious illness or chronic problem, the nurse could be sued for malpractice. 
 
 a.  The nurse administers penicillin to a patient with a documented history of allergy to the drug. The patient experiences an allergic reaction and has cerebral damage resulting from anoxia. 
 b.  The nurse applies a hot water bottle or a heating pad to the abdomen of a patient with abdominal cramping. 
@@ -177,7 +177,7 @@ d.  Side-lying
 
 20.  For a rectal examination, the patient can be directed to assume which of the following positions? 
 Correct. d 
-Rationale.  All of these positions are appropriate for a rectal examination. In the genupectoral (knee-chest) position, the patient kneels and rests his chest on the table, forming a 90 degree angle between the torso and upper legs. In Sims’ position, the patient lies on his left side with the left arm behind the body and his right leg flexed. In the horizontal recumbent position, the patient lies on his back with legs extended and hips rotated outward. 
+Rationale.  All of these positions are appropriate for a rectal examination. In the genupectoral (knee-chest) position, the patient kneels and rests his chest on the table, forming a 90 degree angle between the torso and upper legs. In Sims' position, the patient lies on his left side with the left arm behind the body and his right leg flexed. In the horizontal recumbent position, the patient lies on his back with legs extended and hips rotated outward. 
 
 a.  Genupecterol 
 b.  Sims 
@@ -193,7 +193,7 @@ b.  Standing
 c.  Genupectoral 
 d.  Trendelenburg 
 
-22.  If a patient’s blood pressure is 150/96, his pulse pressure is: 
+22.  If a patient's blood pressure is 150/96, his pulse pressure is: 
 Correct. a 
 Rationale.  The pulse pressure is the difference between the systolic and diastolic blood pressure readings – in this case, 54. 
 
@@ -220,7 +220,7 @@ b.  Rhythm
 c.  Symmetry 
 d.  All of the above 
 
-25.  A 38-year old patient’s vital signs at 8 a.m. are axillary temperature 99.6 F (37.6 C); pulse rate, 88; respiratory rate, 30. Which findings should be reported? 
+25.  A 38-year old patient's vital signs at 8 a.m. are axillary temperature 99.6 F (37.6 C); pulse rate, 88; respiratory rate, 30. Which findings should be reported? 
 Correct. d 
 Rationale.  Under normal conditions, a healthy adult breathes in a smooth uninterrupted pattern 12 to 20 times a minute. Thus, a respiratory rate of 30 would be abnormal. A normal adult body temperature, as measured on an oral thermometer, ranges between 97° and 100°F (36.1° and 37.8°C); an axillary temperature is approximately one degree lower and a rectal temperature, one degree higher. Thus, an axillary temperature of 99.6°F (37.6°C) would be considered abnormal. The resting pulse rate in an adult ranges from 60 to 100 beats/minute, so a rate of 88 is normal. 
 
@@ -265,12 +265,12 @@ b.  An 88-year old incontinent patient with gastric cancer who is confined to hi
 c.  An apathetic 63-year old COPD patient receiving nasal oxygen via cannula 
 d.  A confused 78-year old patient with congestive heart failure (CHF) who requires assistance to get out of bed. 
 
-30.  The physician orders the administration of high-humidity oxygen by face mask and placement of the patient in a high Fowler’s position. After assessing Mrs. Paul, the nurse writes the following nursing diagnosis: Impaired gas exchange related to increased secretions. Which of the following nursing interventions has the greatest potential for improving this situation? 
+30.  The physician orders the administration of high-humidity oxygen by face mask and placement of the patient in a high Fowler's position. After assessing Mrs. Paul, the nurse writes the following nursing diagnosis: Impaired gas exchange related to increased secretions. Which of the following nursing interventions has the greatest potential for improving this situation? 
 Correct. a 
 Rationale.  Adequate hydration thins and loosens pulmonary secretions and also helps to replace fluids lost from elevated temperature, diaphoresis, dehydration and dyspnea. High- humidity air and chest physiotherapy help liquefy and mobilize secretions. 
 
 a.  Encourage the patient to increase her fluid intake to 200 ml every 2 hours 
-b.  Place a humidifier in the patient’s room. 
+b.  Place a humidifier in the patient's room. 
 c.  Continue administering oxygen by high humidity face mask 
 d.  Perform chest physiotheraphy on a regular schedule 
 
@@ -285,10 +285,10 @@ d.  Pantothenic acid
 
 32.  Which of the following statement is incorrect about a patient with dysphagia? 
 Correct. c 
-Rationale.  A patient with dysphagia (difficulty swallowing) requires assistance with feeding. Feeding himself is a long-range expected outcome. Soft foods, Fowler’s or semi-Fowler’s position, and oral hygiene before eating should be part of the feeding regimen. 
+Rationale.  A patient with dysphagia (difficulty swallowing) requires assistance with feeding. Feeding himself is a long-range expected outcome. Soft foods, Fowler's or semi-Fowler's position, and oral hygiene before eating should be part of the feeding regimen. 
 
 a.  The patient will find pureed or soft foods, such as custards, easier to swallow than water 
-b.  Fowler’s or semi Fowler’s position reduces the risk of aspiration during swallowing 
+b.  Fowler's or semi Fowler's position reduces the risk of aspiration during swallowing 
 c.  The patient should always feed himself 
 d.  The nurse should perform oral hygiene before assisting with feeding. 
 
@@ -330,12 +330,12 @@ d.  Pain related to immobilization of affected leg.
 
 37.  Mrs. Lim begins to cry as the nurse discusses hair loss. The best response would be: 
 Correct. d 
-Rationale.  “I know this will be difficult” acknowledges the problem and suggests a resolution to it. “Don’t worry..” offers some relief but doesn’t  recognize the patient’s feelings. “..I didn’t get to the bad news yet” would be inappropriate at any time. “Your hair is really pretty” offers no consolation or alternatives to the patient. 
+Rationale.  "I know this will be difficult" acknowledges the problem and suggests a resolution to it. "Don't worry.." offers some relief but doesn't  recognize the patient's feelings. "..I didn't get to the bad news yet" would be inappropriate at any time. "Your hair is really pretty" offers no consolation or alternatives to the patient. 
 
-a.  “Don’t worry. It’s only temporary” 
-b.  “Why are you crying? I didn’t get to the bad news yet” 
-c.  “Your hair is really pretty” 
-d.  “I know this will be difficult for you, but your hair will grow back after the completion of chemotheraphy” 
+a.  "Don't worry. It's only temporary" 
+b.  "Why are you crying? I didn't get to the bad news yet" 
+c.  "Your hair is really pretty" 
+d.  "I know this will be difficult for you, but your hair will grow back after the completion of chemotheraphy" 
 
 38.  An additional Vitamin C is required during all of the following periods except: 
 Correct. b 
@@ -366,9 +366,9 @@ d.  Muscle irritability
 
 41.  Which of the following nursing interventions promotes patient safety? 
 Correct. d 
-Rationale.  Assisting a patient with ambulation and transfer from a bed to a chair allows the nurse to evaluate the patient’s ability to carry out these functions safely. Demonstrating the signal system and providing an opportunity for a return demonstration ensures that the patient knows how to operate the equipment and encourages him to call for assistance when needed. Checking the patient’s identification band verifies the patient’s identity and prevents identification mistakes in drug administration. 
+Rationale.  Assisting a patient with ambulation and transfer from a bed to a chair allows the nurse to evaluate the patient's ability to carry out these functions safely. Demonstrating the signal system and providing an opportunity for a return demonstration ensures that the patient knows how to operate the equipment and encourages him to call for assistance when needed. Checking the patient's identification band verifies the patient's identity and prevents identification mistakes in drug administration. 
 
-a.  Asses the patient’s ability to ambulate and transfer from a bed to a chair 
+a.  Asses the patient's ability to ambulate and transfer from a bed to a chair 
 b.  Demonstrate the signal system to the patient 
 c.  Check to see that the patient is wearing his identification band 
 d.  All of the above 
@@ -420,16 +420,16 @@ d.  All of the above
 
 47.  Which of the following is the most common cause of dementia among elderly persons? 
 Correct. d 
-Rationale.  Alzheimer;s disease, sometimes known as senile dementia of the Alzheimer’s type or primary degenerative dementia, is an insidious; progressive, irreversible, and degenerative disease of the brain whose etiology is still unknown. Parkinson’s disease is a neurologic disorder caused by lesions in the extrapyramidial system and manifested by tremors, muscle rigidity, hypokinesis, dysphagia, and dysphonia. Multiple sclerosis, a progressive, degenerative disease involving demyelination of the nerve fibers, usually begins in young adulthood and is marked by periods of remission and exacerbation. Amyotrophic lateral sclerosis, a disease marked by progressive degeneration of the neurons, eventually results in atrophy of all the muscles; including those necessary for respiration. 
+Rationale.  Alzheimer;s disease, sometimes known as senile dementia of the Alzheimer's type or primary degenerative dementia, is an insidious; progressive, irreversible, and degenerative disease of the brain whose etiology is still unknown. Parkinson's disease is a neurologic disorder caused by lesions in the extrapyramidial system and manifested by tremors, muscle rigidity, hypokinesis, dysphagia, and dysphonia. Multiple sclerosis, a progressive, degenerative disease involving demyelination of the nerve fibers, usually begins in young adulthood and is marked by periods of remission and exacerbation. Amyotrophic lateral sclerosis, a disease marked by progressive degeneration of the neurons, eventually results in atrophy of all the muscles; including those necessary for respiration. 
 
-a.  Parkinson’s disease 
+a.  Parkinson's disease 
 b.  Multiple sclerosis 
-c.  Amyotrophic lateral sclerosis (Lou Gerhig’s disease) 
-d.  Alzheimer’s disease 
+c.  Amyotrophic lateral sclerosis (Lou Gerhig's disease) 
+d.  Alzheimer's disease 
 
-48.  The nurse’s most important legal responsibility after a patient’s death in a hospital is: 
+48.  The nurse's most important legal responsibility after a patient's death in a hospital is: 
 Correct. c 
-Rationale.  The nurse is legally responsible for labeling the corpse when death occurs in the hospital. She may be involved in obtaining consent for an autopsy or notifying the coroner or medical examiner of a patient’s death; however, she is not legally responsible for performing these functions. The attending physician may need information from the nurse to complete the death certificate, but he is responsible for issuing it. 
+Rationale.  The nurse is legally responsible for labeling the corpse when death occurs in the hospital. She may be involved in obtaining consent for an autopsy or notifying the coroner or medical examiner of a patient's death; however, she is not legally responsible for performing these functions. The attending physician may need information from the nurse to complete the death certificate, but he is responsible for issuing it. 
 
 a.  Obtaining a consent of an autopsy 
 b.  Notifying the coroner or medical examiner 
@@ -438,16 +438,16 @@ d.  Ensuring that the attending physician issues the death certification
 
 49.  Before rigor mortis occurs, the nurse is responsible for: 
 Correct. b 
-Rationale.  The nurse must place a pillow under the decreased person’s head and shoulders to prevent blood from settling in the face and discoloring it. She is required to bathe only soiled areas of the body since the mortician will wash the entire body. Before wrapping the body in a shroud, the nurse places a clean gown on the body and closes the eyes and mouth. 
+Rationale.  The nurse must place a pillow under the decreased person's head and shoulders to prevent blood from settling in the face and discoloring it. She is required to bathe only soiled areas of the body since the mortician will wash the entire body. Before wrapping the body in a shroud, the nurse places a clean gown on the body and closes the eyes and mouth. 
 
 a.  Providing a complete bath and dressing change 
-b.  Placing one pillow under the body’s head and shoulders 
-c.  Removing the body’s clothing and wrapping the body in a shroud 
+b.  Placing one pillow under the body's head and shoulders 
+c.  Removing the body's clothing and wrapping the body in a shroud 
 d.  Allowing the body to relax normally 
 
 50.  When a patient in the terminal stages of lung cancer begins to exhibit loss of consciousness, a major nursing priority is to: 
 Correct. a 
-Rationale.  Ensuring the patient’s safety is the most essential action at this time. The other nursing actions may be necessary but are not a major priority. 
+Rationale.  Ensuring the patient's safety is the most essential action at this time. The other nursing actions may be necessary but are not a major priority. 
 
 a.  Protect the patient from injury 
 b.  Insert an airway 
