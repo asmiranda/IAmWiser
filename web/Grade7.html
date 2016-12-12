@@ -3,8 +3,10 @@
     <head>
         <link rel="stylesheet" href="css/w3.css">
         <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/default/zebra_dialog.css">
 
         <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/zebra_dialog.js"></script>
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/snap.svg.js"></script>
         <script type="text/javascript" src="js/topic/myappjs.js"></script>
@@ -79,11 +81,22 @@
             });
 
             $('.rcorners5').click(function() {
-                var subject = $("#selectSubject").val();
-                gotoDrill("Grade7", subject, this.innerText);
-                //gotoTopic("Grade7", subject, this.innerText);
+				var subject = $("#selectSubject").val();
+				var iText = this.innerText;
+				$.Zebra_Dialog('<strong>Please choose: </strong>', {
+					'type':     'question',
+					'title':    this.innerText,
+					'buttons':  ['Lecture Screen', 'Exam Screen'],
+					'onClose':  function(caption) {
+						if (caption == 'Lecture Screen') {
+							gotoTopic("Grade7", subject, iText);
+						}
+						else {
+							gotoDrill("Grade7", subject, iText);
+						}
+					}
+				});
             });
-
             changeSubject("Math");
         };
     </script>
