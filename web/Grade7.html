@@ -83,7 +83,7 @@
             $('.rcorners5').click(function() {
 				var subject = $("#selectSubject").val();
 				var iText = this.innerText;
-				$.Zebra_Dialog('<strong>Please choose: </strong>', {
+				$.Zebra_Dialog('<strong>Please choose: </strong><br>Exam Screen may take sometime to load initially.', {
 					'type':     'question',
 					'title':    this.innerText,
 					'buttons':  ['Lecture Screen', 'Exam Screen'],
@@ -92,7 +92,12 @@
 							gotoTopic("Grade7", subject, iText);
 						}
 						else {
-							gotoDrill("Grade7", subject, iText);
+							setTimeout(function() {
+								gotoDrill("Grade7", subject, iText);
+							}, 100);
+							$.Zebra_Dialog('<strong>Loading questionnaires please wait...</strong><br>This may take some time for initial loading.', {
+								'title':    'Please wait...'
+							});
 						}
 					}
 				});

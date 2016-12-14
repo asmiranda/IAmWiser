@@ -1,14 +1,31 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="css/w3.css">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/w3.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/jquery.jqplot.css" />
+        <link rel="stylesheet" type="text/css" href="css/default/zebra_dialog.css">
 
         <script type="text/javascript" src="js/jquery.js"></script>
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/snap.svg.js"></script>
         <script type="text/javascript" src="js/topic/myappjs.js"></script>
 
+		
+		<script type="text/javascript" src="js/chart/jquery.jqplot.js"></script>
+		<script type="text/javascript" src="js/chart/jqplot.barRenderer.js"></script>
+		<script type="text/javascript" src="js/chart/jqplot.pieRenderer.js"></script>
+
+		<script type="text/javascript" src="js/chart/jqplot.dateAxisRenderer.js"></script>
+		<script type="text/javascript" src="js/chart/jqplot.categoryAxisRenderer.js"></script>
+		<script type="text/javascript" src="js/chart/jqplot.cursor.js"></script>
+		<script type="text/javascript" src="js/chart/jqplot.highlighter.js"></script>
+		<script type="text/javascript" src="js/chart/jqplot.dragable.js"></script>
+		<script type="text/javascript" src="js/chart/jqplot.trendline.js"></script>
+
+        <script type="text/javascript" src="js/zebra_dialog.js"></script>
+
+		<script type="text/javascript" src="js/myprogresschart.js"></script>
         <style>
                 .rcorners5 {
                     border-radius: 15px 50px 30px;
@@ -34,13 +51,37 @@
             <div class="w3-col s4 w3-cyan w3-center rcorners5" topicCode="MIDWIFE-RSAP">Reproductive System Anatomy And Physiology</div>
         </div>
     </div>
+	<h3><i>My Progress Chart</i></h3>
+	<table style="width: 100%; font-size: 14px;" class="table table-condensed" border="1">
+		<tr>
+			<td>
+				<div id="lineChart" class="inline25" style="width: 98%; height: 300px;"
+					title="Latest Exam Scores"
+				/>
+			</td>			
+		</tr>
+	</table>
     <script>
-        window.onload = function() {
+		window.onload = function() {
             $('.rcorners5').click(function() {
                 var topicCode = $(this).attr("topicCode");
-                gotoDrill("Midwifery", topicCode, topicCode);
-                //gotoTopic("Midwifery", topicCode, topicCode);
+				setTimeout(function() {
+                    gotoDrill("Midwifery", topicCode, topicCode);
+                    //gotoTopic("Midwifery", topicCode, topicCode);
+				}, 100);
+				$.Zebra_Dialog('<strong>Loading questionnaires please wait...</strong><br>This may take some time for initial loading.', {
+					'title':    'Please wait...'
+				});
             });
+			
+			writeProgressChart("lineChart", 
+				"MIDWIFE-CHN", 
+				"MIDWIFE-FHC",
+				"MIDWIFE-OBG",
+				"MIDWIFE-PGD",
+				"MIDWIFE-PHC",
+				"MIDWIFE-RSAP"
+			);
         };
     </script>
 </body>
